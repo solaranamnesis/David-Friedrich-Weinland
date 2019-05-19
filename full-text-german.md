@@ -70,3 +70,14 @@ Die besten, erst nachträglich gefundenen, auch den inneren Bau zeigenden Exempl
 Dass diese _Phormiscus_ zu den Polycistinen gehören, scheint uns sicher. Die hohlen, theilweise durchlöcherten Kieselnadeln, besonders aber die Kugelformen, die nur bei frei im Wasser sich bewegenden Thieren denkbar ist, weist zunächst darauf hin, und nicht auf Schwämme, an die man sonst auch denken könnte. Jedenfalls aber bilden sie eine eigene Familie, die wir _Phormiscidae_ nennen wollen. - Crinoiden, wie Hahn früher vermuthete, sind es sicher nicht.
 
 ##### 2. Thyriscus. Nov. gen.  
+
+(θνρις = Fenster.)  
+
+Gleichfalls facettirte Kugeln, bestehend aus runden Kieselbälkchen, welche in der Art angeordnet sind, dass sie viereckige, nach innen sich verjüngende Trichter wie Fenster oder noch besser: Schiessscharten bilden. Die Bälkchen sind hohl und mit öfters deutlichen Löchelchen versehen. Gehört ohne Zweifel auch in die Familie der _Phormiscidae_.
+
+_Thyriscus formosus. N. sp._  
+
+(Habn: Taf. 30, Fig. 3.)  
+
+Durchmesser des ganzen, hier abgebildeten Bruchstücks 0,70 mm. Durchmesser eines ganzen Trichters 0,35 mm. Durchmesser der einzelnen Bälkchen 0,01 mm. Distanz der Löchelchen von einander 0,006 mm. Durchmesser der Löchelchen 0,001 mm. Vom Meteorfall von Knyahinya.
+
