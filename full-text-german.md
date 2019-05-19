@@ -26,3 +26,9 @@ Ein in dem letzten Jahre vorgenommenes, eingehendes Studium derselben hat uns nu
 
 3\. Weitaus die Mehrzahl der in den vorliegenden Meteoriten enthaltenen Gebilde lässt sich den Klassen der Polycistinen, der Schwämme und der Foraminiferen unterordnen, wenn auch die Typen andere sind als die irdischen.
 
+4\. Von Korallenformen konnten bis jetzt drei Gattungen genügend nachgewiesen werden, wovon eine in einem Stück, das so vollkommen erhalten ist und die feinste mikroskopische Structur so deutlich zeigt, wie man es bei irdischen Fossilien selten findet. Diese Korallen gehören mit Einer Ausnahme zu den ältesten Formen, die uns auf der Erde begegnen, zu den Favositen.
+
+5\. Von Crinoiden drei Formen, aber alle noch zweifelhaft.
+
+6\. Von Resten höherer Thiere, von Weichthieren, Gliederthieren oder gar Wirbelthieren haben wir bis jetzt keine Spur entdecken können.
+
