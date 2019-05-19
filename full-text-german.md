@@ -49,7 +49,9 @@ Wir wollen es nun versuchen, einige der auffallendsten Gattungen und Arten kurz 
 #### Gitterthierchen, Polycistina.  
 ##### Phormiscus. Nov. gen.  
 (_φορμισxος_ = Binsenkörbchen.)  
+
 Facettirte Kugeln, bestehend aus glashellen Kieselnadeln, die wie Binsenkörbchen in regelmässigen Winkeln übereinander gelegt sind. Die Nadeln sind hohl, oft deutlich mit Löchelchen in Längsreihen versehen. Hierher:  
+
 _Phormiscus vulgaris. N. sp._  
 (Abbildung: Hahn, Meteoriten, Taf. 29, Fig. 2.)  
 Durchmesser des Ganzen 0,18 mm. Durchmesser der Nadelbalken 0,05 mm. Vom Meteorfall von Knyahinya.
