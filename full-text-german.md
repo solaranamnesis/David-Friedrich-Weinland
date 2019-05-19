@@ -32,3 +32,8 @@ Ein in dem letzten Jahre vorgenommenes, eingehendes Studium derselben hat uns nu
 
 6\. Von Resten höherer Thiere, von Weichthieren, Gliederthieren oder gar Wirbelthieren haben wir bis jetzt keine Spur entdecken können.
 
+7\. Auch pflanzliche Reste konnten bis jetzt nicht sicher nachgewiesen werden. Doch begegnet man öfters Gewebfetzen, die wohl pflanzlicher Natur sein könnten.
+
+8\. Alle Lebewesen, deren Reste in den von uns untersuchten Meteoriten eingebettet sind und deren zoologische Deutung uns bis jetzt gelungen ist, haben im Wasser gelebt und zwar nach Analogie mit den entsprechenden irdischen Formen in einem Wasser, welches nie ganz frieren durfte.
+
+Dieser Umstand scheint uns die neuerdings vielfach angenommene Hypothese von Schiaparelli, dass die Meteoriten den Kometen oder deren Schweifen entstammen, wenigstens für die Chondrit-Meteoriten auszuschlieseen, sofern konstant flüssiges Wasser auf Kometen nicht anzunehmen ist. Oder sollten die Kometen selbst vielleicht theilweise aus Resten zertrümmerter Planeten bestehen? (Siehe auch unter 10.)
