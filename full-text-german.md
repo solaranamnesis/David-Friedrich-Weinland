@@ -46,3 +46,8 @@ Dieser Umstand scheint uns die neuerdings vielfach angenommene Hypothese von Sch
 
 Wir wollen es nun versuchen, einige der auffallendsten Gattungen und Arten kurz zu charakterisiren, indem wir uns eine ausführlichere Beschreibung mit Abbildungen, besonders auch der inneren Structurverhältnisse, zu welcher bereits viel Material vorliegt, vorbehalten.
 
+#### Gitterthierchen, Polycistina.  
+##### Phormiscus. Nov. gen.  
+###### (φορμισxος = Binsenkörbchen.)  
+
+Facettirte Kugeln, bestehend aus glashellen Kieselnadeln, die wie Binsenkörbchen in regelmässigen Winkeln übereinander gelegt sind. Die Nadeln sind hohl, oft deutlich mit Löchelchen in Längsreihen versehen. Hierher:  
