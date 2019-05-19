@@ -89,4 +89,18 @@ Wir begründen diese Gattung auf sehr charakteristische Structurstücke, die öf
 
 _Goniobrochus Häckelii. N. sp._  
 
-Diese schon von Hahn (siehe oben) abgebildete Form stammt von dem Meteorfall von Cabarras.
+Diese schon von Hahn (siehe oben) abgebildete Form stammt von dem Meteorfall von Cabarras. Das vorliegende Stück erscheint in dem Schliff fächerförmig ausgebreitet, misst in die Quere 0,5, die Höhe 0,4 mm. Die Dicke der Bälkchen beträgt 0,01, der Durchmesser einer Masche ebenso 0,01 mm. Das Ganze scheint eine runde Scheibe oder vielleicht auch einen Trichter gebildet zu haben. Wir nennen die Art zu Ehren unseres einstigen Studiengenossen, des berühmten Begründers unserer genaueren Kunde von der grossen Welt dieser kleinen Organismen.
+
+#### II. Schwämme und Foraminiferen
+
+##### Familie: _Uranidae_. Nob.  
+
+Ein sehr charakteristischer Meteoritentypus von niederen Thierformen, der sehr häufig in den verschiedensten Meteorfällen vorkommt und - wegen der von uns nachträglich aufgefundenen ausgezeichneten Durchschnitte bis jetzt am besten von allen Meteorformen - kaum die _Hahnia_ (s. unten) ausgenommen - studirt werden konnte. Derselbe lässt sich an keine der uns bekannten irdischen Thierformen genauer anschliessen. Ob Schwamm, ob Foraminifere, diese Frage wird schwer zu entscheiden sein, wie dies ja bekanntlich auch bei manchen fossilen irdischen Formen der Fall ist. Vielleicht haben wir es hier mit einer Mittelform zu thun.
+
+Es sind festsitzende, kissenförmige Stöcke mit poröser und fein lamellöser Rindenschicht und einem gröberen, gleichfalls lamellösen, Lakunen oder Kammern bildenden inneren Skelet.
+
+
+###### 1. Urania, Hahn (sensu strict.).
+
+Wir adoptiren in engerem Sinne den Gattungsnamen von Hahn, den derselbe schon in seinem Werke „Die Urzelle“, allerdings als Pflanzengattung, für eine sehr charakteristische Meteoritenform aufgestellt hat. Ich habe seitdem an einer Reihe von günstigen Durchschnitten diese interessanten, in den Meteoriten von Knyahinya besonders häufigen Formen studiren und zeichnen können, so dass ein Zweifel über ihre Thiernatur, die auch Hahn später in seinem Meteoritenwerk angenommen hat, nicht mehr bestehen kann.
+
