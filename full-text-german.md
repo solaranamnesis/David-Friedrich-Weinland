@@ -66,3 +66,7 @@ _Phormiscus grandis. N. sp._
 Feinmaschiger als die vorige Art. Die Nadeln kreuzen sich unter weit mehr Winkeln.
 
 Die besten, erst nachträglich gefundenen, auch den inneren Bau zeigenden Exemplare sind noch nicht abgebildet. Der Durchmesser eines solchen beträgt 3,2 mm. Es ist also ein grosses, mit blossem Auge recht wohl sichtbares Thierchen.
+
+Dass diese _Phormiscus_ zu den Polycistinen gehören, scheint uns sicher. Die hohlen, theilweise durchlöcherten Kieselnadeln, besonders aber die Kugelformen, die nur bei frei im Wasser sich bewegenden Thieren denkbar ist, weist zunächst darauf hin, und nicht auf Schwämme, an die man sonst auch denken könnte. Jedenfalls aber bilden sie eine eigene Familie, die wir _Phormiscidae_ nennen wollen. - Crinoiden, wie Hahn früher vermuthete, sind es sicher nicht.
+
+##### 2. Thyriscus. Nov. gen.  
