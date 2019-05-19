@@ -46,18 +46,23 @@ Dieser Umstand scheint uns die neuerdings vielfach angenommene Hypothese von Sch
 
 Wir wollen es nun versuchen, einige der auffallendsten Gattungen und Arten kurz zu charakterisiren, indem wir uns eine ausführlichere Beschreibung mit Abbildungen, besonders auch der inneren Structurverhältnisse, zu welcher bereits viel Material vorliegt, vorbehalten.
 
-#### Gitterthierchen, Polycistina.  
-##### Phormiscus. Nov. gen.  
+#### I. Gitterthierchen, Polycistina.  
+##### 1. Phormiscus. Nov. gen.  
+
 (_φορμισxος_ = Binsenkörbchen.)  
 
 Facettirte Kugeln, bestehend aus glashellen Kieselnadeln, die wie Binsenkörbchen in regelmässigen Winkeln übereinander gelegt sind. Die Nadeln sind hohl, oft deutlich mit Löchelchen in Längsreihen versehen. Hierher:  
 
 _Phormiscus vulgaris. N. sp._  
 (Abbildung: Hahn, Meteoriten, Taf. 29, Fig. 2.)  
+
 Durchmesser des Ganzen 0,18 mm. Durchmesser der Nadelbalken 0,05 mm. Vom Meteorfall von Knyahinya.
 
 Diese Phormiscusformen sind in Bruchstücken ausserordentlich häufig in den Meteoriten von Knyahinya. Es giebt verschiedene Arten, die häufigste aber ist die obengenannte, welche sofort an den dicken, glashellen, in spitzen Winkeln übereinander gekreuzten Nadelbündeln zu erkennen ist.
 
 _Phormiscus grandis. N. sp._  
 (Abbildung: Hahn, Meteoriten: Taf. 29, Fig. 6.)  
+
 Feinmaschiger als die vorige Art. Die Nadeln kreuzen sich unter weit mehr Winkeln.
+
+Die besten, erst nachträglich gefundenen, auch den inneren Bau zeigenden Exemplare sind noch nicht abgebildet. Der Durchmesser eines solchen beträgt 3,2 mm. Es ist also ein grosses, mit blossem Auge recht wohl sichtbares Thierchen.
