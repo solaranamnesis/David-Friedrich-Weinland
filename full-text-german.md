@@ -71,13 +71,18 @@ Dass diese _Phormiscus_ zu den Polycistinen gehören, scheint uns sicher. Die ho
 
 ##### 2. Thyriscus. Nov. gen.  
 
-(θνρις = Fenster.)  
+(θυρις = Fenster.)  
 
 Gleichfalls facettirte Kugeln, bestehend aus runden Kieselbälkchen, welche in der Art angeordnet sind, dass sie viereckige, nach innen sich verjüngende Trichter wie Fenster oder noch besser: Schiessscharten bilden. Die Bälkchen sind hohl und mit öfters deutlichen Löchelchen versehen. Gehört ohne Zweifel auch in die Familie der _Phormiscidae_.
 
 _Thyriscus formosus. N. sp._  
 
-(Habn: Taf. 30, Fig. 3.)  
+(Hahn: Taf. 30, Fig. 3.)  
 
 Durchmesser des ganzen, hier abgebildeten Bruchstücks 0,70 mm. Durchmesser eines ganzen Trichters 0,35 mm. Durchmesser der einzelnen Bälkchen 0,01 mm. Distanz der Löchelchen von einander 0,006 mm. Durchmesser der Löchelchen 0,001 mm. Vom Meteorfall von Knyahinya.
 
+##### 3. Goniobrochus. Nov. gen.  
+
+(γωνια = Winkel, βρὁχος = Masche.)  
+
+Wir begründen diese Gattung auf sehr charakteristische Structurstücke, die öfters in unseren Schliffen vorkommen und von denen Hahn in seinen Meteoriten, Taf. 13, Fig. 6, eines abgebildet hat.
