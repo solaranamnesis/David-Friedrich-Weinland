@@ -71,7 +71,7 @@ Dass diese _Phormiscus_ zu den Polycistinen gehören, scheint uns sicher. Die ho
 
 ### 2. Thyriscus. Nov. gen.  
 
-(θυρις = Fenster.)  
+(_θυρις_ = Fenster.)  
 
 Gleichfalls facettirte Kugeln, bestehend aus runden Kieselbälkchen, welche in der Art angeordnet sind, dass sie viereckige, nach innen sich verjüngende Trichter wie Fenster oder noch besser: Schiessscharten bilden. Die Bälkchen sind hohl und mit öfters deutlichen Löchelchen versehen. Gehört ohne Zweifel auch in die Familie der _Phormiscidae_.
 
@@ -83,7 +83,7 @@ Durchmesser des ganzen, hier abgebildeten Bruchstücks 0,70 mm. Durchmesser eine
 
 ### 3. Goniobrochus. Nov. gen.  
 
-(γωνια = Winkel, βρὁχος = Masche.)  
+(_γωνια_ = Winkel, _βρὁχος_ = Masche.)  
 
 Wir begründen diese Gattung auf sehr charakteristische Structurstücke, die öfters in unseren Schliffen vorkommen und von denen Hahn in seinen Meteoriten, Taf. 13, Fig. 6, eines abgebildet hat. Es ist ein fest zusammengefugtes, netzartiges Kieselgewebe aus innig verwachsenen, eine zusammenhängende Scheibe darstellenden Kieselbälkchen gebildet, die sich unter Winkeln kreuzen und fast gleichseitige, viereckige Maschen bilden. Da, wo sich die Leisten kreuzen, enstehen Buckeln wie Knöpfe eines Netzes. - Wir können wohl auch diese Gebilde am ehesten bei den Polycistinen unterbringen, unter denen Häckel ähnliche Skeletformen in seinem schönen Werke: „Die Radiolarien“ Taf. 29 abgebildet hat. Besonders kämen in Betracht die Gattungen _Stylodictya_ und _Stylospira_, die ganz ähnliche geknöpfte Netzformen in ihrem inneren Skelet aufweisen. Doch könnte man auch an Schwämme, z. B. an manche Scyphia denken; oder an Bryozoen?
 
@@ -106,4 +106,10 @@ Wir adoptiren in engerem Sinne den Gattungsnamen von Hahn, den derselbe schon in
 
 ##### _Urania Salve. N. sp._
 
-So wollen wir sie nennen, denn es war der erste Gruss einer organischen Form aus einer anderen Welt, das erste Wesen, das Hahn als ein organisches erkannte, wenn auch zuerst als eine Pflanze beschrieb.
+So wollen wir sie nennen, denn es war der erste Gruss einer organischen Form aus einer anderen Welt, das erste Wesen, das Hahn als ein organisches erkannte, wenn auch zuerst als eine Pflanze beschrieb. Diese Art erscheint in grossen und kleinen, ganzen Individuen und einer Menge von Bruchstücken, sehr häufig in den Meteoriten, besonders in denen von Knyahinya. Durchschnittliche Grösse 1 mm. Dicke der aussen stets smalteblauen Rindenschicht 0,04 mm. Hahn hat sie vielfach abgebildet. Die grosse Figur von Tafel 2, alle Figuren auf Tafel 3, sodann Fig. 1, 4 und 6 auf Tafel 4, 1 und 4 auf Tafel 5 gehören hierher. Diese Art zeigt oft sehr eigenthümliche, parallele oder radiär laufende, tiefe Längsfalten auf der Oberfläche, so dass man an eine gewisse Elasticität der Rindenschicht im Leben denken möchte.
+
+#### 2. Pectiscus. Nov. gen.  
+
+(_πηxτὁς_ = gekämmt.)  
+
+Lappige, wahrscheinlich mit breiter Basis festsitzende Stöcke.
