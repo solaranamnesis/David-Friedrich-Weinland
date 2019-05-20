@@ -112,4 +112,21 @@ So wollen wir sie nennen, denn es war der erste Gruss einer organischen Form aus
 
 (_πηxτὁς_ = gekämmt.)  
 
-Lappige, wahrscheinlich mit breiter Basis festsitzende Stöcke.
+Lappige, wahrscheinlich mit breiter Basis festsitzende Stöcke. Gehören zu derselben Familie wie _Urania_, zu den _Uranidae_. Aber die Rindenschicht ist hier eine andere, gröbere, wie gekämmt, d. h. in stärkeren, mehr oder weniger radiär ausstrahlenden Rippen (Lamellen) gebildet, die oft an die Septa gewisser Korallenformen, z. B. der _Fungia_, erinnern. Der innere Bau aber, von dem wir mehrere ganz vortreffliche Durchschnitte vor uns haben (siehe Fig. 1 [80mal vergrössert]), besteht ähnlich wie bei _Urania_ aus einem lamellösen, Kammern bildenden Gewebe, das nichts mit der Korallenstructur zu thun hat. Es giebt eine Reihe von Arten, zum Theil offenbar sehr grosse, von welchen letzteren aber meist nur das grobe, innere, gekammerte Maschengewebe erhalten ist.
+
+##### _Pectiscus Zittelii. N. sp._  
+
+Die häufigste Art. Erinnert der äusserlichen Erscheinung nach durch die radiären Strahlen und oft auch durch die Gesammtkonturen häufig an die bekannten Kammmuscheln (Pecten). Doch halten die Lappen dieser Stöcke durchaus keine regelmässige Gesammtform ein. Immer sind sie an den Rändern abgerundet, oft ist der Rand durch seichte Kerben in kleinere Lappen getheilt. Durchmesser der Stöcke von 1 bis 3 mm. Die feinen Rippchen auf der grauen Rinde sind duchschnittlich 0,04 mm von einander entfernt.
+
+Sehr häufig in den Meteoriten, besonders in denen von Knyahinya, auch von Siena. Auch das grosse Gebilde, an das unsere _Hahnia_ (siehe unten) wie angeklebt erscheint, ist ein solcher _Pectiscus_.
+
+In Fig. 1 [80mal vergrössert] haben wir ein kleines Exemplar abgebildet. Es stammt von dem Meteorfall von Jowa und liefert zugleich ein deutliches Bild der inneren Structur. Oben und unten ist die hier grau gefärbte äussere Rinde des Stockes erhalten. In der Mitte hat der Schliff dieselbe rasirt und zwar ungleich auf den beiden Seiten; rechts tiefer, daher man dort die vom Boden hereinragenden Lamellen noch ziemlich parallel liegen sieht. In der linken Hälfte dagegen ist der Schliff gerade durch die innerste, unregelmässigere, lakunöse Mittellage des Lappens durchgegangen. Das ganze Stöckchen ist 1,6 mm lang, 1,2 mm breit. - Einen ähnlichen, ebenso instructiven Durchschnitt haben wir von Knyahinya.
+
+Wir erlauben uns, die Art nach Herrn Professor Zittel, dem gründlichen Erforscher der fossilen Schwämme, zu benennen.
+
+##### _Pectiscus rudis. N. sp._  
+
+Eine kleinere Form mit noch gröberen Leisten.
+
+#### 2. Callaion. Nov. gen.  
+
