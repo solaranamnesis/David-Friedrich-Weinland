@@ -146,8 +146,17 @@ Der Schliff stammt vom Meteorfall von Jowa (Febr. 1847). Leider ist nur ein Exem
 
 Wir erlauben uns, diese Art zu benennen zu Ehren von Fräulein Pauline Schloz, der verdienten Schwägerin des Herrn Dr. Hahn, welche denselben bei der schwierigen Herstellung der vielen Meteoritenschliffe mit aufopferndster Hingebung unterstützt hat.
 
-#### 3. Glossiscus. Nov. gen.  
+#### 4. Glossiscus. Nov. gen.  
 
 (γλῶσσα = Zunge.)  
 
-Abgerundete, zungenähnliche Lappen bildende Stöcke.
+Abgerundete, zungenähnliche Lappen bildende Stöcke. Die Oberhaut aus sechseckigen Tafeln zusammengesetzt. Poren in vertieften Furchen und rundlichen, vertieften Nestern; keine Spur von Strahlenrippen wie bei den Uraniden. Ohne Zweifel zu den Schwämmen gehörig.
+
+##### _Glossiscus Schmidtii. N. sp._  
+
+Von Hahn noch nicht abgebildet. An dem vorliegenden, auffallend milchweiss gefärbten Stöckchen erscheinen die Poren und Porennester schwarz getüpfelt, indem sich schwarze, organische Masse in den Poren festgesetzt hat, wie dies auch sonst sehr häufig in diesen Meteoritenversteinerungen vorkommt. Die ganze Länge des Lappens beträgt 1,7 mm, der Querdurchmesser 0,8, Durchmesser der Porennester 0,03 bis 0,05, der Porenfarchen 0,02 bis 0,04 mm, der sechseckigen Täfelchen 0,02 mm.
+
+In einem Schliff von Knyahinya.
+
+Wir erlanben uns die Art zu Ehren des berühmten Erforschers der lebenden Schwämme, Herrn Prof. Oscar Schmidt in Strassburg, zu benennen.
+
