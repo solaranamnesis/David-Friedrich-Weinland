@@ -128,9 +128,26 @@ Wir erlauben uns, die Art nach Herrn Professor Zittel, dem gründlichen Erforsch
 
 Eine kleinere Form mit noch gröberen Leisten.
 
-#### 2. Callaion. Nov. gen.  
+#### 3. Callaion. Nov. gen.  
 
 (xάλλαιον = Hahnenkamm.)  
 
 Eines der auffallendsten und schönsten Gebilde in unserer Meteoritenfauna. Eine feine, wie manche Hahnenkämme gebuchtete Form, die in ihrem auffallenden Habitus an manche Korallen (Fungia, Herpetolithus) erinnert, aber nach dem mikroskopischen Bau ihrer Rindenschichte doch wohl auch zu den Uraniden gehört. Die dünne, äusserste Rindenschicht ist eben so zart bläulichgrau, sammetartig, dabei aufs Feinste gestreift, wie bei _Urania_. Auf dem Durchschnitt der erhabenen Kämme, die die Buchten des Stockes von einander scheiden, und ebenso an einem feinen Längsschliff erkennt man das nächsttiefere, unter der grauen Rinde liegende Gewebe als aus lauter parallelen oder etwas strahlig auseinander laufenden, sehr regelmässigen Lamellen zusammengesetzt, die durch schiefe Brücken mit einander verbunden sind Der innerste Bau, wie wir ihn von _Urania_ und _Pectiscus_ kennen, tritt leider an dem besterhaltenen Unicum nirgends zu Tage, da der Schliff nirgends tief genug eingedrungen. - Wir wurden bei dieser Form aufs Lebhafteste an den Querschliff von _Carpenteria Rhaphidodendron_, Moebius, einer Foraminifere von Mauritius, erinnert, den derselbe in seiner schönen Abhandlung über das Eozoon Canadense (Palaeontogr. XXV, Taf. 40 Fig. 60) gegeben.
 
+##### _Callaion Paulinianum. N. sp._  
+
+Ist in Hahn's Meteoritenatlas noch nicht abgebildet.
+
+Grosser Durchmesser des Stöckchens 2,8 mm, der kleinere 2 mm.
+
+Derselbe stellt sich schon dem blossen Auge als ein graues, marmorirtes Fleckchen dar. Die parallelen Lamellen, die als zarte Streifen auf der bläulichen Oberfläche erscheinen, sind 0,002 mm von einander entfernt. Die Lamellen der nächsten, gröberen Schicht 0,01 mm. Die einzelnen Buchten innerhalb des Stockes erscheinen bald als längliche Thalrinnen von 0,06 mm Durchmesser, bald als rundliche, oder mehr oder weniger eckige, kraterartige Vertiefungen von 0,05 bis bis 0,3 mm Durchmesser. Zwischen diesen Tiefen verlaufen Kämme ganz wie bei _Manicina areolata_ und vielen anderen Korallen, aber von wechselnder Breite, 0,05 bis 0,2 mm Durchmesser.
+
+Der Schliff stammt vom Meteorfall von Jowa (Febr. 1847). Leider ist nur ein Exemplar gut erhalten, doch begegneten uns auch in den Meteoriten von Knyahinya öfters Rudera dieser Art.
+
+Wir erlauben uns, diese Art zu benennen zu Ehren von Fräulein Pauline Schloz, der verdienten Schwägerin des Herrn Dr. Hahn, welche denselben bei der schwierigen Herstellung der vielen Meteoritenschliffe mit aufopferndster Hingebung unterstützt hat.
+
+#### 3. Glossiscus. Nov. gen.  
+
+(γλῶσσα = Zunge.)  
+
+Abgerundete, zungenähnliche Lappen bildende Stöcke.
