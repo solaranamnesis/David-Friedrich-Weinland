@@ -192,3 +192,12 @@ Bei dieser zweiten Art sind die genannten Maschenräume konstant sechseckig, sie
 
 Stammt von Knyahinya. Auch in einem Präparat von Cabarras findet sich ein sehr ähnliches. In einem anderen Präparat von Knyahinya erscheinen die grossen, sechseckigen Maschen regelmässig in zwei Formen, in grossen von 0,26 mm und in kleineren von 0,4 bis 0,3 mm Durchmesser.
 
+#### 7. Dicheliscus. Nov. gen.  
+
+(θιχηλος = mit gespaltenen Klauen.)  
+
+Eine auffallende und charakteristische Form, bestehend aus einer zusammenhängenden Traube oder Scheibe von rundlichen Blasen. Der mehr oder weniger stark eingedrungene Einschliff in dieselben gestattet bei manchen eine deutliche Einsicht in das hohle Innere. Man sieht dann ein senkrechtes Diaphragma mitten durch die Blase gehen. Diese Scheidenwand ist immer an der einen Seite dicker als an der anderen; sie entspringt mit breiter Basis von dem Ende der herzförmigen Blase und geht lamellenartig sich verdünnend bis zum anderen Ende. Eine solche angeschliffene Blase mit ihrem Diaphragma gibt etwa das Bild eines zweigespaltenen Hufs, daher unser Name: Dicheliscus. Dass die Blasen unter sich kommuniziren, scheint aus mehreren Stellen des Präparats deutlich, wie wir solche später abbilden werden.
+
+Wir möchten bis auf Weiteres diese Gebilde am Ersten zu den Foraminiferen stellen.
+
+##### _Dicheliscus uva. N. sp._  
