@@ -160,3 +160,15 @@ In einem Schliff von Knyahinya.
 
 Wir erlanben uns die Art zu Ehren des berühmten Erforschers der lebenden Schwämme, Herrn Prof. Oscar Schmidt in Strassburg, zu benennen.
 
+#### 5. Carydion. Nov. gen.  
+
+(xάρυον = Nuss.)  
+
+Glashell durchsichtige, wie die meisten dieser Organismen, in Kieselerde versteinerte Gebilde, die auf dem Durchschnitt ganz einer Nuss mit dicker Schale und Kammern im Inneren gleichen. Die Kammern sind durch ein dickes Balkenwerk hervorgebracht, die dicke Schale ist sehr porös.
+
+Diese von Hahn nicht abgebildeten Formen sind ziemlich häufig in den Meteoriten; wahrscheinlich sind es schwammähnliche Gebilde. Wir wollen nur eine Art beschreiben, deren Bild wir später geben werden.
+
+##### _Carydion solidum. N. sp._  
+
+Durchmesser des Ganzen 0,32 mm. Die Löchelchen, d. h. Kanälchen in der Schale haben 0,01 bis 0,005 mm Durchmesser. Die Dicke der das Innengerüste bildenden Balken beträgt 0,02 bis 0,05 mm. Die durch die Balken enstehenden Maschen erscheinen drei- oder viereckig. Die Dicke der Rinde oder Schale ist 0,09 mm; die äussere Kontur des Ganzen rundlich eckig; die Hohlräume sind meist mit schwarzer, organischer Masse ausgefüllt. Auch die Poren der Rinde sind schwarz tingirt. Die feinere Strucktur der Rinde zeigt bei starker Vergrösserung rundliche Zellen. - In einem Schliff von dem Meteorfall von Cabarras.
+
