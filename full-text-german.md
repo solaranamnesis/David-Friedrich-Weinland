@@ -180,3 +180,15 @@ Sehr häufig in den Meteoriten, besonders in denen von Knyahinya, finden sich zi
 
 Wir können dieses Gebilde kaum in einer anderen, unserer bekannten Thiergruppen unterbringen, als etwa in der der Schwämme, aber auch hier würde es einen ganz neuen Typus begründen. - Keine dieser Formen ist von Hahn abgebildet.
 
+##### _Brochosphaera grandis. N. sp._  
+
+So wollen wir jene Art nennen, von der das bis jetzt besterhaltene Stück, jene grosse Halbkugel, vorliegt. Der Durchmesser der ganzen Kugel beträgt 3,20 mm. Der Durchmesser der Maschen im Inneren 0,2 bis 0,4 mm. Der Durchmesser der oft länglichen, oft aber auch ziemlich gleichseitigen, sechseckigen Zellen oder Plättchen, die das Ganze zusammensetzen, beträgt 0,03 bis 0,05 mm. Die durch die dicken Fäden gebildeten rundlichen Maschenräume sind in dem vorliegenden Petrefakt mit einem durchsichtig glasigen, vielfach mit feinen Risslinien durchsetzten Silikat ausgefüllt.
+
+Stammt von dem Fall von Knyahinya.
+
+##### _Brochosphaera hexagonalis. N. sp._  
+
+Bei dieser zweiten Art sind die genannten Maschenräume konstant sechseckig, sie liegen in dem Netze wie grosse Krystalle. Ein Stück dieser Art, von dem auch die äusseren Konturen ziemlich gut erhalten, misst im Durchmesser 1,20 mm. Die mit Silikat ausgefüllten sechseckigen, selten fünfeckigen, krystallähnlichen Maschen messen 0,2 mm; die Zellen oder Plättchen, die das Netzwerk zusammensetzen, 0,03 bis 0,04 mm.
+
+Stammt von Knyahinya. Auch in einem Präparat von Cabarras findet sich ein sehr ähnliches. In einem anderen Präparat von Knyahinya erscheinen die grossen, sechseckigen Maschen regelmässig in zwei Formen, in grossen von 0,26 mm und in kleineren von 0,4 bis 0,3 mm Durchmesser.
+
