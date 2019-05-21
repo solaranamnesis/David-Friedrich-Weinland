@@ -201,3 +201,11 @@ Eine auffallende und charakteristische Form, bestehend aus einer zusammenhängen
 Wir möchten bis auf Weiteres diese Gebilde am Ersten zu den Foraminiferen stellen.
 
 ##### _Dicheliscus uva. N. sp._  
+
+Ist von Hahn noch nicht abgebildet. Der Durchmesser des ganzen Stocks beträgt 1,2 mm. Länge der grössten, angeschnittenen Blase 0,15 mm. Dicke der Scheidewand 0,01. Die Blasen in dem vorliegenden Präparate sind von verschiedener Grösse und alle Uebergänge des Anschliffs werden daran deutlich.
+
+Vom Meteorfall von Knyahinya.
+
+Weitere Formen:
+
+Kleine Bruchstückchen von regelmässig gewundenen Gebilden mit polythalamienartigen Kammern, die vielleicht zu diesen Rhizopoden gehören, sind uns bei der Durchsicht der Meteorschliffe hin und wieder begegnet.
