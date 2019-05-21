@@ -172,3 +172,11 @@ Diese von Hahn nicht abgebildeten Formen sind ziemlich häufig in den Meteoriten
 
 Durchmesser des Ganzen 0,32 mm. Die Löchelchen, d. h. Kanälchen in der Schale haben 0,01 bis 0,005 mm Durchmesser. Die Dicke der das Innengerüste bildenden Balken beträgt 0,02 bis 0,05 mm. Die durch die Balken enstehenden Maschen erscheinen drei- oder viereckig. Die Dicke der Rinde oder Schale ist 0,09 mm; die äussere Kontur des Ganzen rundlich eckig; die Hohlräume sind meist mit schwarzer, organischer Masse ausgefüllt. Auch die Poren der Rinde sind schwarz tingirt. Die feinere Strucktur der Rinde zeigt bei starker Vergrösserung rundliche Zellen. - In einem Schliff von dem Meteorfall von Cabarras.
 
+#### 6. Brochosphaera. Nov. gen.  
+
+(βρόχος = Masche, und σφαῖρα = Kugel.)  
+
+Sehr häufig in den Meteoriten, besonders in denen von Knyahinya, finden sich ziemlich ausgedehnte, grossmaschige Netze, deren breite Faden aus mehr oder weniger deutlichen, meist sechseckigen Zellen zusammengesetzt sind. Den Fäden entlang hängen häufig schwarze Partikelchen verkohlter, organischer Substanz an. In der Regel sind diese Netze nur in Fetzen erhalten und es war lange unmöglich, eine Vorstellung von einem Ganzen zu bekommen, endlich aber begegnete mir in einem Knyahinyaschliff ein Gebilde, das einige Aufklärung zu geben scheint. Es ist dies eine grosse, mit blossem Auge schon leicht sichtbare, angeschliffene Halbkugel, deren äussere Konturen im Wesentlichen erhalten sind und deren Inneres nun eben auf's Schönste ein solches Maschenwerk, wie wir es oben beschrieben, enthält. Der ganze Rand der Halbkugel, soweit er von dem Schliff nicht getroffen worden, besteht aus lauter ziemlich gleich grossen, sechseckigen Zellen oder Plättchen. Der innere Raum der Halbkugel, der durch den Schliff blossgelegt worden, ist durchzogen von einem vielmaschigen Netz, dessen Fäden aus eben solchen Zellen bestehen, wie jene äusseren.
+
+Wir können dieses Gebilde kaum in einer anderen, unserer bekannten Thiergruppen unterbringen, als etwa in der der Schwämme, aber auch hier würde es einen ganz neuen Typus begründen. - Keine dieser Formen ist von Hahn abgebildet.
+
