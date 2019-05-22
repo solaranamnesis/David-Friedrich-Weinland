@@ -208,4 +208,13 @@ Vom Meteorfall von Knyahinya.
 
 Weitere Formen:
 
-Kleine Bruchstückchen von regelmässig gewundenen Gebilden mit polythalamienartigen Kammern, die vielleicht zu diesen Rhizopoden gehören, sind uns bei der Durchsicht der Meteorschliffe hin und wieder begegnet.
+Kleine Bruchstückchen von regelmässig gewundenen Gebilden mit polythalamienartigen Kammern, die vielleicht zu diesen Rhizopoden gehören, sind uns bei der Durchsicht der Meteorschliffe hin und wieder begegnet. Aber ihre Erhaltung ist meist keine günstige. Ein sehr hübsches solches Stückchen, wie ein kleiner Nautilus, steckt in einem Meteoritenschliff von Cabarras. Der ganze Durchmesser des Schälchens wäre etwa 0,5 mm, der Kammern 0,05 bis 0,1 mm. Doch bedürfen diese Formen weiterer Prüfung, ehe wir sie festzustellen wagen.
+
+## II. Korallen.  
+
+### 1. Hahnia. Nov. gen.
+
+Dies ist die Form, die mich nach den stärksten Zweifeln zuerst dazu bestimmte, ein genaueres, zoologisches Studium der von Hahn entdeckten Gebilde vorzunehmen. Sie allein wäre auch in der That schon entscheidend. Freilich genügen auch hier die photographischen Bilder Hahn's in seinem Meteoritenwerk Taf. 1, 5 und Taf. 10 Fig. 3 u. 4 bei weitem nicht. Eine gelbe Eisenfärbung, die auf dem Präparate liegt, verursachte sehr störende, schwarze Schatten und überhaupt ist die mikroskopische Photographie noch nicht so weit gelangt, die Bilder mit der Schärfe wiederzugeben, wie sie sich unserem Auge darstellen. So schätzenswerth die photographische Abbildung für grössere Formen ist, wie die schönen Korallenwerke von Dr. Klunzinger und Rominger beweisen, so wird doch bis auf Weiteres für die mikroskopische Darstellung die mit vollem Verständniss zeichnende Hand der Forschers selbst durch jene mechanische Darstellung noch nicht, vielleicht niemals ersetzt. Unsere _Hahnia_, Fig. 2, ist leider bis jetzt ein Unicum geblieben. Der betreffende Schliff gehört zum Meteorfall von Knyahinya. Er ist einer der glücklichsten und enthält ausserdem noch sehr gute _Urania-_, _Pectiscus-_ und _Phormiscus-_ Reste.
+
+
+
