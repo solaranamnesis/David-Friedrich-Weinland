@@ -229,3 +229,5 @@ Hahn's Abbildung Taf. 1 f. 5 und Taf. 10 f. 4 ist leider durch die gelbe Färbun
 ### 2. Calamiscus. Nov. gen.  
 
 (xαλαμίσxς = Röhrchen.)  
+
+Favositenartige Polypenstöcke, bestehend aus regelmässig parallel nebeneinander oder auch etwas radiär verlaufenden, meist glashell durchsichtigen Röhren ohne Längsleisten (Septa) im Innern, aber mehr oder weniger regelmässig durch Querscheidewände oder Böden (Tabulae) in Etagen getheilt und oft sehr regelmässig mit feinen Löchelchen, die die Gefässcommunication zwischen den benachbarten Röhren vermitteln, ausgestattet.
