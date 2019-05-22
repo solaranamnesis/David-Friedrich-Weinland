@@ -222,3 +222,10 @@ Die Gattung gehört wahrscheinlich zu den _Favositidae_, einer Korallenfamilie, 
 
 Durchmesser des ganzen Stöckchens 0,90 mm, also eben noch mit dem blossen Auge als eine kleine Linse im Schliff zu erkennen. Durchmesser der einzelnen Polypenkelche 0,04 bis 0,1 mm. Durchmesser der gelben Zwischenstrassen, des Cönenchyms, 0,008 mm. An den Ecken schwillt dasselbe, wie häufig bei den Favositen, etwas stärker an. Die frappante Aehnlichkeit dieses Stöckchens mit _Favosites polymorphus_ aus dem Devon ist schon Prof. Quenstedt aufgefallen, als ihm Dr. Hahn das Object zeigte. Noch mehr ist es mit _Favosites bimuratus_ aus dem Devon von Bensberg zu vergleichen, wo die Polypenwände und das Cönenchym ausserordentlich ähnlich sich darstellen, freilich immer mit Ausnahme der Grössenverhältnisse. Denn bei _Favosites bimuratus_ messen die Kelche immer noch ein halb bis 1 mm.
 
+Die einzelnen Polypenkelche bei unserer _Hahnia_ sind mit einer schwarzgrauen Masse gefüllt, die Wände erscheinen grauweiss, das Cönenchym gelb. Durch einen glücklichen Zufall wurde dieser Korallenstock gerade von oben getroffen. In der Mitte des Bildes erscheinen die Kelche fast intact; rings am Rande herum, besonders auf der linken Seite, sind sie etwas verschliffen, so dass man dort für die Structurerkenntniss sehr werthvolle Halblängsschliffe durch die Polypenröhren erhält und den Mangel von Querscheidenwänden, sowie auch von Gefässlöchelchen (Sprossenkanälen) constatiren kann.
+
+Hahn's Abbildung Taf. 1 f. 5 und Taf. 10 f. 4 ist leider durch die gelbe Färbung des Präparats, die in der Photographie schwarz kommt, beeinträchtigt.
+
+### 2. Calamiscus. Nov. gen.  
+
+(xαλαμίσxς = Röhrchen.)  
