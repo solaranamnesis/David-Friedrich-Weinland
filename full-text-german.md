@@ -252,4 +252,14 @@ Das genannte Stöckchen, am Rande überall abgebrochen, hat, soweit erhalten, ei
 
 ## IV. Crinoidea.  
 
-Unser verehrter Freund, Dr. Hahn, hat in seinem Meteoritenwerke, Taf. 16 - 30, eine grössere Anzahl von Formen vorläufig zu dieser niedersten Klasse der Echinodermen stellen zu müssen geglaubt.
+Unser verehrter Freund, Dr. Hahn, hat in seinem Meteoritenwerke, Taf. 16 - 30, eine grössere Anzahl von Formen vorläufig zu dieser niedersten Klasse der Echinodermen stellen zu müssen geglaubt. Wir haben nach genauerem Studium ihrer Organisation, soweit diese zu entziffern, eine Reihe derselben den Polycistinen und Schwämmen, beziehungsweise Foraminiferen verwandter gefunden. Doch bleibt eine Anzahl Formen übrig, die wir vorläufig der obigen Thierklasse zuzählen wollen, da sie ohne Zwang keinem anderen uns bekannten Thiertypus anzureihen sind und immerhin gewisse Structurmerkmale mit den Crinoiden gemein haben.
+
+### 1. Eulophiscus. Nov. gen.  
+
+(εὔλοφος, mit schönem Busch.)  
+
+Ein Büschel fächerförmig von einem Mittelpunkt ausstrahlender, im Leben ohne Zweifel frei flottirender, unten, nahe dem Ursprung ein- oder zweimal gegabelter, weiterhin aber nicht mehr verzweigter, ziemlich gleich dicker Arme.
+
+#### _Eulophiscus Quenstedtii. N. sp.  
+
+Wir beziehen hierher in erster Linie das hübsche Bild, das Hahn als Titel auf den Umschlag seines Meteoritenwerkes gewählt und kleiner auf Taf. 22 Fig. 3 abgebildet hat. Auch dieses Object gewährt aber unter dem Mikroskop ein viel deutlicheres Bild, als die Photographie leistete.
