@@ -286,3 +286,10 @@ Stammt vom Meteorfall von Knyahinya.
 
 Ein sehr hübsches und deutliches, in dem photographischen Bilde aber weniger gelungenes Objekt. Aus einer von vielen kleinen, eckigen Plättchen gebildeten Basis entspringt eine Quaste von zunächst scheinbar ungegliederten, runden, stabförmigen, weiter oben durch deutliche Gliederung ausgezeichneten Armen. Die Gliederung derselben beginnt in dem Objekte bei einer sehr markirten Knickung der Arme. Diese haben, wie aus dem vorliegenden Petrefakt sicher hervorgeht, frei durch und über einander flottirt. Die einzelnen Arme sind rund, ein innerer Hohlraum ist nicht sichtbar, daher es wohl später von der Gattung Euplocamus wird getrennt werden müssen. Der Durchmesser des Ganzen beträgt 1,60 mm. Der Durchmesser der Arme unter dem Knie 0,08 mm. Nach oben verjüngen sie sich etwas, aber wenig. Der Durchmesser der eckigen Plättchen der Basis ist 0,03 bis 0,04 mm. Die Farbe des Ganzen ist gelblich, schön metallisch glänzend. - Es steckt in einem Schliff von dem Meteorfall von Knyahinya.
 
+### 3. Crobyliscus. Nov. gen.  
+
+(xρὠβυλος = Zopf.)  
+
+An einen deutlich aus vieleckigen, meist sechseckigen Plättchen gebildeten Hohlraum schliessen sich oben Anzahl cylindrischer, zopfförmiger, sich nach dem Ende zu verjüngender, massiver (nicht hohler), aus eckigen Scheibchen gebildeter, armförmiger Anhänge an. Ist es ein Crinoid und ist jener Hohlraum der Kelch desselben? Das Fragment, auf das wir diese Gattung begründen, ist bis jetzt ein Unikum, dessen Bild wir in unser grösseren Abhandlung bringen werden.
+
+#### _Crobyliscus Fraasii_ N. Sp.  
