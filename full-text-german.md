@@ -293,3 +293,19 @@ Ein sehr hübsches und deutliches, in dem photographischen Bilde aber weniger ge
 An einen deutlich aus vieleckigen, meist sechseckigen Plättchen gebildeten Hohlraum schliessen sich oben Anzahl cylindrischer, zopfförmiger, sich nach dem Ende zu verjüngender, massiver (nicht hohler), aus eckigen Scheibchen gebildeter, armförmiger Anhänge an. Ist es ein Crinoid und ist jener Hohlraum der Kelch desselben? Das Fragment, auf das wir diese Gattung begründen, ist bis jetzt ein Unikum, dessen Bild wir in unser grösseren Abhandlung bringen werden.
 
 #### _Crobyliscus Fraasii_ N. Sp.  
+
+Längsdurchmesser des Ganzen, soweit erhalten, 0,74 mm. Querdurchmesser des Kelchs 0,45 mm. Länge der Arme, soweit erhalten, 0,35 mm. Querdurchmesser der Arme 0,3 bis 0,6 mm. Dicke der Wirtel, die die Arme zusammensetzen, 0,01 bis 0,02 mm. Durchmesser der eckigen Plättchen, die den Kelch zusammensetzen, 0,03 bis 0,05 mm. Das Mineral, aus dem das Gebilde jetzt besteht, ist zweifelsohne Kieselerde. 
+
+Von dem Meteorfall von Knyahinya.
+
+--
+
+Mit der vorläufigen Charakterisirung obiger sechszehn Gattungen von Meteoritenformen glauben wir, für jetzt wenigstens, die Basis einer kleinen Meteoritenfauna gelegt zu haben. Von allen nicht abgebildeten und ausserdem von vielen schon photographisch von Hahn dargestellten, soweit sie weniger gelungen, werden wir in unserer in Vorbereitung begriffenen, grösseren Abhandlung genaue, selbstgezeichnete Bilder geben. Dieselben liegen bereits meist fertig vor.
+
+Bezüglich der Nomenclatur bitten wir, bei sämmtlichen oben aufgestellten, neuen Gattungen - ausgenommen Hahnia und Bosea - als Autorität unserem eigenen Namen den Namen unseres werthen Freundes Dr. Hahn zuzufügen, der, wenn er auch keinen unmittelbaren Antheil an unserer Arbeit genommen, doch immer Derjenige bleibt, der zuerst die organische Herkunft dieser Formen behauptet und durch seinen immer werthvollen Atlas zu begründen versucht hat und auf dessen uns so freundlich zur Bearbeitung überlassener, reicher Sammlung unsere obige Arbeit beruht.
+
+Da wir diese Untersuchungen mit Eifer fortzusetzen gedenken, erlauben wir uns zum Schlusse noch die freundliche Bitte an etwaige Besitzer von sicher beglaubigten Meteoritenstücken oder Schliffen, dieselben uns gefälligst zur mikroskopischen Untersuchung mitzutheilen. Wir werden dieselben stets in möglichster Bälde, unter Mittheilung des Resultats und nachfolgender öffentlicher Danksagung, zurückstellen. - Unsere Adresse ist: Dr. D. F. Weinland, Esslingen, Württemberg.
+
+--
+
+Druck von E. Blochmann und Sohn in Dresden.
