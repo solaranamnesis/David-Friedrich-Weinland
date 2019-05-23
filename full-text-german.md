@@ -276,3 +276,9 @@ Eine der vorigen ähnliche Gattung, bei welcher aber die Arme nicht gegabelt sin
 
 #### _Euplocamus algoideus_ N. sp.  
 
+Diese Gattung und Art stützen wir zunächst auf das Hahn'sche Bild, Taf. 1 Fig. 6, Taf. 25 Fig. 1 und Taf. 19, welche alle dasselbe Object darstellen, und diese Bilder kann man als ziemlich gelungen bezeichnen. Das hübsche Stückchen selbst macht unter dem Mikroskop ganz den Eindruck eines Büschelchens Seealgen, die an einem Felsstück festgewachsen. Von einer pflasterförmig gebauten Centralscheibe aus strahlt hier, büschelförmig wie bei den vorigen, eine grosse Anzahl gleich dicker Arme aus, die sich, so weit erhalten, nicht verjüngen. Der Durchmesser der Arme beträgt 0,04 mm. Die Arme sind glashell durchsichtig. Durch das Innere eines jeden derselben läuft eine dunkle Contur, die auf einen feinen Hohlraum schliessen lässt. Auch hier legen und schieben sich die Arme durch- und über- einander, so dass man nothwendig an ein einstiges, freies Flottiren derselben denken muss. Das ganze Stöckchen hat eine Höhe von 0,8 mm und eine Breite von 1,1 mm, ist also wie das vorige recht wohl noch mit blossem Auge sichtbar.
+
+Stammt vom Meteorfall von Knyahinya.
+
+#### _Euplocamus articulatus_ N. Sp.  
+
