@@ -262,4 +262,11 @@ Ein Büschel fächerförmig von einem Mittelpunkt ausstrahlender, im Leben ohne 
 
 #### _Eulophiscus Quenstedtii. N. sp.  
 
-Wir beziehen hierher in erster Linie das hübsche Bild, das Hahn als Titel auf den Umschlag seines Meteoritenwerkes gewählt und kleiner auf Taf. 22 Fig. 3 abgebildet hat. Auch dieses Object gewährt aber unter dem Mikroskop ein viel deutlicheres Bild, als die Photographie leistete.
+Wir beziehen hierher in erster Linie das hübsche Bild, das Hahn als Titel auf den Umschlag seines Meteoritenwerkes gewählt und kleiner auf Taf. 22 Fig. 3 abgebildet hat. Auch dieses Object gewährt aber unter dem Mikroskop ein viel deutlicheres Bild, als die Photographie leistete. Wir sehen von einer Basis aus zunächst fünf dickere Arme ausgehen; der linke äusserste, am günstigsten gelegene, zeigt unten einen Querschnitt von 0,04 mm. Schon 0,08 mm über seinem Ursprung gabelt sich derselbe aufs Schönste in zwei Hauptarme von 0,02 mm Dicke. So bleiben sie sich dann gleich, soweit man sie verfolgen kann, was bei dem linksliegenden bis ans Ende der Fächers, soweit dieser erhalten, möglich ist. Die genannte Gabelung hat ganz die Form, wie wir sie bei den Crinoiden gewohnt sind. Doch ist weder hier noch bei den übrigen Armen eine deutliche Quergliederung sichtbar. Dass diese Arme im Leben frei im Wasser flottirten, ist sicher anzunehmen, denn man sieht sie an mehreren Stellen sich über einander legen und kreuzen, unter einander verstecken u. s. f. Die Grösse des ganzen Büschels ist freilich für einen Crinoiden sehr unbedeutend; die Höhe des ganzen Büschelchens beträgt nur 0,7, die Breite 1 mm. Das Ganze erscheint graulich gefärbt, die genannten Hauptarme gelblich, halbdurchsichtig.
+
+Stammt von Fall von Knyahinya.
+
+Hierher vielleicht auch noch die Formen: Hahn, Meteoriten Taf. 22, Fig. 5 u. 6.
+
+### 2. Euplocamus. Nov. gen.  
+
