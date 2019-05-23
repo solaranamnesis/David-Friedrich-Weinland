@@ -200,7 +200,7 @@ Eine auffallende und charakteristische Form, bestehend aus einer zusammenhängen
 
 Wir möchten bis auf Weiteres diese Gebilde am Ersten zu den Foraminiferen stellen.
 
-##### _Dicheliscus uva. N. sp._  
+##### _Dicheliscus uva_. N. sp.  
 
 Ist von Hahn noch nicht abgebildet. Der Durchmesser des ganzen Stocks beträgt 1,2 mm. Länge der grössten, angeschnittenen Blase 0,15 mm. Dicke der Scheidewand 0,01. Die Blasen in dem vorliegenden Präparate sind von verschiedener Grösse und alle Uebergänge des Anschliffs werden daran deutlich.
 
@@ -232,7 +232,7 @@ Hahn's Abbildung Taf. 1 f. 5 und Taf. 10 f. 4 ist leider durch die gelbe Färbun
 
 Favositenartige Polypenstöcke, bestehend aus regelmässig parallel nebeneinander oder auch etwas radiär verlaufenden, meist glashell durchsichtigen Röhren ohne Längsleisten (Septa) im Innern, aber mehr oder weniger regelmässig durch Querscheidewände oder Böden (Tabulae) in Etagen getheilt und oft sehr regelmässig mit feinen Löchelchen, die die Gefässcommunication zwischen den benachbarten Röhren vermitteln, ausgestattet. Diese vollkommene Uebereinstimmung der Structur mit der vieler fossiler Favositkorallen aus der Devon- und Silur- Formation der Erde lässt uns trotz der Kleinheit der vorliegenden meteoritischen Formen nicht wolhl an etwas Anderes denken, als an Korallenpolypen. Leider sind fast nur Seitenschliffe erhalten, weil in dieser Richtung die Polypenstöcke am leichtesten zerbrechen. Bei dem Mangel befriedigender Querschliffe wird eine Unterscheidung der Arten von _Calamiscus_ sehr schwer; es bleibt dazu fast nur übrig: die durchgängige Weite der Polypenröhren, die Distanz der Böden und der Gefässlöcher von einander, die wagerechte oder schiefe Richtung der Böden u. dgl., lauter Merkmale, die auch bei einer und derselben Art schon ziemlich variiren. - Diese Gebilde sind ausserordentlich häufig in den Meteoriten, besonders in denen von Knyahinya.
 
-### _Calamiscus Gümbelii. N. sp._  
+### _Calamiscus Gümbelii_. N. sp.  
 
 (Abbildung: Hahn, Meteoriten: Taf. 14 u. 15.)
 
@@ -246,7 +246,7 @@ Eines der schönsten Meteoritengebilde, ohne Zweifel ein Stückchen eines Korall
 
 Ich erlaube mir, die Gattung zu benennen zu Ehren von Herrn Carl Graf Bose und Frau Louise Gräfin Bose geb. Gräfin von Reichenbach-Lessonitz, welche beide selbst ausgezeichnete Naturkenner, an diesen Meteoritenstudien des Verfassers den lebhaftesten Antheil genommen. Wie bekannt hat Frau Gräfin Bose vor nicht langer Zeit durch eine Stiftung in Frankfurt a. M. ihr Interesse für die Erforschung der Natur in grossartigster Weise bethätigt.
 
-#### _Bosea cyanea. Nov. Sp.  
+#### _Bosea cyanea_. Nov. Sp.  
 
 Das genannte Stöckchen, am Rande überall abgebrochen, hat, soweit erhalten, eine Länge von 1,44 mm, eine Breite von 0,88 mm. Der Durchmesser der Sternchen beträgt 0,04 bis 0,08 mm. Der Durchmesser der vertieften, von der Mitte ausstrahlenden Furchen ist 0,003 bit 0,006 mm. - Das Versteinerungsmaterial zeigt dieselbe smalteblaue Farbe, wie bei Urania salve. - Dieses Unikum steckt in einem Schliff vom Fall von Knyahinya.
 
@@ -260,7 +260,7 @@ Unser verehrter Freund, Dr. Hahn, hat in seinem Meteoritenwerke, Taf. 16 - 30, e
 
 Ein Büschel fächerförmig von einem Mittelpunkt ausstrahlender, im Leben ohne Zweifel frei flottirender, unten, nahe dem Ursprung ein- oder zweimal gegabelter, weiterhin aber nicht mehr verzweigter, ziemlich gleich dicker Arme.
 
-#### _Eulophiscus Quenstedtii. N. sp.  
+#### _Eulophiscus Quenstedtii_. N. sp.  
 
 Wir beziehen hierher in erster Linie das hübsche Bild, das Hahn als Titel auf den Umschlag seines Meteoritenwerkes gewählt und kleiner auf Taf. 22 Fig. 3 abgebildet hat. Auch dieses Object gewährt aber unter dem Mikroskop ein viel deutlicheres Bild, als die Photographie leistete. Wir sehen von einer Basis aus zunächst fünf dickere Arme ausgehen; der linke äusserste, am günstigsten gelegene, zeigt unten einen Querschnitt von 0,04 mm. Schon 0,08 mm über seinem Ursprung gabelt sich derselbe aufs Schönste in zwei Hauptarme von 0,02 mm Dicke. So bleiben sie sich dann gleich, soweit man sie verfolgen kann, was bei dem linksliegenden bis ans Ende der Fächers, soweit dieser erhalten, möglich ist. Die genannte Gabelung hat ganz die Form, wie wir sie bei den Crinoiden gewohnt sind. Doch ist weder hier noch bei den übrigen Armen eine deutliche Quergliederung sichtbar. Dass diese Arme im Leben frei im Wasser flottirten, ist sicher anzunehmen, denn man sieht sie an mehreren Stellen sich über einander legen und kreuzen, unter einander verstecken u. s. f. Die Grösse des ganzen Büschels ist freilich für einen Crinoiden sehr unbedeutend; die Höhe des ganzen Büschelchens beträgt nur 0,7, die Breite 1 mm. Das Ganze erscheint graulich gefärbt, die genannten Hauptarme gelblich, halbdurchsichtig.
 
@@ -269,4 +269,10 @@ Stammt von Fall von Knyahinya.
 Hierher vielleicht auch noch die Formen: Hahn, Meteoriten Taf. 22, Fig. 5 u. 6.
 
 ### 2. Euplocamus. Nov. gen.  
+
+(εὐπλοxαμος = schönhaarig.)  
+
+Eine der vorigen ähnliche Gattung, bei welcher aber die Arme nicht gegabelt sind.
+
+#### _Euplocamus algoideus_ N. sp.  
 
