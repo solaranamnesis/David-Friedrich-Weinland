@@ -210,7 +210,7 @@ Weitere Formen:
 
 Kleine Bruchstückchen von regelmässig gewundenen Gebilden mit polythalamienartigen Kammern, die vielleicht zu diesen Rhizopoden gehören, sind uns bei der Durchsicht der Meteorschliffe hin und wieder begegnet. Aber ihre Erhaltung ist meist keine günstige. Ein sehr hübsches solches Stückchen, wie ein kleiner Nautilus, steckt in einem Meteoritenschliff von Cabarras. Der ganze Durchmesser des Schälchens wäre etwa 0,5 mm, der Kammern 0,05 bis 0,1 mm. Doch bedürfen diese Formen weiterer Prüfung, ehe wir sie festzustellen wagen.
 
-## II. Korallen.  
+## III. Korallen.  
 
 ### 1. Hahnia. Nov. gen.
 
@@ -246,3 +246,10 @@ Eines der schönsten Meteoritengebilde, ohne Zweifel ein Stückchen eines Korall
 
 Ich erlaube mir, die Gattung zu benennen zu Ehren von Herrn Carl Graf Bose und Frau Louise Gräfin Bose geb. Gräfin von Reichenbach-Lessonitz, welche beide selbst ausgezeichnete Naturkenner, an diesen Meteoritenstudien des Verfassers den lebhaftesten Antheil genommen. Wie bekannt hat Frau Gräfin Bose vor nicht langer Zeit durch eine Stiftung in Frankfurt a. M. ihr Interesse für die Erforschung der Natur in grossartigster Weise bethätigt.
 
+#### _Bosea cyanea. Nov. Sp.  
+
+Das genannte Stöckchen, am Rande überall abgebrochen, hat, soweit erhalten, eine Länge von 1,44 mm, eine Breite von 0,88 mm. Der Durchmesser der Sternchen beträgt 0,04 bis 0,08 mm. Der Durchmesser der vertieften, von der Mitte ausstrahlenden Furchen ist 0,003 bit 0,006 mm. - Das Versteinerungsmaterial zeigt dieselbe smalteblaue Farbe, wie bei Urania salve. - Dieses Unikum steckt in einem Schliff vom Fall von Knyahinya.
+
+## IV. Crinoidea.  
+
+Unser verehrter Freund, Dr. Hahn, hat in seinem Meteoritenwerke, Taf. 16 - 30, eine grössere Anzahl von Formen vorläufig zu dieser niedersten Klasse der Echinodermen stellen zu müssen geglaubt.
