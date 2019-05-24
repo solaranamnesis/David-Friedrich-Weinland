@@ -4,5 +4,5 @@ Attempt at a translation from the original German to English, I welcome all pull
 
 English - Plain Text  
 English - PDF  
-[German - Plain Text](german-full-text.md)  
+[German - Plain Text](full-text-german.md)  
 [German - PDF](https://cdn.solaranamnesis.com/DFWeinland/UBER-DIE-METEORITEN.pdf)  
