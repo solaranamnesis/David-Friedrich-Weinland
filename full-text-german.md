@@ -51,68 +51,68 @@ Wir wollen es nun versuchen, einige der auffallendsten Gattungen und Arten kurz 
 
 (_φορμισxος_ = Binsenkörbchen.)  
 
-Facettirte Kugeln, bestehend aus glashellen Kieselnadeln, die wie Binsenkörbchen in regelmässigen Winkeln übereinander gelegt sind. Die Nadeln sind hohl, oft deutlich mit Löchelchen in Längsreihen versehen. Hierher:  
+Facettirte Kugeln, bestehend aus glashellen Kieselnadeln, die wie Binsenkörbchen in regelmäßigen Winkeln übereinander gelegt sind. Die Nadeln sind hohl, oft deutlich mit Löchelchen in Längsreihen versehen. Hierher:  
 
 #### _Phormiscus vulgaris. N. sp._  
 (Abbildung: Hahn, Meteoriten, Taf. 29, Fig. 2.)  
 
 Durchmesser des Ganzen 0,18 mm. Durchmesser der Nadelbalken 0,05 mm. Vom Meteorfall von Knyahinya.
 
-Diese Phormiscusformen sind in Bruchstücken ausserordentlich häufig in den Meteoriten von Knyahinya. Es giebt verschiedene Arten, die häufigste aber ist die obengenannte, welche sofort an den dicken, glashellen, in spitzen Winkeln übereinander gekreuzten Nadelbündeln zu erkennen ist.
+Diese Phormiscusformen sind in Bruchstücken außerordentlich häufig in den Meteoriten von Knyahinya. Es gibt verschiedene Arten, die häufigste aber ist die obengenannte, welche sofort an den dicken, glashellen, in spitzen Winkeln übereinander gekreuzten Nadelbündeln zu erkennen ist.
 
 #### _Phormiscus grandis. N. sp._  
 (Abbildung: Hahn, Meteoriten: Taf. 29, Fig. 6.)  
 
 Feinmaschiger als die vorige Art. Die Nadeln kreuzen sich unter weit mehr Winkeln.
 
-Die besten, erst nachträglich gefundenen, auch den inneren Bau zeigenden Exemplare sind noch nicht abgebildet. Der Durchmesser eines solchen beträgt 3,2 mm. Es ist also ein grosses, mit blossem Auge recht wohl sichtbares Thierchen.
+Die besten, erst nachträglich gefundenen, auch den inneren Bau zeigenden Exemplare sind noch nicht abgebildet. Der Durchmesser eines solchen beträgt 3,2 mm. Es ist also ein großes, mit bloßem Auge recht wohl sichtbares Tierchen.
 
-Dass diese _Phormiscus_ zu den Polycistinen gehören, scheint uns sicher. Die hohlen, theilweise durchlöcherten Kieselnadeln, besonders aber die Kugelformen, die nur bei frei im Wasser sich bewegenden Thieren denkbar ist, weist zunächst darauf hin, und nicht auf Schwämme, an die man sonst auch denken könnte. Jedenfalls aber bilden sie eine eigene Familie, die wir _Phormiscidae_ nennen wollen. - Crinoiden, wie Hahn früher vermuthete, sind es sicher nicht.
+Dass diese _Phormiscus_ zu den Polycistinen gehören, scheint uns sicher. Die hohlen, teilweise durchlöcherten Kieselnadeln, besonders aber die Kugelformen, die nur bei frei im Wasser sich bewegenden Tieren denkbar ist, weist zunächst darauf hin, und nicht auf Schwämme, an die man sonst auch denken könnte. Jedenfalls aber bilden sie eine eigene Familie, die wir _Phormiscidae_ nennen wollen. - Crinoiden, wie Hahn früher vermutete, sind es sicher nicht.
 
 ### 2. Thyriscus. Nov. gen.  
 
 (_θυρις_ = Fenster.)  
 
-Gleichfalls facettirte Kugeln, bestehend aus runden Kieselbälkchen, welche in der Art angeordnet sind, dass sie viereckige, nach innen sich verjüngende Trichter wie Fenster oder noch besser: Schiessscharten bilden. Die Bälkchen sind hohl und mit öfters deutlichen Löchelchen versehen. Gehört ohne Zweifel auch in die Familie der _Phormiscidae_.
+Gleichfalls facettirte Kugeln, bestehend aus runden Kieselbällchen, welche in der Art angeordnet sind, dass sie viereckige, nach innen sich verjüngende Trichter wie Fenster oder noch besser: Schießscharten bilden. Die Bällchen sind hohl und mit öfters deutlichen Löchelchen versehen. Gehört ohne Zweifel auch in die Familie der _Phormiscidae_.
 
 #### _Thyriscus formosus. N. sp._  
 
 (Hahn: Taf. 30, Fig. 3.)  
 
-Durchmesser des ganzen, hier abgebildeten Bruchstücks 0,70 mm. Durchmesser eines ganzen Trichters 0,35 mm. Durchmesser der einzelnen Bälkchen 0,01 mm. Distanz der Löchelchen von einander 0,006 mm. Durchmesser der Löchelchen 0,001 mm. Vom Meteorfall von Knyahinya.
+Durchmesser des ganzen, hier abgebildeten Bruchstücks 0,70 mm. Durchmesser eines ganzen Trichters 0,35 mm. Durchmesser der einzelnen Bällchen 0,01 mm. Distanz der Löchelchen von einander 0,006 mm. Durchmesser der Löchelchen 0,001 mm. Vom Meteorfall von Knyahinya.
 
 ### 3. Goniobrochus. Nov. gen.  
 
 (_γωνια_ = Winkel, _βρὁχος_ = Masche.)  
 
-Wir begründen diese Gattung auf sehr charakteristische Structurstücke, die öfters in unseren Schliffen vorkommen und von denen Hahn in seinen Meteoriten, Taf. 13, Fig. 6, eines abgebildet hat. Es ist ein fest zusammengefugtes, netzartiges Kieselgewebe aus innig verwachsenen, eine zusammenhängende Scheibe darstellenden Kieselbälkchen gebildet, die sich unter Winkeln kreuzen und fast gleichseitige, viereckige Maschen bilden. Da, wo sich die Leisten kreuzen, enstehen Buckeln wie Knöpfe eines Netzes. - Wir können wohl auch diese Gebilde am ehesten bei den Polycistinen unterbringen, unter denen Häckel ähnliche Skeletformen in seinem schönen Werke: „Die Radiolarien“ Taf. 29 abgebildet hat. Besonders kämen in Betracht die Gattungen _Stylodictya_ und _Stylospira_, die ganz ähnliche geknöpfte Netzformen in ihrem inneren Skelet aufweisen. Doch könnte man auch an Schwämme, z. B. an manche Scyphia denken; oder an Bryozoen?
+Wir begründen diese Gattung auf sehr charakteristische Strukturstücke, die öfters in unseren Schliffen vorkommen und von denen Hahn in seinen Meteoriten, Taf. 13, Fig. 6, eines abgebildet hat. Es ist ein fest zusammengefügtes, netzartiges Kieselgewebe aus innig verwachsenen, eine zusammenhängende Scheibe darstellenden Kieselbällchen gebildet, die sich unter Winkeln kreuzen und fast gleichseitige, viereckige Maschen bilden. Da, wo sich die Leisten kreuzen, entstehen Buckeln wie Knöpfe eines Netzes. - Wir können wohl auch diese Gebilde am ehesten bei den Polycistinen unterbringen, unter denen Häckel ähnliche Skelettformen in seinem schönen Werke: „Die Radiolarien“ Taf. 29 abgebildet hat. Besonders kämen in Betracht die Gattungen _Stylodictya_ und _Stylospira_, die ganz ähnliche geknöpfte Netzformen in ihrem inneren Skelett aufweisen. Doch könnte man auch an Schwämme, z. B. an manche Scyphia denken; oder an Bryozoen?
 
 #### _Goniobrochus Häckelii. N. sp._  
 
-Diese schon von Hahn (siehe oben) abgebildete Form stammt von dem Meteorfall von Cabarras. Das vorliegende Stück erscheint in dem Schliff fächerförmig ausgebreitet, misst in die Quere 0,5, die Höhe 0,4 mm. Die Dicke der Bälkchen beträgt 0,01, der Durchmesser einer Masche ebenso 0,01 mm. Das Ganze scheint eine runde Scheibe oder vielleicht auch einen Trichter gebildet zu haben. Wir nennen die Art zu Ehren unseres einstigen Studiengenossen, des berühmten Begründers unserer genaueren Kunde von der grossen Welt dieser kleinen Organismen.
+Diese schon von Hahn (siehe oben) abgebildete Form stammt von dem Meteorfall von Cabarras. Das vorliegende Stück erscheint in dem Schliff fächerförmig ausgebreitet, misst in die Quere 0,5, die Höhe 0,4 mm. Die Dicke der Bällchen beträgt 0,01, der Durchmesser einer Masche ebenso 0,01 mm. Das Ganze scheint eine runde Scheibe oder vielleicht auch einen Trichter gebildet zu haben. Wir nennen die Art zu Ehren unseres einstigen Studiengenossen, des berühmten Begründers unserer genaueren Kunde von der großen Welt dieser kleinen Organismen.
 
 ## II. Schwämme und Foraminiferen
 
 ### Familie: _Uranidae_. Nob.  
 
-Ein sehr charakteristischer Meteoritentypus von niederen Thierformen, der sehr häufig in den verschiedensten Meteorfällen vorkommt und - wegen der von uns nachträglich aufgefundenen ausgezeichneten Durchschnitte bis jetzt am besten von allen Meteorformen - kaum die _Hahnia_ (s. unten) ausgenommen - studirt werden konnte. Derselbe lässt sich an keine der uns bekannten irdischen Thierformen genauer anschliessen. Ob Schwamm, ob Foraminifere, diese Frage wird schwer zu entscheiden sein, wie dies ja bekanntlich auch bei manchen fossilen irdischen Formen der Fall ist. Vielleicht haben wir es hier mit einer Mittelform zu thun.
+Ein sehr charakteristischer Meteoritentypus von niederen Tierformen, der sehr häufig in den verschiedensten Meteorfällen vorkommt und - wegen der von uns nachträglich aufgefundenen ausgezeichneten Durchschnitte bis jetzt am besten von allen Meteorformen - kaum die _Hahnia_ (s. unten) ausgenommen - studiert werden konnte. Derselbe lässt sich an keine der uns bekannten irdischen Tierformen genauer anschließen. Ob Schwamm, ob Foraminifere, diese Frage wird schwer zu entscheiden sein, wie dies ja bekanntlich auch bei manchen fossilen irdischen Formen der Fall ist. Vielleicht haben wir es hier mit einer Mittelform zu tun.
 
-Es sind festsitzende, kissenförmige Stöcke mit poröser und fein lamellöser Rindenschicht und einem gröberen, gleichfalls lamellösen, Lakunen oder Kammern bildenden inneren Skelet.
+Es sind festsitzende, kissenförmige Stöcke mit poröser und fein lamellöser Rindenschicht und einem gröberen, gleichfalls lamellösen, Lakunen oder Kammern bildenden inneren Skelett.
 
 
 #### 1. Urania, Hahn (sensu strict.).
 
-Wir adoptiren in engerem Sinne den Gattungsnamen von Hahn, den derselbe schon in seinem Werke „Die Urzelle“, allerdings als Pflanzengattung, für eine sehr charakteristische Meteoritenform aufgestellt hat. Ich habe seitdem an einer Reihe von günstigen Durchschnitten diese interessanten, in den Meteoriten von Knyahinya besonders häufigen Formen studiren und zeichnen können, so dass ein Zweifel über ihre Thiernatur, die auch Hahn später in seinem Meteoritenwerk angenommen hat, nicht mehr bestehen kann. Es sind immer smalteblaue, kissenförmige, wegen der sehr feinen, zartgestrichelten, porösen Oberhaut sammetartig anzusehende, wahrscheinlich auf Stielen festgewachsene Stöcke. Auf dem Querschnitt unterscheidet man sofort eine durchscheinende porösen Rindenschicht. Das ganze Innere des Kissens besteht aus einem ziemlich unregelmässigen Maschengewebe, in welchem radiär von der Rinde nach dem Centrum zu streichende Lamellenzüge deutlich werden, welche lakunenartige Hohlräume oder Kammern zwischen sich lassen.
+Wir adoptieren in engerem Sinne den Gattungsnamen von Hahn, den derselbe schon in seinem Werke „Die Urzelle“, allerdings als Pflanzengattung, für eine sehr charakteristische Meteoritenform aufgestellt hat. Ich habe seitdem an einer Reihe von günstigen Durchschnitten diese interessanten, in den Meteoriten von Knyahinya besonders häufigen Formen studieren und zeichnen können, so dass ein Zweifel über ihre Tiernatur, die auch Hahn später in seinem Meteoritenwerk angenommen hat, nicht mehr bestehen kann. Es sind immer smalteblaue, kissenförmige, wegen der sehr feinen, zart gestrichelten, porösen Oberhaut samtartig anzusehende, wahrscheinlich auf Stielen festgewachsene Stöcke. Auf dem Querschnitt unterscheidet man sofort eine durchscheinende porösen Rindenschicht. Das ganze Innere des Kissens besteht aus einem ziemlich unregelmäßigen Maschengewebe, in welchem radiär von der Rinde nach dem Zentrum zu streichende Lamellenzüge deutlich werden, welche lakunenartige Hohlräume oder Kammern zwischen sich lassen.
 
 ##### _Urania Salve. N. sp._
 
-So wollen wir sie nennen, denn es war der erste Gruss einer organischen Form aus einer anderen Welt, das erste Wesen, das Hahn als ein organisches erkannte, wenn auch zuerst als eine Pflanze beschrieb. Diese Art erscheint in grossen und kleinen, ganzen Individuen und einer Menge von Bruchstücken, sehr häufig in den Meteoriten, besonders in denen von Knyahinya. Durchschnittliche Grösse 1 mm. Dicke der aussen stets smalteblauen Rindenschicht 0,04 mm. Hahn hat sie vielfach abgebildet. Die grosse Figur von Tafel 2, alle Figuren auf Tafel 3, sodann Fig. 1, 4 und 6 auf Tafel 4, 1 und 4 auf Tafel 5 gehören hierher. Diese Art zeigt oft sehr eigenthümliche, parallele oder radiär laufende, tiefe Längsfalten auf der Oberfläche, so dass man an eine gewisse Elasticität der Rindenschicht im Leben denken möchte.
+So wollen wir sie nennen, denn es war der erste Gruß einer organischen Form aus einer anderen Welt, das erste Wesen, das Hahn als ein organisches erkannte, wenn auch zuerst als eine Pflanze beschrieb. Diese Art erscheint in großen und kleinen, ganzen Individuen und einer Menge von Bruchstücken, sehr häufig in den Meteoriten, besonders in denen von Knyahinya. Durchschnittliche Größe 1 mm. Dicke der außen stets smalteblauen Rindenschicht 0,04 mm. Hahn hat sie vielfach abgebildet. Die große Figur von Tafel 2, alle Figuren auf Tafel 3, sodann Fig. 1, 4 und 6 auf Tafel 4, 1 und 4 auf Tafel 5 gehören hierher. Diese Art zeigt oft sehr eigentümliche, parallele oder radiär laufende, tiefe Längsfalten auf der Oberfläche, so dass man an eine gewisse Elastizität der Rindenschicht im Leben denken möchte.
 
 #### 2. Pectiscus. Nov. gen.  
 
 (_πηxτὁς_ = gekämmt.)  
 
-Lappige, wahrscheinlich mit breiter Basis festsitzende Stöcke. Gehören zu derselben Familie wie _Urania_, zu den _Uranidae_. Aber die Rindenschicht ist hier eine andere, gröbere, wie gekämmt, d. h. in stärkeren, mehr oder weniger radiär ausstrahlenden Rippen (Lamellen) gebildet, die oft an die Septa gewisser Korallenformen, z. B. der _Fungia_, erinnern. Der innere Bau aber, von dem wir mehrere ganz vortreffliche Durchschnitte vor uns haben (siehe Fig. 1 [80mal vergrössert]), besteht ähnlich wie bei _Urania_ aus einem lamellösen, Kammern bildenden Gewebe, das nichts mit der Korallenstructur zu thun hat. Es giebt eine Reihe von Arten, zum Theil offenbar sehr grosse, von welchen letzteren aber meist nur das grobe, innere, gekammerte Maschengewebe erhalten ist.
+Lappige, wahrscheinlich mit breiter Basis festsitzende Stöcke. Gehören zu derselben Familie wie _Urania_, zu den _Uranidae_. Aber die Rindenschicht ist hier eine andere, gröbere, wie gekämmt, d. h. in stärkeren, mehr oder weniger radiär ausstrahlenden Rippen (Lamellen) gebildet, die oft an die Septa gewisser Korallenformen, z. B. der _Fungia_, erinnern. Der innere Bau aber, von dem wir mehrere ganz vortreffliche Durchschnitte vor uns haben (siehe Fig. 1 [80mal vergrössert]), besteht ähnlich wie bei _Urania_ aus einem lamellösen, Kammern bildenden Gewebe, das nichts mit der Korallenstruktur zu tun hat. Es gibt eine Reihe von Arten, zum Teil offenbar sehr große, von welchen letzteren aber meist nur das grobe, innere, gekammerte Maschengewebe erhalten ist.
 
 ##### _Pectiscus Zittelii. N. sp._  
 
