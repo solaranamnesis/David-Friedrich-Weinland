@@ -1,6 +1,6 @@
 # Dr. David Friedrich Weinland
 
-Attempt at a translation from the original German to English, I welcome all pull requests of submitted translations and/or edits.
+Attempt at a translation of Dr. David Friedrich Weinland's 1882 work: "Ueber die in Meteoriten entdeckten Thierreste (Über die in Meteoriten entdeckten Tierreste)", from the original German to English, I welcome all pull requests of submitted translations and/or edits.
 
 English - Plain Text  
 English - PDF  
