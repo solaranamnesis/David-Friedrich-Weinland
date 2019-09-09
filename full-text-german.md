@@ -2,7 +2,7 @@
 
 ## Von
 
-# Dr. D. F. Weinland
+## Dr. David Friedrich Weinland
 
 ### Mit zwei Holzschnitten
 
