@@ -63,4 +63,8 @@ These Phormiscus forms are exceptionally common in fragments of the Knyahinya me
 
 More finely woven than the previous type. The spicules cross at more extensive angles.
 
+The best specimens, which were found later and include the inner structure, are not yet pictured. The diameter of one of such is 3.2 mm. So it is a big creature that is rather noticable to the naked eye.
+
+That these _Phormiscus_ belong to the Polycistines seems to us certain. The hollow, partially perforated silica spicules, and particularly the spherical shapes, which is conceivable only in animals moving freely in water, points first of all to this, and not to sponges as one might otherwise think. In any case, however, they form their own family, which we will call Phormiscidae. — They are certainly not crinoids, as Hahn formerly supposed.
+
 ...
