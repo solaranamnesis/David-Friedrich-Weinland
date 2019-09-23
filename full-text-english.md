@@ -34,5 +34,11 @@ An in-depth study of them this past year has provided the following prelimiary r
 
 8\. All the living beings whose remains are embedded in the meteorites we studied, and whose zoological interpretation we have succeeded with thus far, have lived in water and, in accord with their analogously corresponding terrestrial forms, in water that was never allowed to freeze completely.
 
+This situation seems to us to exlude Schiaparelli's recent hypothesis that the meteorites originate from comets or their tails, at least for the chondrite meteorites, provided that constant liquid water on comets cannot be assumed. Or might the comets themselves partially consist of the remnants of shattered planets? (See also 10 below.)
+
 ...
+
+
+
+
 
