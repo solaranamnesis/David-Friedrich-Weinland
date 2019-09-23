@@ -44,7 +44,9 @@ This situation seems to us to exlude Schiaparelli's recent hypothesis that the m
 
 We will now try to briefly characterize some of the most notable genera and species, reserving a more comprehensive description with illustrations, especially of the interior structural relations, for those in which there is already a great deal of material.
 
-## Grated-Creature, Polycystina.  
+# I. Grated-Creature, Polycystina.  
+
+## 1. Phormiscus. Nov. gen.  
 
 (_φορμισxος_ = Rush-basket.)  
 
