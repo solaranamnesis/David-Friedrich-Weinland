@@ -46,7 +46,7 @@ Dieser Umstand scheint uns die neuerdings vielfach angenommene Hypothese von Sch
 
 Wir wollen es nun versuchen, einige der auffallendsten Gattungen und Arten kurz zu charakterisieren, indem wir uns eine ausführlichere Beschreibung mit Abbildungen, besonders auch der inneren Strukturverhältnisse, zu welcher bereits viel Material vorliegt, vorbehalten.
 
-## I. Gitterthierchen, Polycistina.  
+## I. Gittertierchen, Polycistina.  
 ### 1. Phormiscus. Nov. gen.  
 
 (_φορμισxος_ = Binsenkörbchen.)  
