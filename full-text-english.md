@@ -32,7 +32,7 @@ An in-depth study of them this past year has provided the following prelimiary r
 
 7\. Also, plant-based remains have not presently been safely proven. But one often encounters scraps of tissue that could well be plant-based.
 
+8\. All the living beings whose remains are embedded in the meteorites we studied, and whose zoological interpretation we have succeeded with thus far, have lived in water and, in accord with their analogously corresponding terrestrial forms, in water that was never allowed to freeze completely.
+
 ...
-
-
 
