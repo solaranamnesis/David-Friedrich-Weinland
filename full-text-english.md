@@ -42,4 +42,6 @@ This situation seems to us to exlude Schiaparelli's recent hypothesis that the m
 
 11\. The entire world of forms of these meteorites, insofar as we could investigate them, makes the overall impression of a characteristic belonging together. There are cuts of eighteen different meteorite falls, some from the previous century. The same characteristic forms always return, only more or less frequently. The assumption thus seems to us justified for the time being, that all these chondrite meteorites come from a single extraterrestrial celestial body, perhaps a shattered planet, which, in accordance with the analogous construction of its living forms, was probably in its physical, and especially in its atmospheric and thermal conditions, not too dissimilar from our Earth.
 
+We will now try to briefly characterize some of the most notable genera and species, reserving a more comprehensive description with illustrations, especially of the interior structural relations, for those in which there is already a great deal of material.
+
 ...
