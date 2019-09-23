@@ -56,4 +56,6 @@ Faceted spheres, consisting of clear glass silica spicules that lay one on top o
 
 Diameter of the whole 0.18 mm. Diameter of the spicule joists 0.05 mm. From the meteorite fall of Knyahinya.
 
+These Phormiscus forms are exceptionally common in fragments of the Knyahinya meteorite. There are several types, but the most common one is the one mentioned above, which is immediately recognizable by the thick, clear glass spicule bundles crossed on top of each other at acute angles.
+
 ...
