@@ -67,4 +67,8 @@ The best specimens, which were found later and include the inner structure, are 
 
 That these _Phormiscus_ belong to the Polycistines seems to us certain. The hollow, partially perforated silica spicules, and particularly the spherical shapes, which is conceivable only in animals moving freely in water, points first of all to this, and not to sponges as one might otherwise think. In any case, however, they form their own family, which we will call Phormiscidae. — They are certainly not crinoids, as Hahn formerly supposed.
 
+### 2. Thyriscus. Nov. gen.  
+
+(θυρις = Window.)
+
 ...
