@@ -36,9 +36,6 @@ An in-depth study of them this past year has provided the following prelimiary r
 
 This situation seems to us to exlude Schiaparelli's recent hypothesis that the meteorites originate from comets or their tails, at least for the chondrite meteorites, provided that constant liquid water on comets cannot be assumed. Or might the comets themselves partially consist of the remnants of shattered planets? (See also 10 below.)
 
+9\. The entire world of forms examined by us in the hundreds of Hahn's cuts, which, based on our prelimiary survey and estimation, may well belong to more than fifty different species of living beings, but of which, since they are usually only preserved as broken structural and fragmented pieces, only a minority can be described precisely, and seem to belong to an early evolution of the living world on the celestial body in question, perhaps even antecedent to the oldest fossils in the most senior layers of our Earth.
+
 ...
-
-
-
-
-
