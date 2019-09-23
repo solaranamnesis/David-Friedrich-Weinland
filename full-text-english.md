@@ -22,4 +22,12 @@ An in-depth study of them this past year has provided the following prelimiary r
 
 2\. The organic fragments in the chondrite meteorites are firmly caked and sintered together, much like the organic detritus of corals, sponges, mussels, echinoderms, etc. in the youngest ocean limestone formations of our Earth. These remains in the meteorites are in fact nothing but petrefacts. The petrifying material is usually, but not always, a silicate often bluish or yellow colored. Very frequently they contain black, charred, organic masses, that are punctiform or large in extent. In any case, these forms have not experienced a melting process. The melting produced by friction during the passage of the meteorite through the Earth's atmosphere extends, as already shown, only a few millimeters thick along its surface, thus forming the well-known black fusion crust or glaze. The whole interior of the meteorite, at least in the chondrite meteorites, remains untouched.
 
+3\. By far the majority of the structures contained in the available meteorites can be subordinated to the classes of polycistines, sponges, and foraminifera, although the types are different from the terrestrial ones.
+
 ...
+
+
+
+
+
+
