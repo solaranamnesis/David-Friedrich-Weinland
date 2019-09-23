@@ -61,4 +61,6 @@ These Phormiscus forms are exceptionally common in fragments of the Knyahinya me
 #### _Phormiscus grandis. N. sp._
 (Image: Hahn, Meteorite: Table. 29, Fig. 6.)  
 
+More finely woven than the previous type. The spicules cross at more extensive angles.
+
 ...
