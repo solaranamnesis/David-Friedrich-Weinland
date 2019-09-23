@@ -18,4 +18,6 @@ Since some of Hahn's images, because of prior coral studies that were made on th
 
 An in-depth study of them this past year has provided the following prelimiary results:
 
+1\. The important discovery of Hahn's, great in its consequences, has essentially been confirmed. By far the majority of the forms photographly depicted by Hahn decidedly deal with organic remains, to do with organic structure, indeed, these remains occur in such quantities that some cuts are essentially composed entirely of them for the most part. Well-preserved forms are rare; in the majority it is detritus, large or small, but usually very distinct fragments, the dimensional stability of which can be recognized quite well when one compares many cuts and the mass of the material, as soon as one has familiarized oneself with this strange world of forms, and all the more so as individual pieces have been completely preserved, or even accidentally polished nicely, and can soon be the best possible way to orient us and serve as guiding pieces. However, we expressly state here that the photographic images of Hahn, meritorious as they are, and as much as his above-mentioned work will always remain a foundation, often failed to convey the clarity of the images that we have under the microscope itself.
+
 ...
