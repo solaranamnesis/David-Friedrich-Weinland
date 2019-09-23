@@ -26,12 +26,13 @@ An in-depth study of them this past year has provided the following prelimiary r
 
 4\. Of coral forms three genera have so far been sufficiently identified, with one so perfectly preserved and displaying the finest microscopic structure that one seldom finds in terrestrial fossils. With one exception, these corals are among the oldest forms encountered on Earth, the Favosites.
 
-3\. Of crinoids three forms, but all are still doubtful.
+5\. Of crinoids three forms, but all are still doubtful.
+
+6\. We have not been able to detect any trace of remains of higher animals: mollusks, arthropods, or even vertebrates.
+
+7\. Also, plant-based remains have not presently been safely proven. But one often encounters scraps of tissue that could well be plant-based.
 
 ...
-
-
-
 
 
 
