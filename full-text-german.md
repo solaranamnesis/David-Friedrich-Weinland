@@ -100,7 +100,7 @@ Ein sehr charakteristischer Meteoritentypus von niederen Tierformen, der sehr h�
 Es sind festsitzende, kissenförmige Stöcke mit poröser und fein lamellöser Rindenschicht und einem gröberen, gleichfalls lamellösen, Lakunen oder Kammern bildenden inneren Skelett.
 
 
-#### 1. Urania, Hahn (sensu strict.).
+#### 1. Urania, Hahn (sensu stricto.).
 
 Wir adoptieren in engerem Sinne den Gattungsnamen von Hahn, den derselbe schon in seinem Werke „Die Urzelle“, allerdings als Pflanzengattung, für eine sehr charakteristische Meteoritenform aufgestellt hat. Ich habe seitdem an einer Reihe von günstigen Durchschnitten diese interessanten, in den Meteoriten von Knyahinya besonders häufigen Formen studieren und zeichnen können, so dass ein Zweifel über ihre Tiernatur, die auch Hahn später in seinem Meteoritenwerk angenommen hat, nicht mehr bestehen kann. Es sind immer smalteblaue, kissenförmige, wegen der sehr feinen, zart gestrichelten, porösen Oberhaut samtartig anzusehende, wahrscheinlich auf Stielen festgewachsene Stöcke. Auf dem Querschnitt unterscheidet man sofort eine durchscheinende porösen Rindenschicht. Das ganze Innere des Kissens besteht aus einem ziemlich unregelmäßigen Maschengewebe, in welchem radiär von der Rinde nach dem Zentrum zu streichende Lamellenzüge deutlich werden, welche lakunenartige Hohlräume oder Kammern zwischen sich lassen.
 
