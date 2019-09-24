@@ -97,7 +97,7 @@ They are sessile, pillow-shaped stumps with a fine porous lamellar cortex layer 
 
 ### 1. Urania, Hahn (sensu stricto.).
 
-We adopt in the strict sense the genus name of Hahn, which he had already established in his work "The Primordial Cell", although as a plant genus, for a very characteristic meteorite form. 
+We adopt in the strict sense the genus name of Hahn, which he had already established in his work "The Primordial Cell", although as a genus of plants, for a very characteristic meteorite form. 
 
 ...
 
