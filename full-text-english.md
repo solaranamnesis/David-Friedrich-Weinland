@@ -78,4 +78,8 @@ Similarly faceted spheres, consisting of little silica balls, arranged in such a
 
 The diameter of the whole piece shown here is 0.70 mm. Diameter of an entire funnel 0.35 mm. Diameter of the individual balls 0.01 mm. Distance of the holes from each other 0.006 mm. Diameter of the holes 0.001 mm. From the meteorite fall of Knyahinya.
 
+### 3. Goniobrochus. Nov. gen.  
+
+(γωνια = Winkel = Angles, βρὁχος = Masche = Mesh.)
+
 ...
