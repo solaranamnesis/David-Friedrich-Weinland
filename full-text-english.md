@@ -86,4 +86,9 @@ We establish this genus on very characteristic structural pieces, which occur fr
 
 #### _Goniobrochus Häckelii. N. sp._  
 
+This form, already depicted by Hahn (see above), comes from the meteorite fall of Cabarras. The available piece appears fan-shaped in the cut, measuring 0.5 mm across and 0.4 mm in height. The thickness of the balls is 0.01 mm, the diameter of a mesh is likewise 0.01 mm. The entire piece seems to have formed a round disk or perhaps a funnel. We name the species in honor of our former fellow student, the famous founder of our more accurate customer of the great world of these small organisms. 
+
+## II. Sponges and Foraminifera  
+### 1. Family: Uranidae. Nob.  
+
 ...
