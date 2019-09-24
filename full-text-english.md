@@ -80,6 +80,6 @@ The diameter of the whole piece shown here is 0.70 mm. Diameter of an entire fun
 
 ### 3. Goniobrochus. Nov. gen.  
 
-(γωνια = Winkel = Angles, βρὁχος = Masche = Mesh.)
+(γωνια = Winkel = "Angles", βρὁχος = Masche = "Mesh".)
 
 ...
