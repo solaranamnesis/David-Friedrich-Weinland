@@ -44,10 +44,10 @@ This situation seems to us to exlude Schiaparelli's recent hypothesis that the m
 
 We will now try to briefly characterize some of the most notable genera and species, reserving a more comprehensive description with illustrations, especially of the interior structural relations, for those in which there is already a great deal of material.
 
-## I. Grated-creature, Polycystina.  
+## I. Gittertierchen "Little Grated Creature", Polycystina.  
 ### 1. Phormiscus. Nov. gen.  
 
-(_φορμισxος_ = Rush-basket.)  
+(_φορμισxος_ = Binsenkörbchen = "Little rush basket".)  
 
 Faceted spheres, consisting of clear glass silica spicules that lay one on top of the other at regular angles like a rush-basket. The spicules are hollow, often furnished with clearly defined longitudinal cavities. Here:
 
@@ -69,7 +69,7 @@ That these _Phormiscus_ belong to the Polycistines seems to us certain. The holl
 
 ### 2. Thyriscus. Nov. gen.  
 
-(θυρις = Window.)
+(θυρις = Fenster = Window.)
 
 Similarly faceted spheres, consisting of little silica balls, arranged in such a way that they form quadrangular, inwardly tapering funnels like windows or even better, embrasure formations. The balls are hollow and often furnished with noticeable perforations. Undoubtedly belongs with the family of Phormiscidae.
 
