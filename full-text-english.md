@@ -89,11 +89,13 @@ We establish this genus on very characteristic structural pieces, which occur fr
 This form, already depicted by Hahn (see above), comes from the meteorite fall of Cabarras. The available piece appears spread out and fan-shaped in the cut, measuring 0.5 mm crosswise and 0.4 mm in height. The thickness of the little balls is 0.01 mm, the diameter of a stitch is likewise 0.01 mm. The entirety seems to have formed a round pane or perhaps even forming a funnel. We name the species in honor of our former fellow student, the famous founder of the detailed accounts about the great world of these small organisms. 
 
 ## II. Sponges and Foraminifera  
-### 1. Family: Uranidae. Nob.  
+### Family: Uranidae. Nob.  
 
 A highly characteristic meteorite type of a lower animal form that occurs very frequently in a wide variety of meteorite falls and — because in the additional excellent thin sections we located the best of all meteorites forms — hardly exempting the Hahnia (see below) — can be studied. The same cannot be closely associated with any of the terrestrial animal forms known to us. Whether sponge, whether foraminifera, this question will be difficult to decide, as is well known in some cases of terrestrial fossil forms. Perhaps we are dealing here with an intermediate form.
 
 They are sessile, pillow-shaped stumps with a fine porous lamellar cortex layer and crude, likewise lamellar, lacunae or chambers forming the internal skeleton.
+
+### 1. Urania, Hahn (sensu stricto.).
 
 ...
 
