@@ -99,4 +99,6 @@ They are sessile, pillow-shaped stumps with a fine porous lamellar cortex layer 
 
 We adopt in the strict sense the genus name of Hahn, which he had already established in his work "The Primordial Cell", although as a genus of plants, for a very characteristic meteorite form. Since then, in a number of favorable thin sections I have been able to study and draw these interesting forms, which in the Knyahinya meteorite are particularly common, so that any doubt about their animal nature, which Hahn later presumed in his meteorite work, can no longer exist. They are always smalt blue and pillow-shaped; the very delicate, finely dashed, velvety looking porous cuticle is probably the peduncle of these sessile stumps. In the cross-section one immediately distinguishes a translucent porous cortex layer. The whole interior of the pillow consists of a rather irregular mesh tissue, which radiates from the cortex towards the center smoothing into lamellar  lineaments, which have lacuna-like cavities or chambers between them.
 
+#### _Urania Salve. N. sp._
+
 ...
