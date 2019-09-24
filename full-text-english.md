@@ -71,4 +71,11 @@ That these _Phormiscus_ belong to the Polycistines seems to us certain. The holl
 
 (θυρις = Window.)
 
+Similarly faceted spheres, consisting of little silica balls, arranged in such a way that they form quadrangular, inwardly tapering funnels like windows or even better, embrasure formations. The balls are hollow and often furnished with noticeable perforations. Undoubtedly belongs with the family of Phormiscidae.
+
+#### _Thyriscus formosus. N. sp._  
+(Hahn: Plate 30, Fig. 3.)  
+
+The diameter of the whole piece shown here is 0.70 mm. Diameter of an entire funnel 0.35 mm. Diameter of the individual balls 0.01 mm. Distance of the holes from each other 0.006 mm. Diameter of the holes 0.001 mm. From the meteorite fall of Knyahinya.
+
 ...
