@@ -93,4 +93,8 @@ This form, already depicted by Hahn (see above), comes from the meteorite fall o
 
 A highly characteristic meteorite type of a lower animal form that occurs very frequently in a wide variety of meteorite falls and — because in the additional excellent thin sections we located the best of all meteorites forms — hardly exempting the Hahnia (see below) — can be studied. The same cannot be closely associated with any of the terrestrial animal forms known to us. Whether sponge, whether foraminifera, this question will be difficult to decide, as is well known in some cases of terrestrial fossil forms. Perhaps we are dealing here with an intermediate form.
 
+They are sessile, pillow-shaped stumps with a fine porous lamellar cortex layer and crude, likewise lamellar, lacunae or chambers forming the internal skeleton.
+
 ...
+
+
