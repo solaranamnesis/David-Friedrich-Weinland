@@ -119,4 +119,6 @@ In [Figure 1](https://cdn.solaranamnesis.com/DFWeinland/fig1.png) [magnified 80 
 
 We permit ourselves to name this species after the gentleman Professor [Karl Alfred von] Zittel, the thorough researcher of fossil sponges.
 
+#### _Pectiscus rudis. N. sp._
+
 ...
