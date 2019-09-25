@@ -101,4 +101,6 @@ We adopt in the strict sense the genus name of Hahn, which he had already establ
 
 #### _Urania Salve. N. sp._
 
+This is what we want to call them, for they are the first greetings of organic forms from another world, the first beings that Hahn recognized as organic, albeit first described as a plant. This species appears both large and small, as entire individuals and as lots of fragments, it is very common in the meteorites, especially those of Knyahinya. Average size 1 mm. Thickness of the always smalt blue cortex 0.04 mm. Hahn shows them many times. The large figure of Table 2, all of the figures of Table 3, then Figures 1, 4, and 6 of Table 4, and Figures 1 and 4 of Table 5 also belong here.
+
 ...
