@@ -109,4 +109,8 @@ This is what we wish to call them, for they are the first greetings of organic f
 
 Lobate, probably with wide sessile base stumps. They belong to the same family as Urania, to the Uranidae. But the cortex layer here is different, coarse, comb-like, i.e. formed as stronger, more or less radially emanating ribs (lamellae), often reminiscent of the septa of certain coral forms, such as Fungia. But the inner structure, however, as we have in several quite excellent cuts before us (see Figure 1 [magnified 80 times]), consists, as in Urania, of a lamellar, chamber-forming tissue that has nothing to do with coral structure. There are a number of species, some of which are apparently quite large, however in the latter only the coarse, inner, chambered mesh-tissue is preserved.
 
+#### _Pectiscus Zittelii. N. sp._
+
+The most common species. Based on its external appearance, its radial rays, and also often by its overall contour, one is often reminded of the familiar scallops (Pecten). But the lobes of these stumps do not maintain a regular overall shape. They are always rounded at the edges, often the edge is divided into smaller lobes by shallow notches. Diameter of the stumps, about 1 to 3 mm. The fine little ribs towards the gray cortex are on average 0.04 mm apart.
+
 ...
