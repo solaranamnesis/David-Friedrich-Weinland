@@ -131,7 +131,7 @@ One of the most remarkable and beautiful constructions in our meteorite fauna. A
 
 #### _Callaion Paulinianum. N. sp._
 
-Not shown in Hahn's Meteorite Atlas.
+Not shown in Hahn's meteorite atlas.
 
 Widest diameter of the little colonies 2.8 mm, the smallest 2 mm.
 
