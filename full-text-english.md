@@ -117,4 +117,6 @@ Very much widespread in the meteorites, particularly those of Knyahinya and also
 
 In Figure 1 [magnified 80 times] we have depicted a small specimen. It comes from the meteorite fall of Iowa and yet provides a clear picture of the internal structure. The outer cortex of the stump at the top and bottom, colored gray here, is preserved. The cut shaved the middle unequally on the two sides; thus, on the lower right one can see the lamellae protruding from the base being quite parallel. In the left half, on the other hand, the cut passed straight through the innermost, mostly irregular, lacuna-like middle layer of the lobe. The entire stump is 1.6 mm long, 1.2 mm wide. — We have a similar, equally instructive cut from Knyahinya.
 
+We permit ourselves to name this species after the gentleman Professor Zittel, the thorough researcher of fossil sponges.
+
 ...
