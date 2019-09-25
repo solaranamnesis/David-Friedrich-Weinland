@@ -113,4 +113,6 @@ Lobate, probably with wide sessile base stumps. They belong to the same family a
 
 The most common species. Based on its external appearance, its radial rays, and also often by its overall contour, one is often reminded of the familiar scallops (Pecten). But the lobes of these stumps do not maintain a regular overall shape. They are always rounded at the edges, often the edge is divided into smaller lobes by shallow notches. Diameter of the stumps, about 1 to 3 mm. The fine little ribs towards the gray cortex are on average 0.04 mm apart.
 
+Very much widespread in the meteorites, particularly those of Knyahinya and also of Siena. Also, the large structure to which our Hahnia (see below) appears stuck on, is such a _Pectiscus_.
+
 ...
