@@ -125,4 +125,6 @@ A smaller form with even coarser slats.
 
 ### 3. Callaion. Nov. gen.
 
+(xάλλαιον = Hahnenkamm = "Cockscomb".)
+
 ...
