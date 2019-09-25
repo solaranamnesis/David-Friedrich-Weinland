@@ -145,4 +145,6 @@ We permit ourselves to name this species in honor of Miss Pauline Schloz, the me
 
 (γλῶσσα = Zunge = "Tongue".)
 
+Rounded, tongue-like lobes constructing colonies. The cuticle is composed of hexagonal panels. Pores in the recessed furrows and round, recessed nests [?]; no trace of 
+
 ...
