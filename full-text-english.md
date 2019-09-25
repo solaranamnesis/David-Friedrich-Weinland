@@ -145,6 +145,10 @@ We permit ourselves to name this species in honor of Miss Pauline Schloz, the me
 
 (γλῶσσα = Zunge = "Tongue".)
 
-Rounded, tongue-like lobes constructing colonies. The cuticle is composed of hexagonal panels. Pores in the recessed furrows and round, recessed furrows; no trace of radiating ribs as with the Uranidae. Without question belonging to the sponges.
+Rounded, tongue-like lobes constructing colonies. The cuticle is composed of hexagonal panels. Pores in the recessed furrows and round, recessed holes; no trace of radial ribs as with the Uranidae. Without question belonging to the sponges.
+
+#### _Glossiscus Schmidtii. N. sp._
+
+Not pictured by Hahn. In the one on hand, the pores and pore holes of the conspicuously milk-white colored colony appear tinged with black dots, organic matter which has settled in the pores, as is often found in these meteorite petrifications. The total length of the lobe is 1.7 mm, the cross-diameter 0.8 mm, the diameter of the pore holes 0.03 to 0.05 mm, the pore furrow 0.02 to 0.04 mm, and the hexagonal panels 0.02 mm.
 
 ...
