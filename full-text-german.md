@@ -93,7 +93,7 @@ Diese schon von Hahn (siehe oben) abgebildete Form stammt von dem Meteorfall von
 
 ## II. Schwämme und Foraminiferen
 
-### Familie: _Uranidae_. Nob.  
+### Familie: _Uranidae_. Nov.  
 
 Ein sehr charakteristischer Meteoritentypus von niederen Tierformen, der sehr häufig in den verschiedensten Meteorfällen vorkommt und — wegen der von uns nachträglich aufgefundenen ausgezeichneten Durchschnitte bis jetzt am besten von allen Meteorformen — kaum die _Hahnia_ (s. unten) ausgenommen — studiert werden konnte. Derselbe lässt sich an keine der uns bekannten irdischen Tierformen genauer anschließen. Ob Schwamm, ob Foraminifere, diese Frage wird schwer zu entscheiden sein, wie dies ja bekanntlich auch bei manchen fossilen irdischen Formen der Fall ist. Vielleicht haben wir es hier mit einer Mittelform zu tun.
 
