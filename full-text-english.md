@@ -139,4 +139,10 @@ It presents itself to the naked eye as a grey, mottled speck. The parallel lamel
 
 The cut comes from the meteorite fall of Iowa (February 1847). Unfortunately, only one specimen is well preserved but we also often encountered rudera of this species in meteorites of Knyahinya.
 
+We permit ourselves to name this species in honor of Miss Pauline Schloz, the meritous sister-in-law of Dr. Hahn, who supported him in the challenging manufacture of many meteorite cuts with the most self-sacrificing devotion.
+
+### 4. Glossiscus. Nov. gen.
+
+(γλῶσσα = Zunge = "Tongue".)
+
 ...
