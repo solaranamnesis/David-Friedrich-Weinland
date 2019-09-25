@@ -159,4 +159,6 @@ We would like to name the species in honor of the famous researcher of living sp
 
 (xάρυον = Nuss = "Nut".)
 
+Glass-clear transparent, like most of these organisms, petrified silica formations that, on average, resemble a nut with a thick carapace and chambers inside. The chambers are created by thick girder constructions, the thick carapace being very porous.
+
 ...
