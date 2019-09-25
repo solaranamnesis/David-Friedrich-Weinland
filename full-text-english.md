@@ -151,4 +151,8 @@ Rounded, tongue-like lobes constructing colonies. The cuticle is composed of hex
 
 Not pictured by Hahn. In the one on hand, the pores and pore holes of the conspicuously milk-white colored colony appear tinged with black dots, organic matter which has settled in the pores, as is often found in these meteorite petrifications. The total length of the lobe is 1.7 mm, the cross-diameter 0.8 mm, the diameter of the pore holes 0.03 to 0.05 mm, the pore furrow 0.02 to 0.04 mm, and the hexagonal panels 0.02 mm.
 
+In a cut of Knyahinya.
+
+We would like to name the species in honor of the famous researcher of living sponges, Professor Oscar Schmidt in Strasbourg. 
+
 ...
