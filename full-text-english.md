@@ -163,4 +163,6 @@ Glass-clear transparent, like most of these organisms, petrified silica formatio
 
 These forms, not depicted by Hahn, are quite common in the meteorites; they are probably sponge-like entities. We just wanted to describe this one species, whose image we will provide later.
 
+#### _Carydion solidum. N. sp._
+
 ...
