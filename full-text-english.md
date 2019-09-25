@@ -137,4 +137,6 @@ Widest diameter of the little colonies 2.8 mm, the smallest 2 mm.
 
 It presents itself to the naked eye as a grey, mottled speck. The parallel lamellae, appearing as delicate stripes on the bluish surface, are 0.002 mm apart. The proximal, coarser lamellae 0.01 mm. The individual concavities within the colony sometimes appear as elongated troughs 0.06 mm in diameter, sometimes as roundish, or more or less angular, crater-like depressions from 0.05 to 0.3 mm in diameter. Between these ridges, combs run quite like Manicina areolata and many other corals, but of varying width, 0.05 to 0.2 mm in diameter.
 
+The cut comes from the meteorite fall of Iowa (February 1847). Unfortunately, only one specimen is well preserved but we also often encountered rudera of this species in meteorites of Knyahinya.
+
 ...
