@@ -122,7 +122,7 @@ Sehr häufig in den Meteoriten, besonders in denen von Knyahinya, auch von Siena
 
 In [Fig. 1](https://cdn.solaranamnesis.com/DFWeinland/fig1.png) [80mal vergrössert] haben wir ein kleines Exemplar abgebildet. Es stammt von dem Meteorfall von Iowa und liefert zugleich ein deutliches Bild der inneren Struktur. Oben und unten ist die hier grau gefärbte äußere Rinde des Stockes erhalten. In der Mitte hat der Schliff dieselbe rasiert und zwar ungleich auf den beiden Seiten; rechts tiefer, daher man dort die vom Boden hereinragenden Lamellen noch ziemlich parallel liegen sieht. In der linken Hälfte dagegen ist der Schliff gerade durch die innerste, unregelmäßigere, lakunöse Mittellage des Lappens durchgegangen. Das ganze Stöckchen ist 1,6 mm lang, 1,2 mm breit. — Einen ähnlichen, ebenso instruktiven Durchschnitt haben wir von Knyahinya.
 
-Wir erlauben uns, die Art nach Herrn Professor Zittel, dem gründlichen Erforscher der fossilen Schwämme, zu benennen.
+Wir erlauben uns, die Art nach Herrn Professor [Karl Alfred von] Zittel, dem gründlichen Erforscher der fossilen Schwämme, zu benennen.
 
 ##### _Pectiscus rudis. N. sp._  
 
