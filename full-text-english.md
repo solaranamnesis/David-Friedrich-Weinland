@@ -121,4 +121,8 @@ We permit ourselves to name this species after the gentleman Professor [Karl Alf
 
 #### _Pectiscus rudis. N. sp._
 
+A smaller form with even coarser slats.
+
+### 3. Callaion. Nov. gen.
+
 ...
