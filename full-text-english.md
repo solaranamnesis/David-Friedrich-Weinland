@@ -91,13 +91,13 @@ This form, already depicted by Hahn (see above), comes from the meteorite fall o
 ## II. Sponges and Foraminifera  
 ### Family: Uranidae. Nov.  
 
-A highly characteristic meteorite type of a lower animal form that occurs very frequently in a wide variety of meteorite falls and — because in the additional excellent thin sections we located the best of all meteorites forms — hardly exempting the Hahnia (see below) — can be studied. The same cannot be closely associated with any of the terrestrial animal forms known to us. Whether sponge, whether foraminifera, this question will be difficult to decide, as is well known in some cases of terrestrial fossil forms. Perhaps we are dealing here with an intermediate form.
+A highly characteristic meteorite type of a lower animal form that occurs very frequently in a wide variety of meteorite falls and — because in the additional excellent cuts we located the best of all meteorites forms — hardly exempting the Hahnia (see below) — can be studied. The same cannot be closely associated with any of the terrestrial animal forms known to us. Whether sponge, whether foraminifera, this question will be difficult to decide, as is well known in some cases of terrestrial fossil forms. Perhaps we are dealing here with an intermediate form.
 
 They are sessile, pillow-shaped stumps with a fine porous lamellar cortex layer and crude, likewise lamellar, lacunae or chambers forming the internal skeleton.
 
 ### 1. Urania, Hahn (sensu stricto.).
 
-We adopt in the strict sense the genus name of Hahn, which he had already established in his work "The Primordial Cell", although as a genus of plants, for a very characteristic meteorite form. Since then, in a number of favorable thin sections I have been able to study and draw these interesting forms, which in the Knyahinya meteorite are particularly common, so that any doubt about their animal nature, which Hahn later presumed in his meteorite work, can no longer exist. They are always smalt blue and pillow-shaped; the very delicate, finely dashed, velvety looking porous cuticle is probably the peduncle of these sessile stumps. In the cross-section one immediately distinguishes a translucent porous cortex layer. The whole interior of the pillow consists of a rather irregular mesh tissue, which radiates from the cortex towards the center smoothing into lamellar  lineaments, which have lacuna-like cavities or chambers between them.
+We adopt in the strict sense the genus name of Hahn, which he had already established in his work "The Primordial Cell", although as a genus of plants, for a very characteristic meteorite form. Since then, in a number of favorable cuts I have been able to study and draw these interesting forms, which in the Knyahinya meteorite are particularly common, so that any doubt about their animal nature, which Hahn later presumed in his meteorite work, can no longer exist. They are always smalt blue and pillow-shaped; the very delicate, finely dashed, velvety looking porous cuticle is probably the peduncle of these sessile stumps. In the cross-section one immediately distinguishes a translucent porous cortex layer. The whole interior of the pillow consists of a rather irregular mesh tissue, which radiates from the cortex towards the center smoothing into lamellar  lineaments, which have lacuna-like cavities or chambers between them.
 
 #### _Urania Salve. N. sp._
 
@@ -106,5 +106,7 @@ This is what we wish to call them, for they are the first greetings of organic f
 ### 2. Pectiscus. Nov. gen.
 
 (πηxτὁς = gekämmt = "Combed".)
+
+Lobate, probably with wide sessile base stumps. They belong to the same family as Urania, to the Uranidae. But the cortex layer here is different, coarse, comb-like, i.e. formed as stronger, more or less radially emanating ribs (lamellae), often reminiscent of the septa of certain coral forms, such as Fungia. But the inner structure, however, as we have in several quite excellent cuts before us (see Figure 1 [magnified 80 times]), consists, as in Urania, of a lamellar, chamber-forming tissue that has nothing to do with coral structure. There are a number of species, some of which are apparently quite large, however in the latter only the coarse, inner, chambered mesh-tissue is preserved.
 
 ...
