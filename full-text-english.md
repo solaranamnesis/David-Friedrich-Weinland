@@ -127,8 +127,13 @@ A smaller form with even coarser slats.
 
 (xάλλαιον = Hahnenkamm = "Cockscomb".)
 
-One of the most remarkable and beautiful structures in our meteorite fauna. A fine form, like some sinuate cockscombs, reminiscent of some corals (Fungia, Herpetolithus) in its striking habitus, but in accordance with the microscopic construction of their cortex layer they probably belong with the Uranidae. The thin, outermost layer of the cortex is just as delicately bluish grey, velvety, even finely striped, as in Urania. In most cuts the raised combs that separate the concavities of the stump from each other, as well as in a fine longitudinal cut in which one can recognize these slight depressions, lie beneath the grey cortex tissue composed of parallel or slightly radiating, very regular lamellae, passing through oblique straps connected to each other and located the innermost structure that, as we know from Urania and Pectiscus, unfortunately does not show in the best preserved unique specimens, since nowhere does the cut penetrate deep enough. — In this form we are most vividly reminded of the cross-section of Carpenteria Rhaphidodendron, [Karl August] Möbius, a foraminifera of Mauritius, provided in his beautiful treatise on the Eozoon Canadense (Palaeontology XXV, Table 40 Figure 60).
+One of the most remarkable and beautiful constructions in our meteorite fauna. A fine form, like some sinuate cockscombs, reminiscent of some corals (Fungia, Herpetolithus) in its striking habitus, but in accordance with the microscopic construction of its cortex layer it probably belongs with the Uranidae. The thin, outermost layer of the cortex is just as delicately blue-grey, velvety, and even finely striped, as in Urania. In most cuts the raised combs that separate the concavities of the stump from each other, as well as in a fine longitudinal cut in which one can recognize these slight depressions, lie beneath the grey cortex tissue composed of parallel or slightly radiating, very regular lamellae, passing through oblique straps connected to each other and located in the innermost structure that, as we know from Urania and Pectiscus, unfortunately does not show in the best preserved unique specimens, since nowhere does the cut penetrate deep enough. — In this form we are most vividly reminded of the cross-section of Carpenteria Rhaphidodendron, a foraminifera of Mauritius, provided by [Karl August] Möbius in his beautiful treatise on the Eozoon Canadense (Palaeontology XXV, Table 40 Figure 60).
 
 #### _Callaion Paulinianum. N. sp._
 
+Not shown in Hahn's Meteorite Atlas.
+
+Widest diameter of the little stumps 2.8 mm, the smallest 2 mm.
+
 ...
+
