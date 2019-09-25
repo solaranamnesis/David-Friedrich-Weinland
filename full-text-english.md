@@ -153,6 +153,10 @@ Not pictured by Hahn. In the one on hand, the pores and pore holes of the conspi
 
 In a cut of Knyahinya.
 
-We would like to name the species in honor of the famous researcher of living sponges, Professor Oscar Schmidt in Strasbourg. 
+We would like to name the species in honor of the famous researcher of living sponges, Professor [Eduard] Oscar Schmidt in Strasbourg. 
+
+### 5. Carydion. Nov. gen.
+
+(xάρυον = Nuss = "Nut".)
 
 ...
