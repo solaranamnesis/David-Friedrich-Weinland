@@ -165,4 +165,10 @@ These forms, not depicted by Hahn, are quite common in the meteorites; they are 
 
 #### _Carydion solidum. N. sp._
 
+Diameter of the whole 0.32 mm. The little openings, i.e. tubules in the carapace, have a diameter of 0.01 to 0.005 mm. The thickness of the armature forming girders is 0.02 to 0.5 mm. The mesh created by the girders appears three- or four-sided. The thickness of the cortex or carapace is 0.09 mm; the outer contour entirely rounded corners; the cavities are usually filled with black organic matter. The pores of the cortex are tinged black. The finer structure of the cortex indicates roundish cells at high magnification. — From a cut of the Cabarras meteorite fall.
+
+### 6. Brochosphaera. Nov. gen.
+
+(βρόχος = Masche = "Mesh", and σφαῖρα = Kugel = "Sphere".)
+
 ...
