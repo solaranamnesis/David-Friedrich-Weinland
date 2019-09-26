@@ -165,10 +165,13 @@ These forms, not depicted by Hahn, are quite common in the meteorites; they are 
 
 #### _Carydion solidum. N. sp._
 
-Diameter of the whole 0.32 mm. The little openings, i.e. tubules in the carapace, have a diameter of 0.01 to 0.005 mm. The thickness of the armature forming girders is 0.02 to 0.5 mm. The mesh created by the girders appears three- or four-sided. The thickness of the cortex or carapace is 0.09 mm; the outer contour entirely rounded corners; the cavities are usually filled with black organic matter. The pores of the cortex are tinged black. The finer structure of the cortex indicates roundish cells at high magnification. — From a cut of the Cabarras meteorite fall.
+Diameter of the whole 0.32 mm. The little openings, i.e. tubules in the carapace, have a diameter of 0.01 to 0.005 mm. The thickness of the armature forming girders is 0.02 to 0.5 mm. The mesh created by the girders appears three- or four-sided. The thickness of the cortex or carapace is 0.09 mm; the outer contour entirely rounded corners; the cavities are usually filled with black organic matter. The pores of the cortex are tinged black. The finer structure of the cortex indicates round cells at high magnification. — From a cut of the Cabarras meteorite fall.
 
 ### 6. Brochosphaera. Nov. gen.
 
 (βρόχος = Masche = "Mesh", and σφαῖρα = Kugel = "Sphere".)
 
+Quite common in the meteorites, especially in those of Knyahinya, are fairly extensive coarse-meshed nets, whose wide sutures are composed of more or less distinct, usually hexagonal, cells. Black carbonized particles, of an organic substance, are often attached to the sutures. As a rule, these nets are preserved only as shreds and it was for a long time impossible to obtain an idea of the whole, but finally, in a Knyahinya cut, I encountered an entity that that seemed to provide some enlightenment. It is a large, partially cut hemisphere slightly visible to the naked eye, whose outer contours are essentially preserved, and whose interior contains the most beautiful meshwork, as described above. The complete edge of the hemisphere, where it has not been hit by the cut, consists of rather equal, hexagonal cells or small plates. The inner space of the hemisphere, which has been exposed by the cut, is traversed by a multi-meshed net whose sutures consist of cells just like those of the exterior.
+
 ...
+
