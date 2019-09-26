@@ -173,5 +173,8 @@ Diameter of the whole 0.32 mm. The little openings, i.e. tubules in the carapace
 
 Quite common in the meteorites, especially in those of Knyahinya, are fairly extensive coarse-meshed nets, whose wide sutures are composed of more or less distinct, usually hexagonal, cells. Black carbonized particles, of an organic substance, are often attached to the sutures. As a rule, these nets are preserved only as shreds and it was for a long time impossible to obtain an idea of the whole, but finally, in a Knyahinya cut, I encountered an entity that that seemed to provide some enlightenment. It is a large, partially cut hemisphere slightly visible to the naked eye, whose outer contours are essentially preserved, and whose interior contains the most beautiful meshwork, as described above. The complete edge of the hemisphere, where it has not been hit by the cut, consists of rather equal, hexagonal cells or small plates. The inner space of the hemisphere, which has been exposed by the cut, is traversed by a multi-meshed net whose sutures consist of cells just like those of the exterior.
 
-...
+We can hardly accommodate this structure in any of the known animal groups other than the sponges, but even here it would establish a completely new type. — None of these forms are pictured by Hahn.
 
+#### Brochosphaera grandis. N. sp.
+
+...
