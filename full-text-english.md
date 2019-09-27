@@ -183,6 +183,6 @@ Comes from the meteorite fall of Knyahinya.
 
 #### Brochosphaera hexagonalis. N. sp.
 
-In this second species, the stated mesh chambers are constantly hexagonal, lying in the net like large crystals. A piece of this kind, of which the outer contours are very well preserved, measures 1.20 mm in diameter. The hexagonal, rarely pentagonal, crystal-like meshes are filled with silicates, measure 0.2 mm in diameter; the cells or small plates composing the network are 0.03 to 0.04 mm.
+In this second species, the stated mesh chambers are constantly hexagonal, lying in the net like large crystals. A piece of this kind, of which the outer contours are very well preserved, measures 1.20 mm in diameter. The hexagonal, rarely pentagonal, crystal-like meshes are filled with silicates, and measure 0.2 mm in diameter; the cells or small plates composing the network are 0.03 to 0.04 mm.
 
 ...
