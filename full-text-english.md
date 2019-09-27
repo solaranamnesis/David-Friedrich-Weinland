@@ -201,7 +201,7 @@ Not shown by Hahn. The diameter of the whole colony is 1.2 mm. Length of the lar
 
 From the Knyahinya meteorite fall.
 
-
+Other forms:
 
 ...
 
