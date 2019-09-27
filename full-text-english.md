@@ -212,6 +212,8 @@ This is the form that, after the strongest doubts, first led me to carry out a m
 
 Characteristics of the genus Hahnia: small microscopic polyp tubes, unequal, large mixed with small, more or less polygonal with rounded corners. The walls of the tubes are thick with sharp linear boundarys towards the outside. At high magnification, a uniformly thick inter-tubular tissue (Coenenchyma) becomes visible between the lines bordering the adjacent polyps, which represents a distinct network in the cross-section. Inner longitudinal strips (septa) are missing in the tubes, as well as the transverse dividing walls (tabulae), which are known to divide the individual tubes into floors on top of each other in many similar terrestrial corals. Colony probably encrusted, flat-bottomed, cake-shaped.
 
+The genus probably belongs to the Favositidae, a coral family that has long been extinct on Earth, flourishing in the Silurian and Devonian formations, and of which a large number of quite different forms requiring further zoological checks is described in Paleontology.
+
 ...
 
 
