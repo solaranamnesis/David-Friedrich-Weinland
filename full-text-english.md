@@ -205,7 +205,7 @@ Other forms:
 
 Small fragments of regularly winding formations with Polythalamia-like chambers, perhaps belonging to the Rhizopods, have occasionally come to our notice during the inspection of the meteorite cuts. But their preservation is usually not favorable. A fairly pretty piece of this kind, like a small Nautilus, is in a meteorite cut of Cabarras. The total diameter of the little bowl is about 0.5 mm, the chambers 0.05 to 0.1 mm. But these forms require further examination before we dare to determine them.
 
-## III. Korallen.  
+## III. Corals.  
 ### 1. Hahnia. Nov. gen.   
 
 ...
