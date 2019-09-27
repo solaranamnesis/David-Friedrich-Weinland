@@ -185,4 +185,10 @@ Comes from the meteorite fall of Knyahinya.
 
 In this second species, the stated mesh chambers are constantly hexagonal, lying in the net like large crystals. A piece of this kind, of which the outer contours are very well preserved, measures 1.20 mm in diameter. The hexagonal, rarely pentagonal, crystal-like meshes are filled with silicates, and measure 0.2 mm in diameter; the cells or small plates composing the network are 0.03 to 0.04 mm.
 
+Comes from Knyahinya. There is also a very similar one in a specimen of Cabarras. In another specimen of Knyahinya, the large hexagonal meshes appear regularly in two forms, the majority of 0.26 mm and smaller number of ones 0.4 to 0.3 mm in diameter. 
+
+### 7. Dicheliscus. Nov. gen.
+
+(θιχηλος = mit gespaltenen Klauen = "with split claws".)
+
 ...
