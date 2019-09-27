@@ -208,6 +208,6 @@ Small fragments of regularly winding formations with Polythalamia-like chambers,
 ## III. Corals.  
 ### 1. Hahnia. Nov. gen.   
 
+This is the form that, after the strongest doubts, first led me to carry out a more precise, zoological study of the entities discovered by Hahn. In fact, its presence alone is decisive. Admittedly, the photographic images of Hahn's, in his meteorite work Table 1, 5 and Table 10 Figures 3 and 4, are far from sufficient. A yellow iron staining on the specimen caused quite detrimental black shadows, and in general, microscopic photography has not yet reached the point of reproducing the images with the sharpness that they present to the eye. As valuable as the photographic picture is for larger forms, like the beautiful coral works of Dr. Klitzinger and Rominger prove, for the time being, regarding microscopic representation, the hand of the researcher himself, drawing with full understanding, will not, perhaps ever, be replaced by the mechanical representation. Our Hahnia, Figure 2 [Hahnia meteoritica, N., attached to a Pectiscus. magnified 80 times.], has unfortunately remained unique to this day. The cut in question belongs to the meteorite fall of Knyahinya. It is one of the most fortunate and also contains very nice scraps of Urania, Pectiscus, and Phormiscus.
+
 ...
-
-
