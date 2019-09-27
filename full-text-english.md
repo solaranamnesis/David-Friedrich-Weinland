@@ -177,10 +177,12 @@ We can hardly accommodate this structure in any of the known animal groups other
 
 #### Brochosphaera grandis. N. sp.
 
-Allow us to name this species, of which the best preserved piece is the present large hemisphere. The diameter of the whole sphere is 3.20 mm. The diameter of the mesh inside is 0.2 to 0.4 mm. The diameter of the often elongated, but often fairly equilateral, hexagonal cells or little plates that compose the whole is 0.03 to 0.05 mm. The rounded mesh chamber formed by the thick sutures is filled in the present petrefact with a transparent glassy silicate, often interspersed with fine crack lines.
+Allow us to name this species, of which the best preserved piece is the present large hemisphere. The diameter of the whole sphere is 3.20 mm. The diameter of the mesh inside is 0.2 to 0.4 mm. The diameter of the often elongated, but often fairly equilateral, hexagonal cells or little plates that compose the whole is 0.03 to 0.05 mm. The rounded mesh chambers formed by the thick sutures are filled in the present petrefact with a transparent glassy silicate and often interspersed with fine crack lines.
 
 Comes from the meteorite fall of Knyahinya.
 
 #### Brochosphaera hexagonalis. N. sp.
+
+In this second species, the stated mesh chambers are constantly hexagonal, lying in the net like large crystals. A piece of this kind, of which the outer contours are very well preserved, measures 1.20 mm in diameter. The hexagonal, rarely pentagonal, crystal-like meshes are filled with silicates, measure 0.2 mm in diameter; the cells or small plates composing the network are 0.03 to 0.04 mm.
 
 ...
