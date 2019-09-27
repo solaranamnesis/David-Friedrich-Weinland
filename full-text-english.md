@@ -197,6 +197,12 @@ Until further notice, we would like to first place these structures with the for
 
 #### Dicheliscus uva. N. sp.
 
+Not shown by Hahn. The diameter of the whole colony is 1.2 mm. Length of the largest, cut bladder 0.15 mm. Thickness of the separating wall 0.01 mm. The bladders in the available specimen are of different sizes and all shifts of the grinding are noticable.
+
+From the Knyahinya meteorite fall.
+
+
+
 ...
 
 
