@@ -87,7 +87,7 @@ Durchmesser des ganzen, hier abgebildeten Bruchstücks 0,70 mm. Durchmesser eine
 
 Wir begründen diese Gattung auf sehr charakteristische Strukturstücke, die öfters in unseren Schliffen vorkommen und von denen Hahn in seinen Meteoriten, Taf. 13, Fig. 6, eines abgebildet hat. Es ist ein fest zusammengefügtes, netzartiges Kieselgewebe aus innig verwachsenen, eine zusammenhängende Scheibe darstellenden Kieselbällchen gebildet, die sich unter Winkeln kreuzen und fast gleichseitige, viereckige Maschen bilden. Da, wo sich die Leisten kreuzen, entstehen Buckeln wie Knöpfe eines Netzes. — Wir können wohl auch diese Gebilde am ehesten bei den Polycistinen unterbringen, unter denen Häckel ähnliche Skelettformen in seinem schönen Werke: „Die Radiolarien“ Taf. 29 abgebildet hat. Besonders kämen in Betracht die Gattungen _Stylodictya_ und _Stylospira_, die ganz ähnliche geknöpfte Netzformen in ihrem inneren Skelett aufweisen. Doch könnte man auch an Schwämme, z. B. an manche Scyphia denken; oder an Bryozoen?
 
-#### _Goniobrochus Häckelii. N. sp._  
+#### _Goniobrochus Haeckelii. N. sp._  
 
 Diese schon von Hahn (siehe oben) abgebildete Form stammt von dem Meteorfall von Cabarras. Das vorliegende Stück erscheint in dem Schliff fächerförmig ausgebreitet, misst in die Quere 0,5, die Höhe 0,4 mm. Die Dicke der Bällchen beträgt 0,01, der Durchmesser einer Masche ebenso 0,01 mm. Das Ganze scheint eine runde Scheibe oder vielleicht auch einen Trichter gebildet zu haben. Wir nennen die Art zu Ehren unseres einstigen Studiengenossen, des berühmten Begründers unserer genaueren Kunde von der großen Welt dieser kleinen Organismen.
 
