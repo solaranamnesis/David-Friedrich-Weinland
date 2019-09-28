@@ -84,7 +84,7 @@ The diameter of the whole piece shown here is 0.70 mm. Diameter of an entire fun
 
 We establish this genus on very characteristic structural pieces, which occur frequently in our cuts and one of which has been depicted by Hahn in his meteorite on Table 13, Figure 6. It is a tightly assembled, net-like silica tissue intimately grown together, forming an interrelated pane resembling a small silica ball, whose cross angles overlap to form almost equilateral, quadrilateral meshes. Where these slats cross, hunches arise like a web of knobs. — We can also probably place these structures with the Polycistines, among similar skeletal forms depicted by Häckel in his fine work, "The Radiolarians", on Table 29. The genera _Stylodictya_ and _Stylospira_, which have very similar knob networks forming their inner skeleton, are particularly worthy of consideration. But one might also think of sponges, such as Scyphia; or of Bryozoa?
 
-#### _Goniobrochus Häckelii. N. sp._  
+#### _Goniobrochus Haeckelii. N. sp._  
 
 This form, already depicted by Hahn (see above), comes from the meteorite fall of Cabarras. The available piece appears spread out and fan-shaped in the cut, measuring 0.5 mm crosswise and 0.4 mm in height. The thickness of the little balls is 0.01 mm, the diameter of a stitch is likewise 0.01 mm. The entirety seems to have formed a round pane or perhaps even forming a funnel. We name the species in honor of our former fellow student, the famous founder of the detailed accounts about the great world of these small organisms. 
 
