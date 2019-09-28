@@ -65,13 +65,13 @@ More finely woven than the previous type. The spicules cross at more extensive a
 
 The best specimens, which were found later and include the inner structure, are not yet pictured. The diameter of one of such is 3.2 mm. So it is a big creature that is rather noticable to the naked eye.
 
-That these _Phormiscus_ belong to the Polycistines seems to us certain. The hollow, partially perforated silica spicules, and particularly the spherical shapes, which is conceivable only in animals moving freely in water, points first of all to this, and not to sponges as one might otherwise think. In any case, however, they form their own family, which we will call Phormiscidae. — They are certainly not crinoids, as Hahn formerly supposed.
+That these _Phormiscus_ belong to the Polycistines seems to us certain. The hollow, partially perforated silica spicules, and particularly the spherical shapes, which is conceivable only in animals moving freely in water, points first of all to this, and not to sponges as one might otherwise think. In any case, however, they form their own family, which we will call _Phormiscidae_. — They are certainly not crinoids, as Hahn formerly supposed.
 
 ### 2. Thyriscus. Nov. gen.  
 
 (θυρις = Fenster = "Window".)
 
-Similarly faceted spheres, consisting of little silica balls, arranged in such a way that they form quadrangular, inwardly tapering funnels like windows or even better, embrasure constructions. The balls are hollow and often furnished with noticeable perforations. Undoubtedly belongs with the family of Phormiscidae.
+Similarly faceted spheres, consisting of little silica balls, arranged in such a way that they form quadrangular, inwardly tapering funnels like windows or even better, embrasure constructions. The balls are hollow and often furnished with noticeable perforations. Undoubtedly belongs with the family of _Phormiscidae_.
 
 #### _Thyriscus formosus. N. sp._  
 (Hahn: Plate 30, Fig. 3.)  
@@ -82,7 +82,7 @@ The diameter of the whole piece shown here is 0.70 mm. Diameter of an entire fun
 
 (γωνια = Winkel = "Angle", βρὁχος = Masche = "Mesh".)
 
-We establish this genus on very characteristic structural pieces, which occur frequently in our cuts and one of which has been depicted by Hahn in his meteorite on Table 13, Figure 6. It is a tightly assembled, net-like silica tissue intimately grown together, forming an interrelated pane resembling a small silica ball, whose cross angles overlap to form almost equilateral, quadrilateral meshes. Where these slats cross, hunches arise like a web of knobs. — We can also probably place these structures with the Polycistines, among similar skeletal forms depicted by Häckel in his fine work, "The Radiolarians", on Table 29. The genera Stylodictya and Stylospira, which have very similar knob networks forming their inner skeleton, are particularly worthy of consideration. But one might also think of sponges, such as Scyphia; or of Bryozoa?
+We establish this genus on very characteristic structural pieces, which occur frequently in our cuts and one of which has been depicted by Hahn in his meteorite on Table 13, Figure 6. It is a tightly assembled, net-like silica tissue intimately grown together, forming an interrelated pane resembling a small silica ball, whose cross angles overlap to form almost equilateral, quadrilateral meshes. Where these slats cross, hunches arise like a web of knobs. — We can also probably place these structures with the Polycistines, among similar skeletal forms depicted by Häckel in his fine work, "The Radiolarians", on Table 29. The genera _Stylodictya_ and _Stylospira_, which have very similar knob networks forming their inner skeleton, are particularly worthy of consideration. But one might also think of sponges, such as Scyphia; or of Bryozoa?
 
 #### _Goniobrochus Häckelii. N. sp._  
 
@@ -107,11 +107,11 @@ This is what we wish to call them, for they are the first greetings of organic f
 
 (πηxτὁς = gekämmt = "Combed".)
 
-Lobate, probably with wide sessile base colonies. They belong to the same family as Urania, to the Uranidae. But the cortex layer here is different, coarse, comb-like, i.e. formed as stronger, more or less radially emanating ribs (lamellae), often reminiscent of the septa of certain coral forms, such as Fungia. But the inner structure, however, as we have in several quite excellent cuts before us (see Figure 1 [magnified 80 times]), consists, as in _Urania_, of a lamellar, chamber-forming tissue that has nothing to do with coral structure. There are a number of species, some of which are apparently quite large, however in the latter only the coarse, inner, chambered mesh-tissue is preserved.
+Lobate, probably with wide sessile base colonies. They belong to the same family as _Urania_, to the _Uranidae_. But the cortex layer here is different, coarse, comb-like, i.e. formed as stronger, more or less radially emanating ribs (lamellae), often reminiscent of the septa of certain coral forms, such as Fungia. But the inner structure, however, as we have in several quite excellent cuts before us (see Figure 1 [magnified 80 times]), consists, as in _Urania_, of a lamellar, chamber-forming tissue that has nothing to do with coral structure. There are a number of species, some of which are apparently quite large, however in the latter only the coarse, inner, chambered mesh-tissue is preserved.
 
 #### _Pectiscus Zittelii. N. sp._
 
-The most common species. Based on its external appearance, its radial rays, and also often by its overall contour, one is often reminded of the familiar scallops (Pecten). But the lobes of these colonies do not maintain a regular overall shape. They are always rounded at the edges, often the edge is divided into smaller lobes by shallow notches. Diameter of the colonies, about 1 to 3 mm. The fine little ribs towards the gray cortex are on average 0.04 mm apart.
+The most common species. Based on its external appearance, its radial rays, and also often by its overall contour, one is often reminded of the familiar scallops (_Pecten_). But the lobes of these colonies do not maintain a regular overall shape. They are always rounded at the edges, often the edge is divided into smaller lobes by shallow notches. Diameter of the colonies, about 1 to 3 mm. The fine little ribs towards the gray cortex are on average 0.04 mm apart.
 
 Very much widespread in the meteorites, particularly those of Knyahinya and also of Siena. Also, the large structure to which our _Hahnia_ (see below) appears stuck on is such a _Pectiscus_.
 
@@ -127,7 +127,7 @@ A smaller form with even coarser slats.
 
 (xάλλαιον = Hahnenkamm = "Cockscomb".)
 
-One of the most remarkable and beautiful constructions in our meteorite fauna. A fine form, like some sinuate cockscombs, reminiscent of some corals (Fungia, Herpetolithus) in its striking habitus, but in accordance with the microscopic construction of its cortex layer it probably belongs with the Uranidae. The thin, outermost layer of the cortex is just as delicately blue-grey, velvety, and even finely striped, as in Urania. In most cuts the raised combs that separate the concavities of the colony from each other, as well as in a fine longitudinal cut in which one can recognize these slight depressions, lie beneath the grey cortex tissue composed of parallel or slightly radiating, very regular lamellae, passing through oblique straps connected to each other and located in the innermost structure that, as we know from Urania and Pectiscus, unfortunately does not show in the best preserved unique specimens, since nowhere does the cut penetrate deep enough. — In this form we are most vividly reminded of the cross-section of Carpenteria Rhaphidodendron, a foraminifera of Mauritius, provided by [Karl August] Möbius in his beautiful treatise on the Eozoon Canadense (Palaeontology XXV, Table 40 Figure 60).
+One of the most remarkable and beautiful constructions in our meteorite fauna. A fine form, like some sinuate cockscombs, reminiscent of some corals (_Fungia_, _Herpetolithus_) in its striking habitus, but in accordance with the microscopic construction of its cortex layer it probably belongs with the _Uranidae_. The thin, outermost layer of the cortex is just as delicately blue-grey, velvety, and even finely striped, as in _Urania_. In most cuts the raised combs that separate the concavities of the colony from each other, as well as in a fine longitudinal cut in which one can recognize these slight depressions, lie beneath the grey cortex tissue composed of parallel or slightly radiating, very regular lamellae, passing through oblique straps connected to each other and located in the innermost structure that, as we know from _Urania_ and _Pectiscus_, unfortunately does not show in the best preserved unique specimens, since nowhere does the cut penetrate deep enough. — In this form we are most vividly reminded of the cross-section of _Carpenteria Rhaphidodendron_, a foraminifera of Mauritius, provided by [Karl August] Möbius in his beautiful treatise on the _Eozoon Canadense_ (Palaeontology XXV, Table 40 Figure 60).
 
 #### _Callaion Paulinianum. N. sp._
 
@@ -135,7 +135,7 @@ Not shown in Hahn's meteorite atlas.
 
 Widest diameter of the little colonies 2.8 mm, the smallest 2 mm.
 
-It presents itself to the naked eye as a grey, mottled speck. The parallel lamellae, appearing as delicate stripes on the bluish surface, are 0.002 mm apart. The proximal, coarser lamellae 0.01 mm. The individual concavities within the colony sometimes appear as elongated troughs 0.06 mm in diameter, sometimes as roundish, or more or less angular, crater-like depressions from 0.05 to 0.3 mm in diameter. Between these ridges, combs run quite like Manicina areolata and many other corals, but of varying width, 0.05 to 0.2 mm in diameter.
+It presents itself to the naked eye as a grey, mottled speck. The parallel lamellae, appearing as delicate stripes on the bluish surface, are 0.002 mm apart. The proximal, coarser lamellae 0.01 mm. The individual concavities within the colony sometimes appear as elongated troughs 0.06 mm in diameter, sometimes as roundish, or more or less angular, crater-like depressions from 0.05 to 0.3 mm in diameter. Between these ridges, combs run quite like _Manicina areolata_ and many other corals, but of varying width, 0.05 to 0.2 mm in diameter.
 
 The cut comes from the meteorite fall of Iowa (February 1847). Unfortunately, only one specimen is well preserved but we also often encountered rudera of this species in meteorites of Knyahinya.
 
@@ -145,7 +145,7 @@ We permit ourselves to name this species in honor of Miss Pauline Schloz, the me
 
 (γλῶσσα = Zunge = "Tongue".)
 
-Rounded, tongue-like lobes constructing colonies. The cuticle is composed of hexagonal panels. Pores in the recessed furrows and round, recessed holes; no trace of radial ribs as with the Uranidae. Without question belonging to the sponges.
+Rounded, tongue-like lobes constructing colonies. The cuticle is composed of hexagonal panels. Pores in the recessed furrows and round, recessed holes; no trace of radial ribs as with the _Uranidae_. Without question belonging to the sponges.
 
 #### _Glossiscus Schmidtii. N. sp._
 
@@ -191,7 +191,7 @@ Comes from Knyahinya. There is also a very similar one in a specimen of Cabarras
 
 (θιχηλος = mit gespaltenen Klauen = "with split claws".)
 
-A striking and characteristic shape, consisting of an interrelated cluster or pane of round bladders. The more or less heavily intruding cut into them allows for some clear insights into the hollow interior. You can see a perpendicular diaphragm going through the middle of the bladder. This separating wall is always thicker on one side than on the other; it arises from a broad base at the end of the cordiform bladder and goes through lamellar-like thinning up to the other end. Such a polished bladder with its diaphragm gives the image of a double split hoof, hence our name: Dicheliscus. The fact that the bladders are interrelated with each other seems clear from several parts of the specimen, as we will later depict them.
+A striking and characteristic shape, consisting of an interrelated cluster or pane of round bladders. The more or less heavily intruding cut into them allows for some clear insights into the hollow interior. You can see a perpendicular diaphragm going through the middle of the bladder. This separating wall is always thicker on one side than on the other; it arises from a broad base at the end of the cordiform bladder and goes through lamellar-like thinning up to the other end. Such a polished bladder with its diaphragm gives the image of a double split hoof, hence our name: _Dicheliscus_. The fact that the bladders are interrelated with each other seems clear from several parts of the specimen, as we will later depict them.
 
 Until further notice, we would like to first place these structures with the foraminifera. 
 
@@ -203,17 +203,17 @@ From the Knyahinya meteorite fall.
 
 Other forms:
 
-Small fragments of regularly winding formations with Polythalamia-like chambers, perhaps belonging to the Rhizopods, have occasionally come to our notice during the inspection of the meteorite cuts. But their preservation is usually not favorable. A fairly pretty piece of this kind, like a small Nautilus, is in a meteorite cut of Cabarras. The total diameter of the little bowl is about 0.5 mm, the chambers 0.05 to 0.1 mm. But these forms require further examination before we dare to determine them.
+Small fragments of regularly winding formations with _Polythalamia_-like chambers, perhaps belonging to the _Rhizopods_, have occasionally come to our notice during the inspection of the meteorite cuts. But their preservation is usually not favorable. A fairly pretty piece of this kind, like a small Nautilus, is in a meteorite cut of Cabarras. The total diameter of the little bowl is about 0.5 mm, the chambers 0.05 to 0.1 mm. But these forms require further examination before we dare to determine them.
 
 ## III. Corals.  
 ### 1. Hahnia. Nov. gen.   
 
-This is the form that, after the strongest doubts, first led me to carry out a more precise, zoological study of the entities discovered by Hahn. In fact, its presence alone is decisive. Admittedly, the photographic images of Hahn's, in his meteorite work Table 1, 5 and Table 10 Figures 3 and 4, are far from sufficient. A yellow iron staining on the specimen caused quite detrimental black shadows, and in general, microscopic photography has not yet reached the point of reproducing the images with the sharpness that they present to the eye. As valuable as the photographic picture is for larger forms, like the beautiful coral works of Dr. Klunzinger and Rominger prove, for the time being, regarding microscopic representation, the hand of the researcher himself, drawing with full understanding, will not, perhaps ever, be replaced by the mechanical representation. Our Hahnia, Figure 2 [Hahnia meteoritica, N., attached to a Pectiscus. magnified 80 times.], has unfortunately remained unique to this day. The cut in question belongs to the meteorite fall of Knyahinya. It is one of the most fortunate and also contains very nice scraps of Urania, Pectiscus, and Phormiscus.
+This is the form that, after the strongest doubts, first led me to carry out a more precise, zoological study of the entities discovered by Hahn. In fact, its presence alone is decisive. Admittedly, the photographic images of Hahn's, in his meteorite work Table 1, 5 and Table 10 Figures 3 and 4, are far from sufficient. A yellow iron staining on the specimen caused quite detrimental black shadows, and in general, microscopic photography has not yet reached the point of reproducing the images with the sharpness that they present to the eye. As valuable as the photographic picture is for larger forms, like the beautiful coral works of Dr. Klunzinger and Rominger prove, for the time being, regarding microscopic representation, the hand of the researcher himself, drawing with full understanding, will not, perhaps ever, be replaced by the mechanical representation. Our Hahnia, Figure 2 [Hahnia meteoritica, N., attached to a Pectiscus. magnified 80 times.], has unfortunately remained unique to this day. The cut in question belongs to the meteorite fall of Knyahinya. It is one of the most fortunate and also contains very nice scraps of _Urania_, _Pectiscus_, and _Phormiscus_.
 
 Characteristics of the genus Hahnia: small microscopic polyp tubes, unequal, large mixed with small, more or less polygonal with rounded corners. The walls of the tubes are thick with sharp linear boundarys towards the outside. At high magnification, a uniformly thick inter-tubular tissue (coenenchyme) becomes visible between the lines bordering the adjacent polyps, which represents a distinct network in the cross-section. Inner longitudinal strips (septa) are missing in the tubes, as well as the transverse dividing walls (tabulae), which are known to divide the individual tubes into floors on top of each other in many similar terrestrial corals. Colony probably encrusted, flat-bottomed, cake-shaped.
 
-The genus probably belongs to the Favositidae, a coral family that has long been extinct on Earth, flourishing in the Silurian and Devonian formations, and of which a large number of quite different forms requiring further zoological checks is described in Paleontology [Rominger 1876].
+The genus probably belongs to the _Favositidae_, a coral family that has long been extinct on Earth, flourishing in the Silurian and Devonian formations, and of which a large number of quite different forms requiring further zoological checks is described in "Paleontology" [Rominger 1876].
 
-Diameter of the whole colony 0.90 mm, thus even with the naked eye it can be recognized as a small lentil. Diameter of the individual polyp calyxes 0.04 to 0.1 mm. Diameter of the yellow intermediate pathways, coenenchyme, 0.008 mm. At the corners the same becomes swollen, as is often the case with the Favosites. The striking resemblance of this colony with Favosites polymorphus from the Devonian has already been noticed by Prof. Quenstedt when Dr. Hahn showed him the object. Even more, it can be compared with Favosites bimuratus from the Devonian of Bensberg, where the polyp walls and the coenenchyme are remarkably similar, ableit always with the exception of the size ratio. For Favosites bimuratus have calyxes measuring from a half to 1 mm. 
+Diameter of the whole colony 0.90 mm, thus even with the naked eye it can be recognized as a small lentil. Diameter of the individual polyp calyxes 0.04 to 0.1 mm. Diameter of the yellow intermediate pathways, coenenchyme, 0.008 mm. At the corners the same becomes swollen, as is often the case with the Favosites. The striking resemblance of this colony with _Favosites polymorphus_ from the Devonian has already been noticed by Prof. Quenstedt when Dr. Hahn showed him the object. Even more, it can be compared with _Favosites bimuratus_ from the Devonian of Bensberg, where the polyp walls and the coenenchyme are remarkably similar, ableit always with the exception of the size ratio. For _Favosites bimuratus_ have calyxes measuring from a half to 1 mm. 
 
 ...
