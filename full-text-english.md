@@ -24,7 +24,7 @@ An in-depth study of them this past year has provided the following prelimiary r
 
 3\. By far the majority of the structures contained in the available meteorites can be subordinated to the classes of polycistines, sponges, and foraminifera, although the types are different from the terrestrial ones.
 
-4\. Of coral forms three genera have so far been sufficiently identified, with one so perfectly preserved and displaying the finest microscopic structure that one seldom finds in terrestrial fossils. With one exception, these corals are among the oldest forms encountered on Earth, the Favosites.
+4\. Of coral forms three genera have so far been sufficiently identified, with one so perfectly preserved and displaying the finest microscopic structure that one seldom finds in terrestrial fossils. With one exception, these corals are among the oldest forms encountered on Earth, the _Favosites_.
 
 5\. Of crinoids three forms, but all are still doubtful.
 
