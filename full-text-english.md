@@ -45,20 +45,20 @@ This situation seems to us to exlude Schiaparelli's recent hypothesis that the m
 We will now try to briefly characterize some of the most notable genera and species, reserving a more comprehensive description with illustrations, especially of the interior structural relations, for those in which there is already a great deal of material.
 
 ## I. Gittertierchen "Little Grated Creature", Polycystina.  
-### 1. Phormiscus. Nov. gen.  
+### 1. _Phormiscus_. Nov. gen.  
 
 (_φορμισxος_ = Binsenkörbchen = "Little rush basket".)  
 
 Faceted spheres, consisting of clear glass silica spicules that lay one on top of the other at regular angles like a rush-basket. The spicules are hollow, often furnished with clearly defined longitudinal cavities. Here:
 
-#### _Phormiscus vulgaris. N. sp._
+#### _Phormiscus vulgaris_. N. sp.
 (Image: Hahn, Meteorite, Table. 29, Fig. 2.)  
 
 Diameter of the whole 0.18 mm. Diameter of the spicule joists 0.05 mm. From the meteorite fall of Knyahinya.
 
 These Phormiscus forms are exceptionally common in fragments of the Knyahinya meteorite. There are several types, but the most common one is the one mentioned above, which is immediately recognizable by the thick, clear glass spicule bundles crossed on top of each other at acute angles.
 
-#### _Phormiscus grandis. N. sp._
+#### _Phormiscus grandis_. N. sp.
 (Image: Hahn, Meteorite: Table. 29, Fig. 6.)  
 
 More finely woven than the previous type. The spicules cross at more extensive angles.
@@ -67,29 +67,29 @@ The best specimens, which were found later and include the inner structure, are 
 
 That these _Phormiscus_ belong to the Polycistines seems to us certain. The hollow, partially perforated silica spicules, and particularly the spherical shapes, which is conceivable only in animals moving freely in water, points first of all to this, and not to sponges as one might otherwise think. In any case, however, they form their own family, which we will call _Phormiscidae_. — They are certainly not crinoids, as Hahn formerly supposed.
 
-### 2. Thyriscus. Nov. gen.  
+### 2. _Thyriscus_. Nov. gen.  
 
 (θυρις = Fenster = "Window".)
 
 Similarly faceted spheres, consisting of little silica balls, arranged in such a way that they form quadrangular, inwardly tapering funnels like windows or even better, embrasure constructions. The balls are hollow and often furnished with noticeable perforations. Undoubtedly belongs with the family of _Phormiscidae_.
 
-#### _Thyriscus formosus. N. sp._  
+#### _Thyriscus formosus_. N. sp.  
 (Hahn: Plate 30, Fig. 3.)  
 
 The diameter of the whole piece shown here is 0.70 mm. Diameter of an entire funnel 0.35 mm. Diameter of the individual balls 0.01 mm. Distance of the holes from each other 0.006 mm. Diameter of the holes 0.001 mm. From the meteorite fall of Knyahinya.
 
-### 3. Goniobrochus. Nov. gen.  
+### 3. _Goniobrochus_. Nov. gen.  
 
 (γωνια = Winkel = "Angle", βρὁχος = Masche = "Mesh".)
 
 We establish this genus on very characteristic structural pieces, which occur frequently in our cuts and one of which has been depicted by Hahn in his meteorite on Table 13, Figure 6. It is a tightly assembled, net-like silica tissue intimately grown together, forming an interrelated pane resembling a small silica ball, whose cross angles overlap to form almost equilateral, quadrilateral meshes. Where these slats cross, hunches arise like a web of knobs. — We can also probably place these structures with the Polycistines, among similar skeletal forms depicted by Häckel in his fine work, "The Radiolarians", on Table 29. The genera _Stylodictya_ and _Stylospira_, which have very similar knob networks forming their inner skeleton, are particularly worthy of consideration. But one might also think of sponges, such as Scyphia; or of Bryozoa?
 
-#### _Goniobrochus Haeckelii. N. sp._  
+#### _Goniobrochus Haeckelii_. N. sp.  
 
 This form, already depicted by Hahn (see above), comes from the meteorite fall of Cabarras. The available piece appears spread out and fan-shaped in the cut, measuring 0.5 mm crosswise and 0.4 mm in height. The thickness of the little balls is 0.01 mm, the diameter of a stitch is likewise 0.01 mm. The entirety seems to have formed a round pane or perhaps even forming a funnel. We name the species in honor of our former fellow student, the famous founder of the detailed accounts about the great world of these small organisms. 
 
 ## II. Sponges and Foraminifera  
-### Family: Uranidae. Nobis.  
+### Family: _Uranidae_. Nobis.  
 
 A highly characteristic meteorite type of a lower animal form that occurs very frequently in a wide variety of meteorite falls and — because in the additional excellent cuts we located the best of all meteorites forms — hardly exempting the Hahnia (see below) — can be studied. The same cannot be closely associated with any of the terrestrial animal forms known to us. Whether sponge, whether foraminifera, this question will be difficult to decide, as is well known in some cases of terrestrial fossil forms. Perhaps we are dealing here with an intermediate form.
 
@@ -97,19 +97,19 @@ They are sessile, cushion-shaped colonies with a fine porous lamellar cortex lay
 
 ### 1. Urania, Hahn (sensu stricto.).
 
-We adopt in the strict sense the genus name of Hahn, which he had already established in his work "The Primordial Cell", although as a genus of plants, for a very characteristic meteorite form. Since then, in a number of favorable cuts I have been able to study and draw these interesting forms, which in the Knyahinya meteorite are particularly common, so that any doubt about their animal nature, which Hahn later presumed in his meteorite work, can no longer exist. They are always smalt blue and cushion-shaped; the very delicate, finely dashed, velvety looking porous cuticle is probably the peduncle of these sessile colonies. In the cross-section one immediately distinguishes a translucent porous cortex layer. The whole interior of the pillow consists of a rather irregular mesh tissue, which radiates from the cortex towards the center smoothing into lamellar  lineaments, which have lacuna-like cavities or chambers between them.
+We adopt in the strict sense the genus name from Hahn, which he had already established in his work "The Primordial Cell", although as a genus of plants, for a very characteristic meteorite form. Since then, in a number of favorable cuts I have been able to study and draw these interesting forms, which in the Knyahinya meteorite are particularly common, so that any doubt about their animal nature, which Hahn later presumed in his meteorite work, can no longer exist. They are always smalt blue and cushion-shaped; the very delicate, finely dashed, velvety looking porous cuticle is probably the peduncle of these sessile colonies. In the cross-section one immediately distinguishes a translucent porous cortex layer. The whole interior of the pillow consists of a rather irregular mesh tissue, which radiates from the cortex towards the center smoothing into lamellar  lineaments, which have lacuna-like cavities or chambers between them.
 
-#### _Urania Salve. N. sp._
+#### _Urania Salve_. N. sp.
 
 This is what we wish to call them, for they are the first greetings of organic forms from another world, the first beings that Hahn recognized as organic, albeit first described as a plant. This species appears both large and small, as entire individuals and as lots of fragments, it is very common in the meteorites, especially those of Knyahinya. Average size 1 mm. Thickness of the always smalt blue cortex 0.04 mm. Hahn shows them many times. The large figure of Table 2, all of the figures of Table 3, then Figures 1, 4, and 6 of Table 4, and Figures 1 and 4 of Table 5 also belong here.
 
-### 2. Pectiscus. Nov. gen.
+### 2. _Pectiscus_. Nov. gen.
 
 (πηxτὁς = gekämmt = "Combed".)
 
 Lobate, probably with wide sessile base colonies. They belong to the same family as _Urania_, to the _Uranidae_. But the cortex layer here is different, coarse, comb-like, i.e. formed as stronger, more or less radially emanating ribs (lamellae), often reminiscent of the septa of certain coral forms, such as Fungia. But the inner structure, however, as we have in several quite excellent cuts before us (see Figure 1 [magnified 80 times]), consists, as in _Urania_, of a lamellar, chamber-forming tissue that has nothing to do with coral structure. There are a number of species, some of which are apparently quite large, however in the latter only the coarse, inner, chambered mesh-tissue is preserved.
 
-#### _Pectiscus Zittelii. N. sp._
+#### _Pectiscus Zittelii_. N. sp.
 
 The most common species. Based on its external appearance, its radial rays, and also often by its overall contour, one is often reminded of the familiar scallops (_Pecten_). But the lobes of these colonies do not maintain a regular overall shape. They are always rounded at the edges, often the edge is divided into smaller lobes by shallow notches. Diameter of the colonies, about 1 to 3 mm. The fine little ribs towards the gray cortex are on average 0.04 mm apart.
 
@@ -119,17 +119,17 @@ In [Figure 1](https://cdn.solaranamnesis.com/DFWeinland/fig1.png) [magnified 80 
 
 We permit ourselves to name this species after the gentleman Professor [Karl Alfred von] Zittel, the thorough researcher of fossil sponges.
 
-#### _Pectiscus rudis. N. sp._
+#### _Pectiscus rudis_. N. sp.
 
 A smaller form with even coarser slats.
 
-### 3. Callaion. Nov. gen.
+### 3. _Callaion_. Nov. gen.
 
 (xάλλαιον = Hahnenkamm = "Cockscomb".)
 
 One of the most remarkable and beautiful constructions in our meteorite fauna. A fine form, like some sinuate cockscombs, reminiscent of some corals (_Fungia_, _Herpetolithus_) in its striking habitus, but in accordance with the microscopic construction of its cortex layer it probably belongs with the _Uranidae_. The thin, outermost layer of the cortex is just as delicately blue-grey, velvety, and even finely striped, as in _Urania_. In most cuts the raised combs that separate the concavities of the colony from each other, as well as in a fine longitudinal cut in which one can recognize these slight depressions, lie beneath the grey cortex tissue composed of parallel or slightly radiating, very regular lamellae, passing through oblique straps connected to each other and located in the innermost structure that, as we know from _Urania_ and _Pectiscus_, unfortunately does not show in the best preserved unique specimens, since nowhere does the cut penetrate deep enough. — In this form we are most vividly reminded of the cross-section of _Carpenteria Rhaphidodendron_, a foraminifera of Mauritius, provided by [Karl August] Möbius in his beautiful treatise on the _Eozoon Canadense_ (Palaeontology XXV, Table 40 Figure 60).
 
-#### _Callaion Paulinianum. N. sp._
+#### _Callaion Paulinianum_. N. sp.
 
 Not shown in Hahn's meteorite atlas.
 
@@ -141,7 +141,7 @@ The cut comes from the meteorite fall of Iowa (February 1847). Unfortunately, on
 
 We permit ourselves to name this species in honor of Miss Pauline Schloz, the meritous sister-in-law of Dr. Hahn, who supported him in the challenging manufacture of many meteorite cuts with the most self-sacrificing devotion.
 
-### 4. Glossiscus. Nov. gen.
+### 4. _Glossiscus_. Nov. gen.
 
 (γλῶσσα = Zunge = "Tongue".)
 
@@ -155,7 +155,7 @@ In a cut of Knyahinya.
 
 We would like to name the species in honor of the famous researcher of living sponges, Professor [Eduard] Oscar Schmidt in Strasbourg. 
 
-### 5. Carydion. Nov. gen.
+### 5. _Carydion_. Nov. gen.
 
 (xάρυον = Nuss = "Nut".)
 
@@ -167,7 +167,7 @@ These forms, not depicted by Hahn, are quite common in the meteorites; they are 
 
 Diameter of the whole 0.32 mm. The little openings, i.e. tubules in the carapace, have a diameter of 0.01 to 0.005 mm. The thickness of the armature forming girders is 0.02 to 0.5 mm. The mesh created by the girders appears three- or four-sided. The thickness of the cortex or carapace is 0.09 mm; the outer contour entirely rounded corners; the cavities are usually filled with black organic matter. The pores of the cortex are tinged black. The finer structure of the cortex indicates round cells at high magnification. — From a cut of the Cabarras meteorite fall.
 
-### 6. Brochosphaera. Nov. gen.
+### 6. _Brochosphaera_. Nov. gen.
 
 (βρόχος = Masche = "Mesh", and σφαῖρα = Kugel = "Sphere".)
 
@@ -175,7 +175,7 @@ Quite common in the meteorites, especially in those of Knyahinya, are fairly ext
 
 We can hardly accommodate this structure in any of the known animal groups other than the sponges, but even here it would establish a completely new type. — None of these forms are pictured by Hahn.
 
-#### Brochosphaera grandis. N. sp.
+#### _Brochosphaera grandis_. N. sp.
 
 Allow us to name this species, of which the best preserved piece is the present large hemisphere. The diameter of the whole sphere is 3.20 mm. The diameter of the mesh inside is 0.2 to 0.4 mm. The diameter of the often elongated, but often fairly equilateral, hexagonal cells or little plates that compose the whole is 0.03 to 0.05 mm. The rounded mesh chambers formed by the thick sutures are filled in the present petrefact with a transparent glassy silicate and often interspersed with fine crack lines.
 
@@ -187,7 +187,7 @@ In this second species, the stated mesh chambers are constantly hexagonal, lying
 
 Comes from Knyahinya. There is also a very similar one in a specimen of Cabarras. In another specimen of Knyahinya, the large hexagonal meshes appear regularly in two forms, the majority of 0.26 mm and smaller number of ones 0.4 to 0.3 mm in diameter. 
 
-### 7. Dicheliscus. Nov. gen.
+### 7. _Dicheliscus_. Nov. gen.
 
 (θιχηλος = mit gespaltenen Klauen = "with split claws".)
 
@@ -206,7 +206,7 @@ Other forms:
 Small fragments of regularly winding formations with _Polythalamia_-like chambers, perhaps belonging to the _Rhizopods_, have occasionally come to our notice during the inspection of the meteorite cuts. But their preservation is usually not favorable. A fairly pretty piece of this kind, like a small Nautilus, is in a meteorite cut of Cabarras. The total diameter of the little bowl is about 0.5 mm, the chambers 0.05 to 0.1 mm. But these forms require further examination before we dare to determine them.
 
 ## III. Corals.  
-### 1. Hahnia. Nov. gen.   
+### 1. _Hahnia_. Nov. gen.   
 
 This is the form that, after the strongest doubts, first led me to carry out a more precise, zoological study of the entities discovered by Hahn. In fact, its presence alone is decisive. Admittedly, the photographic images of Hahn's, in his meteorite work Table 1, 5 and Table 10 Figures 3 and 4, are far from sufficient. A yellow iron staining on the specimen caused quite detrimental black shadows, and in general, microscopic photography has not yet reached the point of reproducing the images with the sharpness that they present to the eye. As valuable as the photographic picture is for larger forms, like the beautiful coral works of Dr. Klunzinger and Rominger prove, for the time being, regarding microscopic representation, the hand of the researcher himself, drawing with full understanding, will not, perhaps ever, be replaced by the mechanical representation. Our Hahnia, Figure 2 [Hahnia meteoritica, N., attached to a Pectiscus. magnified 80 times.], has unfortunately remained unique to this day. The cut in question belongs to the meteorite fall of Knyahinya. It is one of the most fortunate and also contains very nice scraps of _Urania_, _Pectiscus_, and _Phormiscus_.
 
@@ -220,7 +220,7 @@ The individual polyp calyxes in our Hahnia are filled with a blackish grey mass,
 
 Hahn's image Table 1: Figure 5 and Table 10: Figure 4 unfortunately is adversely affected by the yellow coloration of the specimen, which becomes black in the photograph.
 
-### 2. Calamiscus. Nov. gen.
+### 2. _Calamiscus_. Nov. gen.
 
 (xαλαμίσxς = Röhrchen = "Little Tubes".)
 
