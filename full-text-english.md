@@ -218,4 +218,6 @@ Diameter of the whole colony 0.90 mm, thus even with the naked eye it can be rec
 
 The individual polyp calyxes in our Hahnia are filled with a blackish grey mass, the septa appear greyish white, the coenenchyme yellow. By a lucky coincidence, this coral colony was directly struck from above. In the middle of the picture, the calyxes appear nearly intact; around the edge, particularly on the left side, they are somewhat scuffed, so that one obtains for structural knowledge the very valuable semi-longitudinal cuts through the polyp tubes and can establish the lack of transverse partition walls, as well as of vascular holes (sprout channels).
 
+Hahn's image on Table 1: Figure 5 and Table 10: Figure 4, which, unfortunately, is adversely affected by the yellow coloration of the specimen, which becomes black in the photograph.
+
 ...
