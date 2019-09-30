@@ -220,4 +220,8 @@ The individual polyp calyxes in our Hahnia are filled with a blackish grey mass,
 
 Hahn's image Table 1: Figure 5 and Table 10: Figure 4 unfortunately is adversely affected by the yellow coloration of the specimen, which becomes black in the photograph.
 
+### 2. Calamiscus. Nov. gen.
+
+(xαλαμίσxς = Röhrchen = "Little Tubes".)
+
 ...
