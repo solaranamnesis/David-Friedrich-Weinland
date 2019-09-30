@@ -147,7 +147,7 @@ We permit ourselves to name this species in honor of Miss Pauline Schloz, the me
 
 Rounded, tongue-like lobes constructing colonies. The cuticle is composed of hexagonal panels. Pores in the recessed furrows and round, recessed holes; no trace of radial ribs as with the _Uranidae_. Without question belonging to the sponges.
 
-#### _Glossiscus Schmidtii. N. sp._
+#### _Glossiscus Schmidtii_. N. sp.
 
 Not pictured by Hahn. In the one on hand, the pores and pore holes of the conspicuously milk-white colored colony appear tinged with black dots, organic matter which has settled in the pores, as is often found in these meteorite petrifications. The total length of the lobe is 1.7 mm, the cross-diameter 0.8 mm, the diameter of the pore holes 0.03 to 0.05 mm, the pore furrow 0.02 to 0.04 mm, and the hexagonal panels 0.02 mm.
 
@@ -163,7 +163,7 @@ Glass-clear transparent, like most of these organisms, petrified silica formatio
 
 These forms, not depicted by Hahn, are quite common in the meteorites; they are probably sponge-like entities. We just wanted to describe this one species, whose image we will provide later.
 
-#### _Carydion solidum. N. sp._
+#### _Carydion solidum_. N. sp.
 
 Diameter of the whole 0.32 mm. The little openings, i.e. tubules in the carapace, have a diameter of 0.01 to 0.005 mm. The thickness of the armature forming girders is 0.02 to 0.5 mm. The mesh created by the girders appears three- or four-sided. The thickness of the cortex or carapace is 0.09 mm; the outer contour entirely rounded corners; the cavities are usually filled with black organic matter. The pores of the cortex are tinged black. The finer structure of the cortex indicates round cells at high magnification. — From a cut of the Cabarras meteorite fall.
 
@@ -181,7 +181,7 @@ Allow us to name this species, of which the best preserved piece is the present 
 
 Comes from the meteorite fall of Knyahinya.
 
-#### Brochosphaera hexagonalis. N. sp.
+#### _Brochosphaera hexagonalis_. N. sp.
 
 In this second species, the stated mesh chambers are constantly hexagonal, lying in the net like large crystals. A piece of this kind, of which the outer contours are very well preserved, measures 1.20 mm in diameter. The hexagonal, rarely pentagonal, crystal-like meshes are filled with silicates, and measure 0.2 mm in diameter; the cells or small plates composing the network are 0.03 to 0.04 mm.
 
@@ -195,7 +195,7 @@ A striking and characteristic shape, consisting of an interrelated cluster or pa
 
 Until further notice, we would like to first place these structures with the foraminifera. 
 
-#### Dicheliscus uva. N. sp.
+#### _Dicheliscus uva_. N. sp.
 
 Not shown by Hahn. The diameter of the whole colony is 1.2 mm. Length of the largest, cut bladder 0.15 mm. Thickness of the separating wall 0.01 mm. The bladders in the available specimen are of different sizes and all shifts of the grinding are noticable.
 
@@ -225,5 +225,9 @@ Hahn's image Table 1: Figure 5 and Table 10: Figure 4 unfortunately is adversely
 (xαλαμίσxς = Röhrchen = "Little Tubes".)
 
 Favosites-like polyp colonies, consisting of regularly side by side parallel or slightly radial trending, usually glass-clear transparent tubes without longitudinal rails (septa) in the interior, but more or less regularly divided into levels by transverse walls or floors (tabulae) and quite frequently furnished with fine little perforations that mediate the vascular communication between the neighboring tubes. This perfect correspondence of the structure with that of many fossil _Favosites_ corals from the Devonian and Silurian formations of the Earth does not make us think of anything other than coral polyps, despite the smallness of the available meteoritic forms. Unfortunately, almost only side cuts are obtained because in this direction the polyp colonies break most easily. In the absence of satisfactory cross-sections, it becomes fairly difficult to distinguish the species of _Calamiscus_; it is left almost only to this: the consistent width of the polyp tubes, the distance of the floors and vascular holes from each other, the horizontal or skewed direction of the floors, and so forth, pure characteristics that vary quite a bit in one and the same species. — These entities are exceptionally common in the meteorites, especially in those of Knyahinya.
+
+#### _Calamiscus Gümbelii_. N. sp.
+
+(Image: Hahn, Meteorite: Table 14 and 15.)
 
 ...
