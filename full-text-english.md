@@ -95,7 +95,7 @@ A highly characteristic meteorite type of a lower animal form that occurs very f
 
 They are sessile, cushion-shaped colonies with a fine porous lamellar cortex layer and crude, likewise lamellar, lacunae or chambers forming the internal skeleton.
 
-### 1. Urania, Hahn (sensu stricto.).
+### 1. _Urania_, Hahn (sensu stricto.).
 
 We adopt in the strict sense the genus name from Hahn, which he had already established in his work "The Primordial Cell", although as a genus of plants, for a very characteristic meteorite form. Since then, in a number of favorable cuts I have been able to study and draw these interesting forms, which in the Knyahinya meteorite are particularly common, so that any doubt about their animal nature, which Hahn later presumed in his meteorite work, can no longer exist. They are always smalt blue and cushion-shaped; the very delicate, finely dashed, velvety looking porous cuticle is probably the peduncle of these sessile colonies. In the cross-section one immediately distinguishes a translucent porous cortex layer. The whole interior of the pillow consists of a rather irregular mesh tissue, which radiates from the cortex towards the center smoothing into lamellar  lineaments, which have lacuna-like cavities or chambers between them.
 
