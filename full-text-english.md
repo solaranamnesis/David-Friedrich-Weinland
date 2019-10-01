@@ -250,6 +250,6 @@ Our dear friend Dr. Hahn, in Tables 16 thru 30 of his meteorite work, believed t
 
 ### 1. _Eulophiscus_. Nov. gen.
 
-(εὔλοφος, mit schönem Busch = "with fine bush".)
+(εὔλοφος, mit schönem Busch = "well-plumed".)
 
 ...
