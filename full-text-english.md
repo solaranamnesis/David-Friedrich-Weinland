@@ -242,7 +242,8 @@ I permit myself to designate the genus in honor of Mr. [Carl August] Carl Graf v
 
 #### _Bosea cyanea_. Nov. Sp.
 
+The above-mentioned colony, everywhere broken off at the margins, has, if it can be obtained, a length of 1.44 mm, a width of 0.88 mm. The diameter of the little stars is 0.04 to 0.08 mm. The diameter of the recessed furrows radiating from the center is 0.003 to 0.006 mm. The petrification material displays the same smalt-blue color as in _Urania salve_. — This unique piece is in a cut from the fall of Knyahinya.
+
+## IV. Crinoidea.
+
 ...
-
-
-
