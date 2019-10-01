@@ -47,7 +47,7 @@ We will now try to briefly characterize some of the most notable genera and spec
 ## I. Gittertierchen "Little Grated Creature", Polycystina.  
 ### 1. _Phormiscus_. Nov. gen.  
 
-(_φορμισxος_ = Binsenkörbchen = "Little rush basket".)  
+(_φορμισxος_ = "little reed basket".)  
 
 Faceted spheres, consisting of clear glass silica spicules that lay one on top of the other at regular angles like a rush-basket. The spicules are hollow, often furnished with clearly defined longitudinal cavities. Here:
 
@@ -69,7 +69,7 @@ That these _Phormiscus_ belong to the Polycistines seems to us certain. The holl
 
 ### 2. _Thyriscus_. Nov. gen.  
 
-(θυρις = Fenster = "Window".)
+(θυρις = "embrasure".)
 
 Similarly faceted spheres, consisting of little silica balls, arranged in such a way that they form quadrangular, inwardly tapering funnels like windows or even better, embrasure constructions. The balls are hollow and often furnished with noticeable perforations. Undoubtedly belongs with the family of _Phormiscidae_.
 
@@ -80,7 +80,7 @@ The diameter of the whole piece shown here is 0.70 mm. Diameter of an entire fun
 
 ### 3. _Goniobrochus_. Nov. gen.  
 
-(γωνια = Winkel = "Angle", βρὁχος = Masche = "Mesh".)
+(γωνια = "cornered", βρὁχος = "mesh".)
 
 We establish this genus on very characteristic structural pieces, which occur frequently in our cuts and one of which has been depicted by Hahn in his meteorite on Table 13, Figure 6. It is a tightly assembled, net-like silica tissue intimately grown together, forming an interrelated pane resembling a small silica ball, whose cross angles overlap to form almost equilateral, quadrilateral meshes. Where these slats cross, hunches arise like a web of knobs. — We can also probably place these structures with the Polycistines, among similar skeletal forms depicted by Häckel in his fine work, "The Radiolarians", on Table 29. The genera _Stylodictya_ and _Stylospira_, which have very similar knob networks forming their inner skeleton, are particularly worthy of consideration. But one might also think of sponges, such as Scyphia; or of Bryozoa?
 
@@ -105,7 +105,7 @@ This is what we wish to call them, for they are the first greetings of organic f
 
 ### 2. _Pectiscus_. Nov. gen.
 
-(πηxτὁς = gekämmt = "Combed".)
+(πηxτὁς = "combed".)
 
 Lobate, probably with wide sessile base colonies. They belong to the same family as _Urania_, to the _Uranidae_. But the cortex layer here is different, coarse, comb-like, i.e. formed as stronger, more or less radially emanating ribs (lamellae), often reminiscent of the septa of certain coral forms, such as Fungia. But the inner structure, however, as we have in several quite excellent cuts before us (see Figure 1 [magnified 80 times]), consists, as in _Urania_, of a lamellar, chamber-forming tissue that has nothing to do with coral structure. There are a number of species, some of which are apparently quite large, however in the latter only the coarse, inner, chambered mesh-tissue is preserved.
 
@@ -125,7 +125,7 @@ A smaller form with even coarser slats.
 
 ### 3. _Callaion_. Nov. gen.
 
-(xάλλαιον = Hahnenkamm = "Cockscomb".)
+(xάλλαιον = "cockscomb".)
 
 One of the most remarkable and beautiful constructions in our meteorite fauna. A fine form, like some sinuate cockscombs, reminiscent of some corals (_Fungia_, _Herpetolithus_) in its striking habitus, but in accordance with the microscopic construction of its cortex layer it probably belongs with the _Uranidae_. The thin, outermost layer of the cortex is just as delicately blue-grey, velvety, and even finely striped, as in _Urania_. In most cuts the raised combs that separate the concavities of the colony from each other, as well as in a fine longitudinal cut in which one can recognize these slight depressions, lie beneath the grey cortex tissue composed of parallel or slightly radiating, very regular lamellae, passing through oblique straps connected to each other and located in the innermost structure that, as we know from _Urania_ and _Pectiscus_, unfortunately does not show in the best preserved unique specimens, since nowhere does the cut penetrate deep enough. — In this form we are most vividly reminded of the cross-section of _Carpenteria Rhaphidodendron_, a foraminifera of Mauritius, provided by [Karl August] Möbius in his beautiful treatise on the _Eozoon Canadense_ (Palaeontology XXV, Table 40 Figure 60).
 
@@ -143,7 +143,7 @@ We permit ourselves to name this species in honor of Miss Pauline Schloz, the me
 
 ### 4. _Glossiscus_. Nov. gen.
 
-(γλῶσσα = Zunge = "Tongue".)
+(γλῶσσα = "tongue".)
 
 Rounded, tongue-like lobes constructing colonies. The cuticle is composed of hexagonal panels. Pores in the recessed furrows and round, recessed holes; no trace of radial ribs as with the _Uranidae_. Without question belonging to the sponges.
 
@@ -157,7 +157,7 @@ We would like to name the species in honor of the famous researcher of living sp
 
 ### 5. _Carydion_. Nov. gen.
 
-(xάρυον = Nuss = "Nut".)
+(xάρυον = "nut".)
 
 Glass-clear transparent, like most of these organisms, petrified silica formations that, on average, resemble a nut with a thick carapace and chambers inside. The chambers are created by thick girder constructions, the thick carapace being very porous.
 
@@ -169,7 +169,7 @@ Diameter of the whole 0.32 mm. The little openings, i.e. tubules in the carapace
 
 ### 6. _Brochosphaera_. Nov. gen.
 
-(βρόχος = Masche = "Mesh", and σφαῖρα = Kugel = "Sphere".)
+(βρόχος = "mesh", and σφαῖρα = "sphere".)
 
 Quite common in the meteorites, especially in those of Knyahinya, are fairly extensive coarse-meshed nets, whose wide sutures are composed of more or less distinct, usually hexagonal, cells. Black carbonized particles, of an organic substance, are often attached to the sutures. As a rule, these nets are preserved only as shreds and it was for a long time impossible to obtain an idea of the whole, but finally, in a Knyahinya cut, I encountered an entity that that seemed to provide some enlightenment. It is a large, partially cut hemisphere slightly visible to the naked eye, whose outer contours are essentially preserved, and whose interior contains the most beautiful meshwork, as described above. The complete edge of the hemisphere, where it has not been hit by the cut, consists of rather equal, hexagonal cells or small plates. The inner space of the hemisphere, which has been exposed by the cut, is traversed by a multi-meshed net whose sutures consist of cells just like those of the exterior.
 
@@ -189,7 +189,7 @@ Comes from Knyahinya. There is also a very similar one in a specimen of Cabarras
 
 ### 7. _Dicheliscus_. Nov. gen.
 
-(θιχηλος = mit gespaltenen Klauen = "with split claws".)
+(θιχηλος = "with split claws".)
 
 A striking and characteristic shape, consisting of an interrelated cluster or pane of round bladders. The more or less heavily intruding cut into them allows for some clear insights into the hollow interior. You can see a perpendicular diaphragm going through the middle of the bladder. This separating wall is always thicker on one side than on the other; it arises from a broad base at the end of the cordiform bladder and goes through lamellar-like thinning up to the other end. Such a polished bladder with its diaphragm gives the image of a double split hoof, hence our name: _Dicheliscus_. The fact that the bladders are interrelated with each other seems clear from several parts of the specimen, as we will later depict them.
 
@@ -222,7 +222,7 @@ Hahn's image Table 1: Figure 5 and Table 10: Figure 4 unfortunately is adversely
 
 ### 2. _Calamiscus_. Nov. gen.
 
-(xαλαμίσxς = Röhrchen = "Little Tubes".)
+(xαλαμίσxς = "little tubes".)
 
 Favosites-like polyp colonies, consisting of regularly side by side parallel or slightly radial trending, usually glass-clear transparent tubes without longitudinal rails (septa) in the interior, but more or less regularly divided into levels by transverse walls or floors (tabulae) and quite frequently furnished with fine little perforations that mediate the vascular communication between the neighboring tubes. This perfect correspondence of the structure with that of many fossil _Favosites_ corals from the Devonian and Silurian formations of the Earth does not make us think of anything other than coral polyps, despite the smallness of the available meteoritic forms. Unfortunately, almost only side cuts are obtained because in this direction the polyp colonies break most easily. In the absence of satisfactory cross-sections, it becomes fairly difficult to distinguish the species of _Calamiscus_; it is left almost only to this: the consistent width of the polyp tubes, the distance of the floors and vascular holes from each other, the horizontal or skewed direction of the floors, and so forth, pure characteristics that vary quite a bit in one and the same species. — These entities are exceptionally common in the meteorites, especially in those of Knyahinya.
 
@@ -250,6 +250,6 @@ Our dear friend Dr. Hahn, in Tables 16 thru 30 of his meteorite work, believed t
 
 ### 1. _Eulophiscus_. Nov. gen.
 
-(εὔλοφος, mit schönem Busch = "well-plumed".)
+(εὔλοφος = "well-plumed".)
 
 ...
