@@ -194,7 +194,7 @@ Stammt von Knyahinya. Auch in einem Präparat von Cabarras findet sich ein sehr 
 
 #### 7. _Dicheliscus_. Nov. gen.  
 
-(θιχηλος = mit gespaltenen Klauen.)  
+(διχηλος = mit gespaltenen Klauen.)  
 
 Eine auffallende und charakteristische Form, bestehend aus einer zusammenhängenden Traube oder Scheibe von rundlichen Blasen. Der mehr oder weniger stark eingedrungene Einschliff in dieselben gestattet bei manchen eine deutliche Einsicht in das hohle Innere. Man sieht dann ein senkrechtes Diaphragma mitten durch die Blase gehen. Diese Scheidenwand ist immer an der einen Seite dicker als an der anderen; sie entspringt mit breiter Basis von dem Ende der herzförmigen Blase und geht lamellenartig sich verdünnend bis zum anderen Ende. Eine solche angeschliffene Blase mit ihrem Diaphragma gibt etwa das Bild eines zwiegespaltenen Hufs, daher unser Name: Dicheliscus. Dass die Blasen unter sich kommunizieren, scheint aus mehreren Stellen des Präparats deutlich, wie wir solche später abbilden werden.
 
