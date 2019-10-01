@@ -240,7 +240,7 @@ Wir stützen diese Art auf eines der besterhaltenen Stöckchen in einem Meteorit
 
 Wir erlauben uns, diese Art nach Herrn Director Gümbel in München zu benennen, der die Chondrit-Meteoriten zuerst einer genauen mikroskopischen Untersuchung unterzogen und bei seiner trefflichen Beschreibung der Chondren in seiner Abhandlung über die in Bayern gefundenen Steinmeteoriten (Sitzungs-Ber. der K. bayer. Akad. d. Wissensch. zu München 1878, S. 14) wahrscheinlich solche Calamiscusformen, die aber weniger gut erhalten waren, vor sich gehabt, sie aber mineralogisch zu deuten versucht hat.
 
-### 2. _Bosea_. Nov. gen.  
+### 3. _Bosea_. Nov. gen.  
 
 Eines der schönsten Meteoritengebilde, ohne Zweifel ein Stückchen eines Korallenstocks. Ein ziemlicher Teil der Oberfläche mit vielen deutlichen, größeren und kleineren Sternchen ist an dem Unikum erhalten. Die Sternchen bildeten, wie es scheint, erhabene, abgeflachte Kegelchen; sie haben bis zu zehn nach außen sich verbreiternde Septa, getrennt durch dunklere Furchen. Die Mitte des Sternchens, von der die Septa und die Furchen ausgehen, besteht aus eckigen Körnchen. Das Coenenchym oder Zwischenfeld zwischen den Sternchen erscheint mit eckigen Plättchen gepflastert. Kleinere, offenbar jüngere Sternchen mit weniger Strahlen erscheinen zwischen den alten, ganz wie bei einer Astraea.
 
