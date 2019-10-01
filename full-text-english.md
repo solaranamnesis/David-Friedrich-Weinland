@@ -232,4 +232,8 @@ Favosites-like polyp colonies, consisting of regularly side by side parallel or 
 
 We base this species on one of the best preserved little colonies in a meteorite cut from the Cabarras fall. It is an oblong, downward pointing colony, as _Favosites_ colonies usually are due to the way the species propagates through intermediate grafts shifted down, typical of new tubes. The availabe colony has a diameter of 0.46 mm and a height of 1 mm, so it is still visible to the naked eye. The diameter of the tubes is 0.01 mm, the distance of the vascular holes, which are exceptionally visible on this polyp colony, from each other is 0.005 to 0.01 mm. The saw-like notch on the side of a tube in Hahn's picture was created by accidental abrasion, in such a way that the funnel-shaped indentation of the little holes comes to light. The floors stand slightly lopsided in the tube, very irregularly spaced from each other, and in general are less common in this colony than in some of the others.
 
+We allow ourselves to name this species after Director Gümbel in Munich, who first subjected the chondrite meteorites to a precise microscopic examination and, in his excellent description of the chondrules in his essay about the stone meteorites found in Bavaria (Proceedings of the Mathematical-Physical Classes of the Royal Bavarian Academy of Sciences in Munich, 1878, p. 14) probably had such _Calamiscus_ forms, which were less well-preserved, but tried to interpret them mineralogically.
+
+### 3. Bosea. Nov. gen.
+
 ...
