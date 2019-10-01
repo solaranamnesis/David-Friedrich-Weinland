@@ -47,20 +47,20 @@ Dieser Umstand scheint uns die neuerdings vielfach angenommene Hypothese von Sch
 Wir wollen es nun versuchen, einige der auffallendsten Gattungen und Arten kurz zu charakterisieren, indem wir uns eine ausführlichere Beschreibung mit Abbildungen, besonders auch der inneren Strukturverhältnisse, zu welcher bereits viel Material vorliegt, vorbehalten.
 
 ## I. Gittertierchen, Polycistina.  
-### 1. Phormiscus. Nov. gen.  
+### 1. _Phormiscus_. Nov. gen.  
 
 (_φορμισxος_ = Binsenkörbchen.)  
 
 Facettirte Kugeln, bestehend aus glashellen Kieselnadeln, die wie Binsenkörbchen in regelmäßigen Winkeln übereinander gelegt sind. Die Nadeln sind hohl, oft deutlich mit Löchelchen in Längsreihen versehen. Hierher:  
 
-#### _Phormiscus vulgaris. N. sp._  
+#### _Phormiscus vulgaris_. N. sp.  
 (Abbildung: Hahn, Meteoriten, Taf. 29, Fig. 2.)  
 
 Durchmesser des Ganzen 0,18 mm. Durchmesser der Nadelbalken 0,05 mm. Vom Meteorfall von Knyahinya.
 
 Diese Phormiscusformen sind in Bruchstücken außerordentlich häufig in den Meteoriten von Knyahinya. Es gibt verschiedene Arten, die häufigste aber ist die obengenannte, welche sofort an den dicken, glashellen, in spitzen Winkeln übereinander gekreuzten Nadelbündeln zu erkennen ist.
 
-#### _Phormiscus grandis. N. sp._  
+#### _Phormiscus grandis_. N. sp.  
 (Abbildung: Hahn, Meteoriten: Taf. 29, Fig. 6.)  
 
 Feinmaschiger als die vorige Art. Die Nadeln kreuzen sich unter weit mehr Winkeln.
@@ -69,25 +69,25 @@ Die besten, erst nachträglich gefundenen, auch den inneren Bau zeigenden Exempl
 
 Dass diese _Phormiscus_ zu den Polycistinen gehören, scheint uns sicher. Die hohlen, teilweise durchlöcherten Kieselnadeln, besonders aber die Kugelformen, die nur bei frei im Wasser sich bewegenden Tieren denkbar ist, weist zunächst darauf hin, und nicht auf Schwämme, an die man sonst auch denken könnte. Jedenfalls aber bilden sie eine eigene Familie, die wir _Phormiscidae_ nennen wollen. — Crinoiden, wie Hahn früher vermutete, sind es sicher nicht.
 
-### 2. Thyriscus. Nov. gen.  
+### 2. _Thyriscus_. Nov. gen.  
 
 (_θυρις_ = Fenster.)  
 
 Gleichfalls facettirte Kugeln, bestehend aus runden Kieselbällchen, welche in der Art angeordnet sind, dass sie viereckige, nach innen sich verjüngende Trichter wie Fenster oder noch besser: Schießscharten bilden. Die Bällchen sind hohl und mit öfters deutlichen Löchelchen versehen. Gehört ohne Zweifel auch in die Familie der _Phormiscidae_.
 
-#### _Thyriscus formosus. N. sp._  
+#### _Thyriscus formosus_. N. sp.  
 
 (Hahn: Taf. 30, Fig. 3.)  
 
 Durchmesser des ganzen, hier abgebildeten Bruchstücks 0,70 mm. Durchmesser eines ganzen Trichters 0,35 mm. Durchmesser der einzelnen Bällchen 0,01 mm. Distanz der Löchelchen von einander 0,006 mm. Durchmesser der Löchelchen 0,001 mm. Vom Meteorfall von Knyahinya.
 
-### 3. Goniobrochus. Nov. gen.  
+### 3. _Goniobrochus_. Nov. gen.  
 
 (_γωνια_ = Winkel, _βρὁχος_ = Masche.)  
 
 Wir begründen diese Gattung auf sehr charakteristische Strukturstücke, die öfters in unseren Schliffen vorkommen und von denen Hahn in seinen Meteoriten, Taf. 13, Fig. 6, eines abgebildet hat. Es ist ein fest zusammengefügtes, netzartiges Kieselgewebe aus innig verwachsenen, eine zusammenhängende Scheibe darstellenden Kieselbällchen gebildet, die sich unter Winkeln kreuzen und fast gleichseitige, viereckige Maschen bilden. Da, wo sich die Leisten kreuzen, entstehen Buckeln wie Knöpfe eines Netzes. — Wir können wohl auch diese Gebilde am ehesten bei den Polycistinen unterbringen, unter denen Häckel ähnliche Skelettformen in seinem schönen Werke: „Die Radiolarien“ Taf. 29 abgebildet hat. Besonders kämen in Betracht die Gattungen _Stylodictya_ und _Stylospira_, die ganz ähnliche geknöpfte Netzformen in ihrem inneren Skelett aufweisen. Doch könnte man auch an Schwämme, z. B. an manche Scyphia denken; oder an Bryozoen?
 
-#### _Goniobrochus Haeckelii. N. sp._  
+#### _Goniobrochus Haeckelii_. N. sp.  
 
 Diese schon von Hahn (siehe oben) abgebildete Form stammt von dem Meteorfall von Cabarras. Das vorliegende Stück erscheint in dem Schliff fächerförmig ausgebreitet, misst in die Quere 0,5, die Höhe 0,4 mm. Die Dicke der Bällchen beträgt 0,01, der Durchmesser einer Masche ebenso 0,01 mm. Das Ganze scheint eine runde Scheibe oder vielleicht auch einen Trichter gebildet zu haben. Wir nennen die Art zu Ehren unseres einstigen Studiengenossen, des berühmten Begründers unserer genaueren Kunde von der großen Welt dieser kleinen Organismen.
 
@@ -100,21 +100,21 @@ Ein sehr charakteristischer Meteoritentypus von niederen Tierformen, der sehr h�
 Es sind festsitzende, kissenförmige Stöcke mit poröser und fein lamellöser Rindenschicht und einem gröberen, gleichfalls lamellösen, Lakunen oder Kammern bildenden inneren Skelett.
 
 
-#### 1. Urania, Hahn (sensu stricto.).
+#### 1. _Urania_, Hahn (sensu stricto.).
 
 Wir adoptieren in engerem Sinne den Gattungsnamen von Hahn, den derselbe schon in seinem Werke „Die Urzelle“, allerdings als Pflanzengattung, für eine sehr charakteristische Meteoritenform aufgestellt hat. Ich habe seitdem an einer Reihe von günstigen Durchschnitten diese interessanten, in den Meteoriten von Knyahinya besonders häufigen Formen studieren und zeichnen können, so dass ein Zweifel über ihre Tiernatur, die auch Hahn später in seinem Meteoritenwerk angenommen hat, nicht mehr bestehen kann. Es sind immer smalteblaue, kissenförmige, wegen der sehr feinen, zart gestrichelten, porösen Oberhaut samtartig anzusehende, wahrscheinlich auf Stielen festgewachsene Stöcke. Auf dem Querschnitt unterscheidet man sofort eine durchscheinende porösen Rindenschicht. Das ganze Innere des Kissens besteht aus einem ziemlich unregelmäßigen Maschengewebe, in welchem radiär von der Rinde nach dem Zentrum zu streichende Lamellenzüge deutlich werden, welche lakunenartige Hohlräume oder Kammern zwischen sich lassen.
 
-##### _Urania Salve. N. sp._
+##### _Urania Salve_. N. sp.
 
 So wollen wir sie nennen, denn es war der erste Gruß einer organischen Form aus einer anderen Welt, das erste Wesen, das Hahn als ein organisches erkannte, wenn auch zuerst als eine Pflanze beschrieb. Diese Art erscheint in großen und kleinen, ganzen Individuen und einer Menge von Bruchstücken, sehr häufig in den Meteoriten, besonders in denen von Knyahinya. Durchschnittliche Größe 1 mm. Dicke der außen stets smalteblauen Rindenschicht 0,04 mm. Hahn hat sie vielfach abgebildet. Die große Figur von Tafel 2, alle Figuren auf Tafel 3, sodann Fig. 1, 4 und 6 auf Tafel 4, 1 und 4 auf Tafel 5 gehören hierher. Diese Art zeigt oft sehr eigentümliche, parallele oder radiär laufende, tiefe Längsfalten auf der Oberfläche, so dass man an eine gewisse Elastizität der Rindenschicht im Leben denken möchte.
 
-#### 2. Pectiscus. Nov. gen.  
+#### 2. _Pectiscus_. Nov. gen.  
 
 (_πηxτὁς_ = gekämmt.)  
 
 Lappige, wahrscheinlich mit breiter Basis festsitzende Stöcke. Gehören zu derselben Familie wie _Urania_, zu den _Uranidae_. Aber die Rindenschicht ist hier eine andere, gröbere, wie gekämmt, d. h. in stärkeren, mehr oder weniger radiär ausstrahlenden Rippen (Lamellen) gebildet, die oft an die Septa gewisser Korallenformen, z. B. der _Fungia_, erinnern. Der innere Bau aber, von dem wir mehrere ganz vortreffliche Durchschnitte vor uns haben (siehe Fig. 1 [80mal vergrössert]), besteht ähnlich wie bei _Urania_ aus einem lamellösen, Kammern bildenden Gewebe, das nichts mit der Korallenstruktur zu tun hat. Es gibt eine Reihe von Arten, zum Teil offenbar sehr große, von welchen letzteren aber meist nur das grobe, innere, gekammerte Maschengewebe erhalten ist.
 
-##### _Pectiscus Zittelii. N. sp._  
+##### _Pectiscus Zittelii_. N. sp.  
 
 Die häufigste Art. Erinnert der äußerlichen Erscheinung nach durch die radiären Strahlen und oft auch durch die Gesamtkonturen häufig an die bekannten Kammmuscheln (Pecten). Doch halten die Lappen dieser Stöcke durchaus keine regelmäßige Gesamtform ein. Immer sind sie an den Rändern abgerundet, oft ist der Rand durch seichte Kerben in kleinere Lappen geteilt. Durchmesser der Stöcke von 1 bis 3 mm. Die feinen Rippchen auf der grauen Rinde sind durchschnittlich 0,04 mm von einander entfernt.
 
@@ -124,17 +124,17 @@ In [Fig. 1](https://cdn.solaranamnesis.com/DFWeinland/fig1.png) [80mal vergröss
 
 Wir erlauben uns, die Art nach Herrn Professor [Karl Alfred von] Zittel, dem gründlichen Erforscher der fossilen Schwämme, zu benennen.
 
-##### _Pectiscus rudis. N. sp._  
+##### _Pectiscus rudis_. N. sp.  
 
 Eine kleinere Form mit noch gröberen Leisten.
 
-#### 3. Callaion. Nov. gen.  
+#### 3. _Callaion_. Nov. gen.  
 
 (xάλλαιον = Hahnenkamm.)  
 
 Eines der auffallendsten und schönsten Gebilde in unserer Meteoritenfauna. Eine feine, wie manche Hahnenkämme gebuchtete Form, die in ihrem auffallenden Habitus an manche Korallen (Fungia, Herpetolithus) erinnert, aber nach dem mikroskopischen Bau ihrer Rindenschichte doch wohl auch zu den Uraniden gehört. Die dünne, äußerste Rindenschicht ist eben so zart bläulichgrau, samtartig, dabei aufs Feinste gestreift, wie bei _Urania_. Auf dem Durchschnitt der erhabenen Kämme, die die Buchten des Stockes von einander scheiden, und ebenso an einem feinen Längsschliff erkennt man das nächsttiefere, unter der grauen Rinde liegende Gewebe als aus lauter parallelen oder etwas strahlig auseinander laufenden, sehr regelmäßigen Lamellen zusammengesetzt, die durch schiefe Brücken mit einander verbunden sind Der innerste Bau, wie wir ihn von _Urania_ und _Pectiscus_ kennen, tritt leider an dem besterhaltenen Unikum nirgends zu Tage, da der Schliff nirgends tief genug eingedrungen. — Wir wurden bei dieser Form aufs Lebhafteste an den Querschliff von _Carpenteria Rhaphidodendron_, [Karl August] Möbius, einer Foraminifere von Mauritius, erinnert, den derselbe in seiner schönen Abhandlung über das Eozoon Canadense (Palaeontogr. XXV, Taf. 40 Fig. 60) gegeben.
 
-##### _Callaion Paulinianum. N. sp._  
+##### _Callaion Paulinianum_. N. sp.  
 
 Ist in Hahn's Meteoritenatlas noch nicht abgebildet.
 
@@ -146,13 +146,13 @@ Der Schliff stammt vom Meteorfall von Iowa (Febr. 1847). Leider ist nur ein Exem
 
 Wir erlauben uns, diese Art zu benennen zu Ehren von Fräulein Pauline Schloz, der verdienten Schwägerin des Herrn Dr. Hahn, welche denselben bei der schwierigen Herstellung der vielen Meteoritenschliffe mit aufopferndster Hingebung unterstützt hat.
 
-#### 4. Glossiscus. Nov. gen.  
+#### 4. _Glossiscus_. Nov. gen.  
 
 (γλῶσσα = Zunge.)  
 
 Abgerundete, zungenähnliche Lappen bildende Stöcke. Die Oberhaut aus sechseckigen Tafeln zusammengesetzt. Poren in vertieften Furchen und rundlichen, vertieften Nestern; keine Spur von Strahlenrippen wie bei den Uraniden. Ohne Zweifel zu den Schwämmen gehörig.
 
-##### _Glossiscus Schmidtii. N. sp._  
+##### _Glossiscus Schmidtii_. N. sp.  
 
 Von Hahn noch nicht abgebildet. An dem vorliegenden, auffallend milchweiß gefärbten Stöckchen erscheinen die Poren und Porennester schwarz getüpfelt, indem sich schwarze, organische Masse in den Poren festgesetzt hat, wie dies auch sonst sehr häufig in diesen Meteoritenversteinerungen vorkommt. Die ganze Länge des Lappens beträgt 1,7 mm, der Querdurchmesser 0,8, Durchmesser der Porennester 0,03 bis 0,05, der Porenfarchen 0,02 bis 0,04 mm, der sechseckigen Täfelchen 0,02 mm.
 
@@ -160,7 +160,7 @@ In einem Schliff von Knyahinya.
 
 Wir erlauben uns die Art zu Ehren des berühmten Erforschers der lebenden Schwämme, Herrn Prof. Oscar Schmidt in Strassburg, zu benennen.
 
-#### 5. Carydion. Nov. gen.  
+#### 5. _Carydion_. Nov. gen.  
 
 (xάρυον = Nuss.)  
 
@@ -168,11 +168,11 @@ Glashell durchsichtige, wie die meisten dieser Organismen, in Kieselerde verstei
 
 Diese von Hahn nicht abgebildeten Formen sind ziemlich häufig in den Meteoriten; wahrscheinlich sind es schwammähnliche Gebilde. Wir wollen nur eine Art beschreiben, deren Bild wir später geben werden.
 
-##### _Carydion solidum. N. sp._  
+##### _Carydion solidum_. N. sp.  
 
 Durchmesser des Ganzen 0,32 mm. Die Löchelchen, d. h. Kanälchen in der Schale haben 0,01 bis 0,005 mm Durchmesser. Die Dicke der das Innengerüste bildenden Balken beträgt 0,02 bis 0,05 mm. Die durch die Balken entstehenden Maschen erscheinen drei- oder viereckig. Die Dicke der Rinde oder Schale ist 0,09 mm; die äußere Kontur des Ganzen rundlich eckig; die Hohlräume sind meist mit schwarzer, organischer Masse ausgefüllt. Auch die Poren der Rinde sind schwarz tingiert. Die feinere Struktur der Rinde zeigt bei starker Vergrößerung rundliche Zellen. — In einem Schliff von dem Meteorfall von Cabarras.
 
-#### 6. Brochosphaera. Nov. gen.  
+#### 6. _Brochosphaera_. Nov. gen.  
 
 (βρόχος = Masche, und σφαῖρα = Kugel.)  
 
@@ -180,19 +180,19 @@ Sehr häufig in den Meteoriten, besonders in denen von Knyahinya, finden sich zi
 
 Wir können dieses Gebilde kaum in einer anderen, unserer bekannten Tiergruppen unterbringen, als etwa in der der Schwämme, aber auch hier würde es einen ganz neuen Typus begründen. — Keine dieser Formen ist von Hahn abgebildet.
 
-##### _Brochosphaera grandis. N. sp._  
+##### _Brochosphaera grandis_. N. sp.  
 
 So wollen wir jene Art nennen, von der das bis jetzt besterhaltene Stück, jene große Halbkugel, vorliegt. Der Durchmesser der ganzen Kugel beträgt 3,20 mm. Der Durchmesser der Maschen im Inneren 0,2 bis 0,4 mm. Der Durchmesser der oft länglichen, oft aber auch ziemlich gleichseitigen, sechseckigen Zellen oder Plättchen, die das Ganze zusammensetzen, beträgt 0,03 bis 0,05 mm. Die durch die dicken Fäden gebildeten rundlichen Maschenräume sind in dem vorliegenden Petrefakt mit einem durchsichtig glasigen, vielfach mit feinen Risslinien durchsetzten Silikat ausgefüllt.
 
 Stammt von dem Fall von Knyahinya.
 
-##### _Brochosphaera hexagonalis. N. sp._  
+##### _Brochosphaera hexagonalis_. N. sp.  
 
 Bei dieser zweiten Art sind die genannten Maschenräume konstant sechseckig, sie liegen in dem Netze wie große Kristalle. Ein Stück dieser Art, von dem auch die äußeren Konturen ziemlich gut erhalten, misst im Durchmesser 1,20 mm. Die mit Silikat ausgefüllten sechseckigen, selten fünfeckigen, kristallähnlichen Maschen messen 0,2 mm; die Zellen oder Plättchen, die das Netzwerk zusammensetzen, 0,03 bis 0,04 mm.
 
 Stammt von Knyahinya. Auch in einem Präparat von Cabarras findet sich ein sehr ähnliches. In einem anderen Präparat von Knyahinya erscheinen die großen, sechseckigen Maschen regelmäßig in zwei Formen, in großen von 0,26 mm und in kleineren von 0,4 bis 0,3 mm Durchmesser.
 
-#### 7. Dicheliscus. Nov. gen.  
+#### 7. _Dicheliscus_. Nov. gen.  
 
 (θιχηλος = mit gespaltenen Klauen.)  
 
@@ -212,7 +212,7 @@ Kleine Bruchstückchen von regelmäßig gewundenen Gebilden mit polythalamienart
 
 ## III. Korallen.  
 
-### 1. Hahnia. Nov. gen.
+### 1. _Hahnia_. Nov. gen.
 
 Dies ist die Form, die mich nach den stärksten Zweifeln zuerst dazu bestimmte, ein genaueres, zoologisches Studium der von Hahn entdeckten Gebilde vorzunehmen. Sie allein wäre auch in der Tat schon entscheidend. Freilich genügen auch hier die photographischen Bilder Hahn's in seinem Meteoritenwerk Taf. 1, 5 und Taf. 10 Fig. 3 u. 4 bei weitem nicht. Eine gelbe Eisenfärbung, die auf dem Präparate liegt, verursachte sehr störende, schwarze Schatten und überhaupt ist die mikroskopische Photographie noch nicht so weit gelangt, die Bilder mit der Schärfe wiederzugeben, wie sie sich unserem Auge darstellen. So schätzenswert die photographische Abbildung für größere Formen ist, wie die schönen Korallenwerke von Dr. Klunzinger und Rominger beweisen, so wird doch bis auf Weiteres für die mikroskopische Darstellung die mit vollem Verständnis zeichnende Hand der Forschers selbst durch jene mechanische Darstellung noch nicht, vielleicht niemals ersetzt. Unsere _Hahnia_, [Fig. 2](https://cdn.solaranamnesis.com/DFWeinland/fig2.png) [_Hahnia meteoritica_, N., an einem Pectiscus sitzend. 80mal vergrössert.], ist leider bis jetzt ein Unikum geblieben. Der betreffende Schliff gehört zum Meteorfall von Knyahinya. Er ist einer der glücklichsten und enthält außerdem noch sehr gute _Urania_-, _Pectiscus_- und _Phormiscus_- Reste.
 
@@ -226,7 +226,7 @@ Die einzelnen Polypenkelche bei unserer _Hahnia_ sind mit einer schwarzgrauen Ma
 
 Hahn's Abbildung Taf. 1 f. 5 und Taf. 10 f. 4 ist leider durch die gelbe Färbung des Präparats, die in der Photographie schwarz kommt, beeinträchtigt.
 
-### 2. Calamiscus. Nov. gen.  
+### 2. _Calamiscus_. Nov. gen.  
 
 (xαλαμίσxς = Röhrchen.)  
 
@@ -240,7 +240,7 @@ Wir stützen diese Art auf eines der besterhaltenen Stöckchen in einem Meteorit
 
 Wir erlauben uns, diese Art nach Herrn Director Gümbel in München zu benennen, der die Chondrit-Meteoriten zuerst einer genauen mikroskopischen Untersuchung unterzogen und bei seiner trefflichen Beschreibung der Chondren in seiner Abhandlung über die in Bayern gefundenen Steinmeteoriten (Sitzungs-Ber. der K. bayer. Akad. d. Wissensch. zu München 1878, S. 14) wahrscheinlich solche Calamiscusformen, die aber weniger gut erhalten waren, vor sich gehabt, sie aber mineralogisch zu deuten versucht hat.
 
-### 2. Bosea. Nov. gen.  
+### 2. _Bosea_. Nov. gen.  
 
 Eines der schönsten Meteoritengebilde, ohne Zweifel ein Stückchen eines Korallenstocks. Ein ziemlicher Teil der Oberfläche mit vielen deutlichen, größeren und kleineren Sternchen ist an dem Unikum erhalten. Die Sternchen bildeten, wie es scheint, erhabene, abgeflachte Kegelchen; sie haben bis zu zehn nach außen sich verbreiternde Septa, getrennt durch dunklere Furchen. Die Mitte des Sternchens, von der die Septa und die Furchen ausgehen, besteht aus eckigen Körnchen. Das Coenenchym oder Zwischenfeld zwischen den Sternchen erscheint mit eckigen Plättchen gepflastert. Kleinere, offenbar jüngere Sternchen mit weniger Strahlen erscheinen zwischen den alten, ganz wie bei einer Astraea.
 
@@ -254,7 +254,7 @@ Das genannte Stöckchen, am Rande überall abgebrochen, hat, soweit erhalten, ei
 
 Unser verehrter Freund, Dr. Hahn, hat in seinem Meteoritenwerke, Taf. 16 - 30, eine größere Anzahl von Formen vorläufig zu dieser niedersten Klasse der Echinodermen stellen zu müssen geglaubt. Wir haben nach genauerem Studium ihrer Organisation, soweit diese zu entziffern, eine Reihe derselben den Polycistinen und Schwämmen, beziehungsweise Foraminiferen verwandter gefunden. Doch bleibt eine Anzahl Formen übrig, die wir vorläufig der obigen Tierklasse zuzählen wollen, da sie ohne Zwang keinem anderen uns bekannten Tiertypus anzureihen sind und immerhin gewisse Strukturmerkmale mit den Crinoiden gemein haben.
 
-### 1. Eulophiscus. Nov. gen.  
+### 1. _Eulophiscus_. Nov. gen.  
 
 (εὔλοφος, mit schönem Busch.)  
 
@@ -268,7 +268,7 @@ Stammt von Fall von Knyahinya.
 
 Hierher vielleicht auch noch die Formen: Hahn, Meteoriten Taf. 22, Fig. 5 u. 6.
 
-### 2. Euplocamus. Nov. gen.  
+### 2. _Euplocamus_. Nov. gen.  
 
 (εὐπλοxαμος = schönhaarig.)  
 
@@ -286,7 +286,7 @@ Stammt vom Meteorfall von Knyahinya.
 
 Ein sehr hübsches und deutliches, in dem photographischen Bilde aber weniger gelungenes Objekt. Aus einer von vielen kleinen, eckigen Plättchen gebildeten Basis entspringt eine Quaste von zunächst scheinbar ungegliederten, runden, stabförmigen, weiter oben durch deutliche Gliederung ausgezeichneten Armen. Die Gliederung derselben beginnt in dem Objekte bei einer sehr markierten Knickung der Arme. Diese haben, wie aus dem vorliegenden Petrefakt sicher hervorgeht, frei durch und über einander flottiert. Die einzelnen Arme sind rund, ein innerer Hohlraum ist nicht sichtbar, daher es wohl später von der Gattung Euplocamus wird getrennt werden müssen. Der Durchmesser des Ganzen beträgt 1,60 mm. Der Durchmesser der Arme unter dem Knie 0,08 mm. Nach oben verjüngen sie sich etwas, aber wenig. Der Durchmesser der eckigen Plättchen der Basis ist 0,03 bis 0,04 mm. Die Farbe des Ganzen ist gelblich, schön metallisch glänzend. — Es steckt in einem Schliff von dem Meteorfall von Knyahinya.
 
-### 3. Crobyliscus. Nov. gen.  
+### 3. _Crobyliscus_. Nov. gen.  
 
 (xρὠβυλος = Zopf.)  
 
