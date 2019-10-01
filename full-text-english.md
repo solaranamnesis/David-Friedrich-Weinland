@@ -234,6 +234,8 @@ We base this species on one of the best preserved little colonies in a meteorite
 
 We allow ourselves to name this species after Director Gümbel in Munich, who first subjected the chondrite meteorites to a precise microscopic examination and, in his excellent description of the chondrules in his essay about the stone meteorites found in Bavaria (Proceedings of the Mathematical-Physical Classes of the Royal Bavarian Academy of Sciences in Munich, 1878, p. 14) probably had such _Calamiscus_ forms, which were less well-preserved, but tried to interpret them mineralogically.
 
-### 3. Bosea. Nov. gen.
+### 3. _Bosea_. Nov. gen.
+
+One of the most beautiful meteorite structures, without doubt a little bit of a coral colony. A considerable part of the surface with many distinct, larger and smaller little stars is uniquely preserved. The little stars make up, it would seem, raised, flattened little cones; they have up to ten externally broadening septa, separated by darker furrows. The center of the little stars, from which the septa and the furrows emanate, consists of angular granules. The coenenchyme or intermediate area between the little stars appears tiled with angular little plates. Smaller, obviously younger little stars with fewer rays appear between the older ones, such as in an _Astraea_.
 
 ...
