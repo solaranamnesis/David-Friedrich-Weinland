@@ -238,4 +238,11 @@ We allow ourselves to name this species after Director Gümbel in Munich, who fi
 
 One of the most beautiful meteorite structures, without doubt a little bit of a coral colony. A considerable part of the surface with many distinct, larger and smaller little stars is uniquely preserved. The little stars make up, it would seem, raised, flattened little cones; they have up to ten externally broadening septa, separated by darker furrows. The center of the little stars, from which the septa and the furrows emanate, consists of angular granules. The coenenchyme or intermediate area between the little stars appears tiled with angular little plates. Smaller, obviously younger little stars with fewer rays appear between the older ones, such as in an _Astraea_.
 
+I permit myself to designate the genus in honor of Mr. Carl Graf Bose and Mrs. Countess Louise Bose née Countess of Reichenbach-Lessonitz, who are both excellent naturalists and took a most active part in these meteorite studies of the author. As is well known, Mrs. Countess Bose, through a foundation in Frankfurt am Main, not long ago, exerted her interest for the exploration of nature in a wonderful way.
+
+#### _Bosea cyanea_. Nov. Sp.
+
 ...
+
+
+
