@@ -244,7 +244,7 @@ Wir erlauben uns, diese Art nach Herrn Director Gümbel in München zu benennen,
 
 Eines der schönsten Meteoritengebilde, ohne Zweifel ein Stückchen eines Korallenstocks. Ein ziemlicher Teil der Oberfläche mit vielen deutlichen, größeren und kleineren Sternchen ist an dem Unikum erhalten. Die Sternchen bildeten, wie es scheint, erhabene, abgeflachte Kegelchen; sie haben bis zu zehn nach außen sich verbreiternde Septa, getrennt durch dunklere Furchen. Die Mitte des Sternchens, von der die Septa und die Furchen ausgehen, besteht aus eckigen Körnchen. Das Coenenchym oder Zwischenfeld zwischen den Sternchen erscheint mit eckigen Plättchen gepflastert. Kleinere, offenbar jüngere Sternchen mit weniger Strahlen erscheinen zwischen den alten, ganz wie bei einer Astraea.
 
-Ich erlaube mir, die Gattung zu benennen zu Ehren von Herrn Carl Graf Bose und Frau Louise Gräfin Bose geb. Gräfin von Reichenbach-Lessonitz, welche beide selbst ausgezeichnete Naturkenner, an diesen Meteoritenstudien des Verfassers den lebhaftesten Anteil genommen. Wie bekannt hat Frau Gräfin Bose vor nicht langer Zeit durch eine Stiftung in Frankfurt a. M. ihr Interesse für die Erforschung der Natur in großartigster Weise betätigt.
+Ich erlaube mir, die Gattung zu benennen zu Ehren von Herrn [Carl August] Carl Graf von Bose und Frau [Wilhelmine Emilie] Louise Gräfin von Bose geb. Gräfin von Reichenbach-Lessonitz, welche beide selbst ausgezeichnete Naturkenner, an diesen Meteoritenstudien des Verfassers den lebhaftesten Anteil genommen. Wie bekannt hat Frau Gräfin Bose vor nicht langer Zeit durch eine Stiftung in Frankfurt a. M. ihr Interesse für die Erforschung der Natur in großartigster Weise betätigt.
 
 #### _Bosea cyanea_. Nov. Sp.  
 
