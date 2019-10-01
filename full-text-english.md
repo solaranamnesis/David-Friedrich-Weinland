@@ -246,4 +246,10 @@ The above-mentioned colony, everywhere broken off at the margins, has, if it can
 
 ## IV. Crinoidea.
 
+Our dear friend Dr. Hahn, in Tables 16 thru 30 of his meteorite work, believed that he had to place, for the time being, a large number of forms into this base class of echinoderms. After a more detailed study of their organization, as far as they can be deciphered, we found a number of them more related to the polycistines and sponges, or rather foraminifera. However, there remains a number of forms, which we want to provisionally place with the above animal class, since they cannot be assigned to any other animal type known to us without force and, at least, have certain structural characteristics in common with the crionoids.
+
+### 1. _Eulophiscus_. Nov. gen.
+
+(εὔλοφος, mit schönem Busch = "with fine bush".)
+
 ...
