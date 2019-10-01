@@ -189,7 +189,7 @@ Comes from Knyahinya. There is also a very similar one in a specimen of Cabarras
 
 ### 7. _Dicheliscus_. Nov. gen.
 
-(θιχηλος = "with split claws".)
+(διχηλος = "with split claws".)
 
 A striking and characteristic shape, consisting of an interrelated cluster or pane of round bladders. The more or less heavily intruding cut into them allows for some clear insights into the hollow interior. You can see a perpendicular diaphragm going through the middle of the bladder. This separating wall is always thicker on one side than on the other; it arises from a broad base at the end of the cordiform bladder and goes through lamellar-like thinning up to the other end. Such a polished bladder with its diaphragm gives the image of a double split hoof, hence our name: _Dicheliscus_. The fact that the bladders are interrelated with each other seems clear from several parts of the specimen, as we will later depict them.
 
