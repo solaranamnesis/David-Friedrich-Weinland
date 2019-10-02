@@ -266,4 +266,8 @@ Perhaps also here are the forms of Hahn, Meteorite, Table 22: Figure 5 and 6.
 
 (εὐπλοκαμος = "with goodly locks".)
 
+Similar to one of the previous genus, but in which the arms are not bifurcated.
+
+#### _Euplocamus algoideus_ N. sp.
+
 ...
