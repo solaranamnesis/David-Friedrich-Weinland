@@ -270,7 +270,7 @@ Hierher vielleicht auch noch die Formen: Hahn, Meteoriten Taf. 22, Fig. 5 u. 6.
 
 ### 2. _Euplocamus_. Nov. gen.  
 
-(εὐπλοxαμος = schönhaarig.)  
+(εὐπλοκαμος = schönhaarig.)  
 
 Eine der vorigen ähnliche Gattung, bei welcher aber die Arme nicht gegabelt sind.
 
