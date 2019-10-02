@@ -284,6 +284,12 @@ A very pretty and distinct object, but less successful in the photographic image
 
 (xρὠβυλος = "plait".)
 
+On a clear one, made of polygonal, mostly hexagonal little plates forming a closed cavity above a number of cylindrical, plait-shaped, tapering towards the end, more massive (not hollow), arm-shaped appendages formed of angular little panes. Is it a crinoid and is that cavity the calyx of it? The fragment upon which we establish this genus is so far a unique piece, whose image we will include in our larger treatise.
+
+#### _Crobyliscus Fraasii_ N. Sp.
+
 ...
+
+
 
 
