@@ -298,7 +298,7 @@ Längsdurchmesser des Ganzen, soweit erhalten, 0,74 mm. Querdurchmesser des Kelc
 
 Von dem Meteorfall von Knyahinya.
 
-—
+***
 
 Mit der vorläufigen Charakterisierung obiger sechzehn Gattungen von Meteoritenformen glauben wir, für jetzt wenigstens, die Basis einer kleinen Meteoritenfauna gelegt zu haben. Von allen nicht abgebildeten und außerdem von vielen schon photographisch von Hahn dargestellten, soweit sie weniger gelungen, werden wir in unserer in Vorbereitung begriffenen, größeren Abhandlung genaue, selbstgezeichnete Bilder geben. Dieselben liegen bereits meist fertig vor.
 
@@ -306,6 +306,6 @@ Bezüglich der Nomenklatur bitten wir, bei sämtlichen oben aufgestellten, neuen
 
 Da wir diese Untersuchungen mit Eifer fortzusetzen gedenken, erlauben wir uns zum Schlusse noch die freundliche Bitte an etwaige Besitzer von sicher beglaubigten Meteoritenstücken oder Schliffen, dieselben uns gefälligst zur mikroskopischen Untersuchung mitzuteilen. Wir werden dieselben stets in möglichster Bälde, unter Mitteilung des Resultats und nachfolgender öffentlicher Danksagung, zurückstellen. — Unsere Adresse ist: Dr. D. F. Weinland, Esslingen, Württemberg.
 
-—
+***
 
 Druck von E. Blochmann und Sohn in Dresden.
