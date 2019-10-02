@@ -294,8 +294,6 @@ From the meteorite fall of Knyahinya.
 
 ***
 
+With this preliminary characterization of the above sixteen genera of meteorite forms, we believe, for now at least, that we have laid the foundation for a small meteorite fauna. Of all the ones not depicted and in addition to the many already photographically portrayed by Hahn, as far as they are to a lesser extent successful, we will be giving detailed, self-drawn images in our larger treatise, which is in preparation. These images are already mostly finished.
+
 ...
-
-
-
-
