@@ -300,4 +300,6 @@ Regarding the nomenclature of all the new genera established above — with the 
 
 As we intend to continue these investigations diligently, we would like to conclude with a friendly request to any owners of reliably certified meteorite pieces or cuts to impart them to us for microscopic examination. We will always return them as soon as possible, communicating the results and subsequent public acknowledgments. — Our address is: Dr. D. F. Weinland, Esslingen, Württemberg.
 
-...
+***
+
+Printed by E. Blochmann and Sohn in Dresden.
