@@ -298,4 +298,6 @@ With this preliminary characterization of the above sixteen genera of meteorite 
 
 Regarding the nomenclature of all the new genera established above — with the exception of _Hahnia_ and _Bosea_ — we request, as an authority, to add our name to the name of our dear friend Dr. Hahn, who, though he has taken no direct part in our work, will always remain the one who first asserted the organic origin of these forms and tried to justify them through his ever-valuable atlas and rich collection on which the above work is based.
 
+As we intend to continue these investigations diligently, we would like to conclude with a friendly request to any owners of reliably certified meteorite pieces or cuts to impart them to us for microscopic examination. We will always return them as soon as possible, communicating the results and subsequent public acknowledgments. — Our address is: Dr. D. F. Weinland, Esslingen, Württemberg.
+
 ...
