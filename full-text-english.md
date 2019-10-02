@@ -244,7 +244,7 @@ I permit myself to designate the genus in honor of Mr. [Carl August] Carl Graf v
 
 The above-mentioned colony, everywhere broken off at the margins, has, if it can be obtained, a length of 1.44 mm, a width of 0.88 mm. The diameter of the little stars is 0.04 to 0.08 mm. The diameter of the recessed furrows radiating from the center is 0.003 to 0.006 mm. The petrification material displays the same smalt-blue color as in _Urania salve_. — This unique piece is in a cut from the fall of Knyahinya.
 
-## IV. Crinoidea.
+## IV. _Crinoidea_.
 
 Our dear friend Dr. Hahn, in Tables 16 thru 30 of his meteorite work, believed that he had to place, for the time being, a large number of forms into this base class of echinoderms. After a more detailed study of their organization, as far as they can be deciphered, we found a number of them more related to the polycistines and sponges, or rather foraminifera. However, there remains a number of forms, which we want to provisionally place with the above animal class, since they cannot be assigned to any other animal type known to us without force and, at least, have certain structural characteristics in common with the crionoids.
 
@@ -270,7 +270,7 @@ Similar to one of the previous genus, but in which the arms are not bifurcated.
 
 #### _Euplocamus algoideus_ N. sp.
 
-This genus and species is supported for the time being by Hahn's photographs, Table 1: Figure 6, Table 25: Figure 1, and Table 19, all of which represent the same object, and these pictures can be described as quite successful. This pretty piece gives the impression under the microscope of a little tuft of sea algae that has grown on an outcrop of rock. From a patch-shaped constructed central disk, tuft-shaped like the previous, a large number of equally thick arms radiate, which, as far as they are preserved, do not rejuvenate. The diameter of the arms is 0.04 mm. The arms are glass-clear transparent. Through the interior of each one runs a dark contour, inferring a fine cavity. Here, too, the arms are laid down and pushing on and over each other, so that one must necessarily think of it as formerly free floating. The whole little stick has a height of 0.8 mm and a width of 1.1 mm, so like the previous one, it is still visible to the naked eye. 
+This genus and species is supported for the time being by Hahn's photographs, Table 1: Figure 6, Table 25: Figure 1, and Table 19, all of which represent the same object, and these pictures can be described as quite successful. This pretty piece gives the impression under the microscope of a little tuft of sea algae that has grown on an outcrop of rock. From a patch-shaped constructed central disk, tuft-shaped like the previous, a large number of equally thick arms radiate, which, as far as they are preserved, do not taper. The diameter of the arms is 0.04 mm. The arms are glass-clear transparent. Through the interior of each one runs a dark contour, inferring a fine cavity. Here, too, the arms are laid down and pushing on and over each other, so that one must necessarily think of it as formerly free floating. The whole little stick has a height of 0.8 mm and a width of 1.1 mm, so like the previous one, it is still visible to the naked eye. 
 
 Comes from the meteorite fall of Knyahinya.
 
@@ -278,4 +278,12 @@ Comes from the meteorite fall of Knyahinya.
 
 (Image: Hahn, Table 23: Figure 4.)
 
+A very pretty and distinct object, but less successful in the photographic image. From a base formed by many small, angular plates, a tassel emerges from initially seemingly un-articulated, round, rod-shaped arms, distinguished higher up by clear outline. The structure of this begins in the object with a very marked bend of the arms. These have, as the petrfact clearly indicates, been floating freely through and over each other. The individual arms are round, an inner cavity is not visible, therefore it will probably have to separated later from the genus _Euplocamus_. The diameter of the whole is 1.60 mm. The diameter of the arms under the knee 0.08 mm. At the top, the taper slightly, but only a little. The diameter of the square plates of the base is 0.03 to 0.04 mm. The color of the whole is yellowish, beautiful metallic shiny. — It is in a cut from the meteorite fall of Knyahinya.
+
+### 3. _Crobyliscus_. Nov. gen.
+
+(xρὠβυλος = "plait".)
+
 ...
+
+
