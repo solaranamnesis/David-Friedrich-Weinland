@@ -294,7 +294,7 @@ From the meteorite fall of Knyahinya.
 
 ***
 
-With this preliminary characterization of the above sixteen genera of meteorite forms, we believe, for now at least, that we have laid the foundation for a small meteorite fauna. Of all the ones not depicted and in addition to the many already photographically portrayed by Hahn, as far as they are to a lesser extent successful, we will be giving detailed, self-drawn images in our larger treatise, which is in preparation. These images are already mostly finished.
+With this preliminary characterization of the above sixteen genera of meteorite forms, we believe, for now at least, that we have laid the foundation for a small meteorite fauna. Of all the ones not depicted and in addition to the many already photographically portrayed by Hahn, as far as they are to a lesser extent successful, we will be giving detailed self-drawn images in our larger treatise that is in preparation. These illustrations are already mostly finished.
 
 Regarding the nomenclature of all the new genera established above — with the exception of _Hahnia_ and _Bosea_ — we request, as an authority, to add our name to the name of our dear friend Dr. Hahn, who, though he has taken no direct part in our work, will always remain the one who first asserted the organic origin of these forms and tried to justify them through his ever-valuable atlas and rich collection on which the above work is based.
 
