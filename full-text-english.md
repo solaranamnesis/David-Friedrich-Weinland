@@ -288,6 +288,12 @@ On a clear one, made of polygonal, mostly hexagonal little plates forming a clos
 
 #### _Crobyliscus Fraasii_ N. Sp.
 
+Longitudinal diameter of the whole, if obtained, 0.74 mm. Crosswise diameter of the calyx 0.45 mm. Length of the arms, if available, 0.35 mm. Crosswise diameter of the arms 0.3 to 0.6 mm. Thickness of the whorls that comprise the arms, 0.01 to 0.02 mm. Diameter of the angular plates that comprise the calyx, 0.03 to 0.05 mm. The mineral that makes up the structure is undoubtedly silica.
+
+From the meteorite fall of Knyahinya.
+
+***
+
 ...
 
 
