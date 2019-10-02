@@ -270,4 +270,12 @@ Similar to one of the previous genus, but in which the arms are not bifurcated.
 
 #### _Euplocamus algoideus_ N. sp.
 
+This genus and species is supported for the time being by Hahn's photographs, Table 1: Figure 6, Table 25: Figure 1, and Table 19, all of which represent the same object, and these pictures can be described as quite successful. This pretty piece gives the impression under the microscope of a little tuft of sea algae that has grown on an outcrop of rock. From a patch-shaped constructed central disk, tuft-shaped like the previous, a large number of equally thick arms radiate, which, as far as they are preserved, do not rejuvenate. The diameter of the arms is 0.04 mm. The arms are glass-clear transparent. Through the interior of each one runs a dark contour, inferring a fine cavity. Here, too, the arms are laid down and pushing on and over each other, so that one must necessarily think of it as formerly free floating. The whole little stick has a height of 0.8 mm and a width of 1.1 mm, so like the previous one, it is still visible to the naked eye. 
+
+Comes from the meteorite fall of Knyahinya.
+
+#### _Euplocamus articulatus_ N. Sp.
+
+(Image: Hahn, Table 23: Figure 4.)
+
 ...
