@@ -256,5 +256,6 @@ A fan-shaped bundle with a central radiating point, undoubtedly floating freely 
 
 #### _Eulophiscus Quenstedtii_. N. sp.
 
-...
+Here we primarily refer to the pretty picture which Hahn has chosen as the title cover of his meteorite work and displayed smaller on Table 22: Figure 3. However, this object grants a much clearer picture under the microscope than in the photograph. We see five thick arms emanating from the base; the outer left, most favorably situated, shows a cross-section of 0.04 mm at the bottom. Just 0.08 mm above its origin, it bifurcates nicely into two main arms 0.02 mm thick. And they remain equal, as far as one can follow them, which is possible with the one on the left up to the end of the fan, and as far as it is preserved. The mentioned fork has the form we are accustomed to in the crinoids. But neither here nor in the other arms is a clear crosswise outline visible. It is safe to assume that these arms floated freely in water during life, because you can see them in several places laying down and crossing over each other, hiding under each other, and so forth. The size of the entire tuft is, of course, very minuscule for a crinoid; the height of the whole tuft is only 0.7 mm, the width 1 mm. The whole appears greyish in color, the mentioned main arms yellowish, semitransparent.
 
+...
