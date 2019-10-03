@@ -1,6 +1,6 @@
-# Dr. David Friedrich Weinland
+# Dr. David Friedrich Weinland (1829 - 1915).
 
-## Über die in Meteoriten entdeckten Tierreste (1882)
+## Über die in Meteoriten entdeckten Tierreste (1882).
 
 ## About the Animal Remains Discovered in the Meteorites.
 
