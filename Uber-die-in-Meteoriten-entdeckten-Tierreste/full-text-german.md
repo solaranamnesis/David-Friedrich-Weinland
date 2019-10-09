@@ -54,14 +54,14 @@ Wir wollen es nun versuchen, einige der auffallendsten Gattungen und Arten kurz 
 Facettirte Kugeln, bestehend aus glashellen Kieselnadeln, die wie Binsenkörbchen in regelmäßigen Winkeln übereinander gelegt sind. Die Nadeln sind hohl, oft deutlich mit Löchelchen in Längsreihen versehen. Hierher:  
 
 #### _Phormiscus vulgaris_. N. sp.  
-(Abbildung: Hahn, Meteoriten, Taf. 29, Fig. 2.)  
+(Abbildung: Hahn, Meteoriten, [Taf. 29, Fig. 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_29-2_edit-b.jpg).)  
 
 Durchmesser des Ganzen 0,18 mm. Durchmesser der Nadelbalken 0,05 mm. Vom Meteorfall von Knyahinya.
 
 Diese Phormiscusformen sind in Bruchstücken außerordentlich häufig in den Meteoriten von Knyahinya. Es gibt verschiedene Arten, die häufigste aber ist die obengenannte, welche sofort an den dicken, glashellen, in spitzen Winkeln übereinander gekreuzten Nadelbündeln zu erkennen ist.
 
 #### _Phormiscus grandis_. N. sp.  
-(Abbildung: Hahn, Meteoriten: Taf. 29, Fig. 6.)  
+(Abbildung: Hahn, Meteoriten: [Taf. 29, Fig. 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_29-6_edit-b.jpg).)  
 
 Feinmaschiger als die vorige Art. Die Nadeln kreuzen sich unter weit mehr Winkeln.
 
@@ -77,7 +77,7 @@ Gleichfalls facettirte Kugeln, bestehend aus runden Kieselbällchen, welche in d
 
 #### _Thyriscus formosus_. N. sp.  
 
-(Hahn: Taf. 30, Fig. 3.)  
+(Hahn: [Taf. 30, Fig. 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_30-3_edit-b.jpg).)  
 
 Durchmesser des ganzen, hier abgebildeten Bruchstücks 0,70 mm. Durchmesser eines ganzen Trichters 0,35 mm. Durchmesser der einzelnen Bällchen 0,01 mm. Distanz der Löchelchen von einander 0,006 mm. Durchmesser der Löchelchen 0,001 mm. Vom Meteorfall von Knyahinya.
 
@@ -85,7 +85,7 @@ Durchmesser des ganzen, hier abgebildeten Bruchstücks 0,70 mm. Durchmesser eine
 
 (_γωνια_ = Winkel, _βρὁχος_ = Masche.)  
 
-Wir begründen diese Gattung auf sehr charakteristische Strukturstücke, die öfters in unseren Schliffen vorkommen und von denen Hahn in seinen Meteoriten, Taf. 13, Fig. 6, eines abgebildet hat. Es ist ein fest zusammengefügtes, netzartiges Kieselgewebe aus innig verwachsenen, eine zusammenhängende Scheibe darstellenden Kieselbällchen gebildet, die sich unter Winkeln kreuzen und fast gleichseitige, viereckige Maschen bilden. Da, wo sich die Leisten kreuzen, entstehen Buckeln wie Knöpfe eines Netzes. — Wir können wohl auch diese Gebilde am ehesten bei den Polycistinen unterbringen, unter denen Häckel ähnliche Skelettformen in seinem schönen Werke: „Die Radiolarien“ Taf. 29 abgebildet hat. Besonders kämen in Betracht die Gattungen _Stylodictya_ und _Stylospira_, die ganz ähnliche geknöpfte Netzformen in ihrem inneren Skelett aufweisen. Doch könnte man auch an Schwämme, z. B. an manche Scyphia denken; oder an Bryozoen?
+Wir begründen diese Gattung auf sehr charakteristische Strukturstücke, die öfters in unseren Schliffen vorkommen und von denen Hahn in seinen Meteoriten, [Taf. 13, Fig. 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_13-6_edit-b.jpg), eines abgebildet hat. Es ist ein fest zusammengefügtes, netzartiges Kieselgewebe aus innig verwachsenen, eine zusammenhängende Scheibe darstellenden Kieselbällchen gebildet, die sich unter Winkeln kreuzen und fast gleichseitige, viereckige Maschen bilden. Da, wo sich die Leisten kreuzen, entstehen Buckeln wie Knöpfe eines Netzes. — Wir können wohl auch diese Gebilde am ehesten bei den Polycistinen unterbringen, unter denen Häckel ähnliche Skelettformen in seinem schönen Werke: „Die Radiolarien“ Taf. 29 abgebildet hat. Besonders kämen in Betracht die Gattungen _Stylodictya_ und _Stylospira_, die ganz ähnliche geknöpfte Netzformen in ihrem inneren Skelett aufweisen. Doch könnte man auch an Schwämme, z. B. an manche Scyphia denken; oder an Bryozoen?
 
 #### _Goniobrochus Haeckelii_. N. sp.  
 
@@ -106,7 +106,7 @@ Wir adoptieren in engerem Sinne den Gattungsnamen von Hahn, den derselbe schon i
 
 ##### _Urania Salve_. N. sp.
 
-So wollen wir sie nennen, denn es war der erste Gruß einer organischen Form aus einer anderen Welt, das erste Wesen, das Hahn als ein organisches erkannte, wenn auch zuerst als eine Pflanze beschrieb. Diese Art erscheint in großen und kleinen, ganzen Individuen und einer Menge von Bruchstücken, sehr häufig in den Meteoriten, besonders in denen von Knyahinya. Durchschnittliche Größe 1 mm. Dicke der außen stets smalteblauen Rindenschicht 0,04 mm. Hahn hat sie vielfach abgebildet. Die große Figur von Tafel 2, alle Figuren auf Tafel 3, sodann Fig. 1, 4 und 6 auf Tafel 4, 1 und 4 auf Tafel 5 gehören hierher. Diese Art zeigt oft sehr eigentümliche, parallele oder radiär laufende, tiefe Längsfalten auf der Oberfläche, so dass man an eine gewisse Elastizität der Rindenschicht im Leben denken möchte.
+So wollen wir sie nennen, denn es war der erste Gruß einer organischen Form aus einer anderen Welt, das erste Wesen, das Hahn als ein organisches erkannte, wenn auch zuerst als eine Pflanze beschrieb. Diese Art erscheint in großen und kleinen, ganzen Individuen und einer Menge von Bruchstücken, sehr häufig in den Meteoriten, besonders in denen von Knyahinya. Durchschnittliche Größe 1 mm. Dicke der außen stets smalteblauen Rindenschicht 0,04 mm. Hahn hat sie vielfach abgebildet. Die große Figur von [Tafel 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_2-1_edit-b2.jpg), alle Figuren auf [Tafel 3: 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-1_edit-b.jpg), [2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-2_edit-b.jpg), [3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-3_edit-b.jpg), [4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-4_edit-b.jpg), [5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-5_edit-b2.jpg), [und 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-6_edit-b2.jpg), sodann [Fig. 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-1_edit-b.jpg), [4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-4_edit-b.jpg) [und 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-6_edit-b.jpg) auf Tafel 4, [1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-1_edit-b.jpg) [und 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-4_edit-b.jpg) auf Tafel 5 gehören hierher. Diese Art zeigt oft sehr eigentümliche, parallele oder radiär laufende, tiefe Längsfalten auf der Oberfläche, so dass man an eine gewisse Elastizität der Rindenschicht im Leben denken möchte.
 
 #### 2. _Pectiscus_. Nov. gen.  
 
@@ -214,7 +214,7 @@ Kleine Bruchstückchen von regelmäßig gewundenen Gebilden mit polythalamienart
 
 ### 1. _Hahnia_. Nov. gen.
 
-Dies ist die Form, die mich nach den stärksten Zweifeln zuerst dazu bestimmte, ein genaueres, zoologisches Studium der von Hahn entdeckten Gebilde vorzunehmen. Sie allein wäre auch in der Tat schon entscheidend. Freilich genügen auch hier die photographischen Bilder Hahn's in seinem Meteoritenwerk Taf. 1, 5 und Taf. 10 Fig. 3 u. 4 bei weitem nicht. Eine gelbe Eisenfärbung, die auf dem Präparate liegt, verursachte sehr störende, schwarze Schatten und überhaupt ist die mikroskopische Photographie noch nicht so weit gelangt, die Bilder mit der Schärfe wiederzugeben, wie sie sich unserem Auge darstellen. So schätzenswert die photographische Abbildung für größere Formen ist, wie die schönen Korallenwerke von Dr. Klunzinger und Rominger beweisen, so wird doch bis auf Weiteres für die mikroskopische Darstellung die mit vollem Verständnis zeichnende Hand der Forschers selbst durch jene mechanische Darstellung noch nicht, vielleicht niemals ersetzt. Unsere _Hahnia_, [Fig. 2](https://cdn.solaranamnesis.com/DFWeinland/fig2.png) [_Hahnia meteoritica_, N., an einem Pectiscus sitzend. 80mal vergrössert.], ist leider bis jetzt ein Unikum geblieben. Der betreffende Schliff gehört zum Meteorfall von Knyahinya. Er ist einer der glücklichsten und enthält außerdem noch sehr gute _Urania_-, _Pectiscus_- und _Phormiscus_- Reste.
+Dies ist die Form, die mich nach den stärksten Zweifeln zuerst dazu bestimmte, ein genaueres, zoologisches Studium der von Hahn entdeckten Gebilde vorzunehmen. Sie allein wäre auch in der Tat schon entscheidend. Freilich genügen auch hier die photographischen Bilder Hahn's in seinem Meteoritenwerk Taf. 1, 5 und [Taf. 10 Fig. 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_10-3_edit-b2.jpg) [und 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_1-5_edit-b2.jpg) bei weitem nicht. Eine gelbe Eisenfärbung, die auf dem Präparate liegt, verursachte sehr störende, schwarze Schatten und überhaupt ist die mikroskopische Photographie noch nicht so weit gelangt, die Bilder mit der Schärfe wiederzugeben, wie sie sich unserem Auge darstellen. So schätzenswert die photographische Abbildung für größere Formen ist, wie die schönen Korallenwerke von Dr. Klunzinger und Rominger beweisen, so wird doch bis auf Weiteres für die mikroskopische Darstellung die mit vollem Verständnis zeichnende Hand der Forschers selbst durch jene mechanische Darstellung noch nicht, vielleicht niemals ersetzt. Unsere _Hahnia_, [Fig. 2](https://cdn.solaranamnesis.com/DFWeinland/fig2.png) [_Hahnia meteoritica_, N., an einem Pectiscus sitzend. 80mal vergrössert.], ist leider bis jetzt ein Unikum geblieben. Der betreffende Schliff gehört zum Meteorfall von Knyahinya. Er ist einer der glücklichsten und enthält außerdem noch sehr gute _Urania_-, _Pectiscus_- und _Phormiscus_- Reste.
 
 Gattungscharaktere von _Hahnia_: Polypenröhren mikroskopisch klein, ungleich, große mit kleinen gemischt, mehr oder weniger polygonal mit abgerundeten Ecken. Die Wände der Röhren dick, mit scharfer, lineärer Begrenzung nach außen. Bei stärkerer Vergrößerung wird zwischen den die benachbarten Polypen begrenzenden Linien ein gleichmäßig dickes Zwischenröhrengewebe (Cönenchym) sichtbar, welches auf dem Querschliff ein deutliches Netzwerk darstellt. Innere Längsleisten (Septa) in den Röhren fehlen, ebenso die Querscheidewände (Tabulae), welche letztere bekanntlich bei vielen ähnlichen, irdischen Korallen die einzelnen Röhren in Etagen übereinander teilen. Stock wahrscheinlich inkrustierend, flach, kuchenförmig.
 
@@ -224,7 +224,7 @@ Durchmesser des ganzen Stöckchens 0,90 mm, also eben noch mit dem bloßen Auge 
 
 Die einzelnen Polypenkelche bei unserer _Hahnia_ sind mit einer schwarzgrauen Masse gefüllt, die Wände erscheinen grauweiß, das Cönenchym gelb. Durch einen glücklichen Zufall wurde dieser Korallenstock gerade von oben getroffen. In der Mitte des Bildes erscheinen die Kelche fast intakt; rings am Rande herum, besonders auf der linken Seite, sind sie etwas verschliffen, so dass man dort für die Strukturerkenntnis sehr wertvolle Halblängsschliffe durch die Polypenröhren erhält und den Mangel von Querscheidenwänden, sowie auch von Gefässlöchelchen (Sprossenkanälen) konstatieren kann.
 
-Hahn's Abbildung Taf. 1 f. 5 und Taf. 10 f. 4 ist leider durch die gelbe Färbung des Präparats, die in der Photographie schwarz kommt, beeinträchtigt.
+Hahn's Abbildung [Taf. 1 f. 5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_1-5_edit-b2.jpg) [und Taf. 10 f. 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_1-5_edit-b2.jpg) ist leider durch die gelbe Färbung des Präparats, die in der Photographie schwarz kommt, beeinträchtigt.
 
 ### 2. _Calamiscus_. Nov. gen.  
 
@@ -234,7 +234,7 @@ Favositenartige Polypenstöcke, bestehend aus regelmäßig parallel nebeneinande
 
 ### _Calamiscus Gümbelii_. N. sp.  
 
-(Abbildung: Hahn, Meteoriten: Taf. 14 u. 15.)
+(Abbildung: Hahn, Meteoriten: [Taf. 14](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_14-1_edit-b2.jpg) [und 15](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_15-1_edit-b3.jpg).)
 
 Wir stützen diese Art auf eines der besterhaltenen Stöckchen in einem Meteoritenschliff von dem Fall von Cabarras. Es ist ein länglicher, nach unten spitz verlaufender Stock, wie Favositenstöcke es wegen der Art ihrer Vermehrung durch Zwischenschiebung unten spitziger, neuer Röhren gewöhnlich sind. Das vorliegende Stöckchen hat einen Durchmesser von 0,46 mm und eine Höhe von 1 mm, ist also recht wohl noch mit bloßem Auge sichtbar. Der Durchmesser der Röhren beträgt 0,01 mm, die Distanz der an diesem Polypenstöckchen außerordentlich schön sichtbaren Gefässlöchelchen von einander 0,005 bis 0,01 mm. Die sägenähnliche Auskerbung an der Seite einer Röhre in dem Hahn'schen Bilde entstand durch eine zufällige Anschleifung derselben, in der Art, dass die trichterförmige Einbuchtung der Löchelchen zu Tage tritt. Die Böden stehen etwas schief in der Röhre sehr unregelmäßig weit von einander und sind überhaupt in diesem Stock seltener als in manchen anderen.
 
@@ -262,11 +262,11 @@ Ein Büschel fächerförmig von einem Mittelpunkt ausstrahlender, im Leben ohne 
 
 #### _Eulophiscus Quenstedtii_. N. sp.  
 
-Wir beziehen hierher in erster Linie das hübsche Bild, das Hahn als Titel auf den Umschlag seines Meteoritenwerkes gewählt und kleiner auf Taf. 22 Fig. 3 abgebildet hat. Auch dieses Objekt gewährt aber unter dem Mikroskop ein viel deutlicheres Bild, als die Photographie leistete. Wir sehen von einer Basis aus zunächst fünf dickere Arme ausgehen; der linke äußerste, am günstigsten gelegene, zeigt unten einen Querschnitt von 0,04 mm. Schon 0,08 mm über seinem Ursprung gabelt sich derselbe aufs Schönste in zwei Hauptarme von 0,02 mm Dicke. So bleiben sie sich dann gleich, soweit man sie verfolgen kann, was bei dem linksliegenden bis ans Ende der Fächers, soweit dieser erhalten, möglich ist. Die genannte Gabelung hat ganz die Form, wie wir sie bei den Crinoiden gewohnt sind. Doch ist weder hier noch bei den übrigen Armen eine deutliche Quergliederung sichtbar. Dass diese Arme im Leben frei im Wasser flottierten, ist sicher anzunehmen, denn man sieht sie an mehreren Stellen sich über einander legen und kreuzen, unter einander verstecken u. s. f. Die Größe des ganzen Büschels ist freilich für einen Crinoiden sehr unbedeutend; die Höhe des ganzen Büschelchens beträgt nur 0,7, die Breite 1 mm. Das Ganze erscheint graulich gefärbt, die genannten Hauptarme gelblich, halbdurchsichtig.
+Wir beziehen hierher in erster Linie das hübsche Bild, das Hahn als Titel auf den Umschlag seines Meteoritenwerkes gewählt und kleiner auf [Taf. 22 Fig. 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-3_edit-b.jpg) abgebildet hat. Auch dieses Objekt gewährt aber unter dem Mikroskop ein viel deutlicheres Bild, als die Photographie leistete. Wir sehen von einer Basis aus zunächst fünf dickere Arme ausgehen; der linke äußerste, am günstigsten gelegene, zeigt unten einen Querschnitt von 0,04 mm. Schon 0,08 mm über seinem Ursprung gabelt sich derselbe aufs Schönste in zwei Hauptarme von 0,02 mm Dicke. So bleiben sie sich dann gleich, soweit man sie verfolgen kann, was bei dem linksliegenden bis ans Ende der Fächers, soweit dieser erhalten, möglich ist. Die genannte Gabelung hat ganz die Form, wie wir sie bei den Crinoiden gewohnt sind. Doch ist weder hier noch bei den übrigen Armen eine deutliche Quergliederung sichtbar. Dass diese Arme im Leben frei im Wasser flottierten, ist sicher anzunehmen, denn man sieht sie an mehreren Stellen sich über einander legen und kreuzen, unter einander verstecken u. s. f. Die Größe des ganzen Büschels ist freilich für einen Crinoiden sehr unbedeutend; die Höhe des ganzen Büschelchens beträgt nur 0,7, die Breite 1 mm. Das Ganze erscheint graulich gefärbt, die genannten Hauptarme gelblich, halbdurchsichtig.
 
 Stammt von Fall von Knyahinya.
 
-Hierher vielleicht auch noch die Formen: Hahn, Meteoriten Taf. 22, Fig. 5 u. 6.
+Hierher vielleicht auch noch die Formen: Hahn, Meteoriten [Taf. 22, Fig. 5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-5_edit-b.jpg) [und 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-6_edit-b.jpg).
 
 ### 2. _Euplocamus_. Nov. gen.  
 
@@ -276,13 +276,13 @@ Eine der vorigen ähnliche Gattung, bei welcher aber die Arme nicht gegabelt sin
 
 #### _Euplocamus algoideus_ N. sp.  
 
-Diese Gattung und Art stützen wir zunächst auf das Hahn'sche Bild, Taf. 1 Fig. 6, Taf. 25 Fig. 1 und Taf. 19, welche alle dasselbe Objekt darstellen, und diese Bilder kann man als ziemlich gelungen bezeichnen. Das hübsche Stückchen selbst macht unter dem Mikroskop ganz den Eindruck eines Büschelchens Seealgen, die an einem Felsstück festgewachsen. Von einer pflasterförmig gebauten Zentralscheibe aus strahlt hier, büschelförmig wie bei den vorigen, eine große Anzahl gleich dicker Arme aus, die sich, so weit erhalten, nicht verjüngen. Der Durchmesser der Arme beträgt 0,04 mm. Die Arme sind glashell durchsichtig. Durch das Innere eines jeden derselben läuft eine dunkle Kontur, die auf einen feinen Hohlraum schließen lässt. Auch hier legen und schieben sich die Arme durch- und über- einander, so dass man notwendig an ein einstiges, freies Flottieren derselben denken muss. Das ganze Stöckchen hat eine Höhe von 0,8 mm und eine Breite von 1,1 mm, ist also wie das vorige recht wohl noch mit bloßem Auge sichtbar.
+Diese Gattung und Art stützen wir zunächst auf das Hahn'sche Bild, [Taf. 1 Fig. 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_1-6_edit-b2.jpg), [Taf. 25 Fig. 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_25-1_edit-b.jpg) [und Taf. 19](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_19-1_edit-b2.jpg), welche alle dasselbe Objekt darstellen, und diese Bilder kann man als ziemlich gelungen bezeichnen. Das hübsche Stückchen selbst macht unter dem Mikroskop ganz den Eindruck eines Büschelchens Seealgen, die an einem Felsstück festgewachsen. Von einer pflasterförmig gebauten Zentralscheibe aus strahlt hier, büschelförmig wie bei den vorigen, eine große Anzahl gleich dicker Arme aus, die sich, so weit erhalten, nicht verjüngen. Der Durchmesser der Arme beträgt 0,04 mm. Die Arme sind glashell durchsichtig. Durch das Innere eines jeden derselben läuft eine dunkle Kontur, die auf einen feinen Hohlraum schließen lässt. Auch hier legen und schieben sich die Arme durch- und über- einander, so dass man notwendig an ein einstiges, freies Flottieren derselben denken muss. Das ganze Stöckchen hat eine Höhe von 0,8 mm und eine Breite von 1,1 mm, ist also wie das vorige recht wohl noch mit bloßem Auge sichtbar.
 
 Stammt vom Meteorfall von Knyahinya.
 
 #### _Euplocamus articulatus_ N. Sp.  
 
-(Abbildung: Hahn, Tafel XXIII. Fig. 4.)
+(Abbildung: Hahn, [Tafel 23. Fig. 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_23-4_edit-b.jpg).)
 
 Ein sehr hübsches und deutliches, in dem photographischen Bilde aber weniger gelungenes Objekt. Aus einer von vielen kleinen, eckigen Plättchen gebildeten Basis entspringt eine Quaste von zunächst scheinbar ungegliederten, runden, stabförmigen, weiter oben durch deutliche Gliederung ausgezeichneten Armen. Die Gliederung derselben beginnt in dem Objekte bei einer sehr markierten Knickung der Arme. Diese haben, wie aus dem vorliegenden Petrefakt sicher hervorgeht, frei durch und über einander flottiert. Die einzelnen Arme sind rund, ein innerer Hohlraum ist nicht sichtbar, daher es wohl später von der Gattung Euplocamus wird getrennt werden müssen. Der Durchmesser des Ganzen beträgt 1,60 mm. Der Durchmesser der Arme unter dem Knie 0,08 mm. Nach oben verjüngen sie sich etwas, aber wenig. Der Durchmesser der eckigen Plättchen der Basis ist 0,03 bis 0,04 mm. Die Farbe des Ganzen ist gelblich, schön metallisch glänzend. — Es steckt in einem Schliff von dem Meteorfall von Knyahinya.
 
