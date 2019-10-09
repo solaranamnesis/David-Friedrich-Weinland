@@ -46,7 +46,7 @@ Dieser Umstand scheint uns die neuerdings vielfach angenommene Hypothese von Sch
 
 Wir wollen es nun versuchen, einige der auffallendsten Gattungen und Arten kurz zu charakterisieren, indem wir uns eine ausführlichere Beschreibung mit Abbildungen, besonders auch der inneren Strukturverhältnisse, zu welcher bereits viel Material vorliegt, vorbehalten.
 
-## I. Gittertierchen, Polycistina.  
+## I. Gittertierchen, _Polycistina_.  
 ### 1. _Phormiscus_. Nov. gen.  
 
 (_φορμισxος_ = Binsenkörbchen.)  
@@ -250,7 +250,7 @@ Ich erlaube mir, die Gattung zu benennen zu Ehren von Herrn [Carl August] Carl G
 
 Das genannte Stöckchen, am Rande überall abgebrochen, hat, soweit erhalten, eine Länge von 1,44 mm, eine Breite von 0,88 mm. Der Durchmesser der Sternchen beträgt 0,04 bis 0,08 mm. Der Durchmesser der vertieften, von der Mitte ausstrahlenden Furchen ist 0,003 bis 0,006 mm. — Das Versteinerungsmaterial zeigt dieselbe smalteblaue Farbe, wie bei Urania salve. — Dieses Unikum steckt in einem Schliff vom Fall von Knyahinya.
 
-## IV. Crinoidea.  
+## IV. _Crinoidea_.  
 
 Unser verehrter Freund, Dr. Hahn, hat in seinem Meteoritenwerke, Taf. 16 - 30, eine größere Anzahl von Formen vorläufig zu dieser niedersten Klasse der Echinodermen stellen zu müssen geglaubt. Wir haben nach genauerem Studium ihrer Organisation, soweit diese zu entziffern, eine Reihe derselben den Polycistinen und Schwämmen, beziehungsweise Foraminiferen verwandter gefunden. Doch bleibt eine Anzahl Formen übrig, die wir vorläufig der obigen Tierklasse zuzählen wollen, da sie ohne Zwang keinem anderen uns bekannten Tiertypus anzureihen sind und immerhin gewisse Strukturmerkmale mit den Crinoiden gemein haben.
 
