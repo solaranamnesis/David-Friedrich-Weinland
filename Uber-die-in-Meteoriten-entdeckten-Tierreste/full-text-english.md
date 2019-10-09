@@ -52,14 +52,14 @@ We will now try to briefly characterize some of the most notable genera and spec
 Faceted spheres, consisting of clear glass silica spicules that lay one on top of the other at regular angles like a rush-basket. The spicules are hollow, often furnished with clearly defined longitudinal cavities. Here:
 
 #### _Phormiscus vulgaris_. N. sp.
-(Image: Hahn, Meteorite, Table. 29, Fig. 2.)  
+(Image: Hahn, Meteorite, [Table. 29, Fig. 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_29-2_edit-b.jpg).)  
 
 Diameter of the whole 0.18 mm. Diameter of the spicule joists 0.05 mm. From the meteorite fall of Knyahinya.
 
 These Phormiscus forms are exceptionally common in fragments of the Knyahinya meteorite. There are several types, but the most common one is the one mentioned above, which is immediately recognizable by the thick, clear glass spicule bundles crossed on top of each other at acute angles.
 
 #### _Phormiscus grandis_. N. sp.
-(Image: Hahn, Meteorite: Table. 29, Fig. 6.)  
+(Image: Hahn, Meteorite: [Table. 29, Fig. 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_29-6_edit-b.jpg).)  
 
 More finely woven than the previous type. The spicules cross at more extensive angles.
 
@@ -74,7 +74,7 @@ That these _Phormiscus_ belong to the Polycistines seems to us certain. The holl
 Similar faceted spheres, consisting of little silica balls, arranged in such a way that they form quadrangular, inwardly tapering funnels like windows or even better, embrasure constructions. The balls are hollow and often furnished with noticeable perforations. Undoubtedly belongs with the family of _Phormiscidae_.
 
 #### _Thyriscus formosus_. N. sp.  
-(Hahn: Plate 30, Fig. 3.)  
+(Hahn: [Table 30, Fig. 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_30-3_edit-b.jpg).)  
 
 The diameter of the whole piece shown here is 0.70 mm. Diameter of an entire funnel 0.35 mm. Diameter of the individual balls 0.01 mm. Distance of the holes from each other 0.006 mm. Diameter of the holes 0.001 mm. From the meteorite fall of Knyahinya.
 
@@ -82,7 +82,7 @@ The diameter of the whole piece shown here is 0.70 mm. Diameter of an entire fun
 
 (γωνια = "cornered", βρὁχος = "mesh".)
 
-We establish this genus on very characteristic structural pieces, which occur frequently in our cuts and one of which has been depicted by Hahn in his meteorite on Table 13, Figure 6. It is a tightly assembled, net-like silica tissue intimately grown together, forming an interrelated pane resembling a small silica ball, whose cross angles overlap to form almost equilateral, quadrilateral meshes. Where these slats cross, hunches arise like a web of knobs. — We can also probably place these structures with the Polycistines, among similar skeletal forms depicted by Haeckel in his fine work, "The Radiolarians", on Table 29. The genera _Stylodictya_ and _Stylospira_, which have very similar knob networks forming their inner skeleton, are particularly worthy of consideration. But one might also think of sponges, such as Scyphia; or of Bryozoa?
+We establish this genus on very characteristic structural pieces, which occur frequently in our cuts and one of which has been depicted by Hahn in his meteorite on [Table 13, Figure 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_13-6_edit-b.jpg). It is a tightly assembled, net-like silica tissue intimately grown together, forming an interrelated pane resembling a small silica ball, whose cross angles overlap to form almost equilateral, quadrilateral meshes. Where these slats cross, hunches arise like a web of knobs. — We can also probably place these structures with the Polycistines, among similar skeletal forms depicted by Haeckel in his fine work, "The Radiolarians", on Table 29. The genera _Stylodictya_ and _Stylospira_, which have very similar knob networks forming their inner skeleton, are particularly worthy of consideration. But one might also think of sponges, such as Scyphia; or of Bryozoa?
 
 #### _Goniobrochus Haeckelii_. N. sp.  
 
@@ -101,7 +101,7 @@ We adopt in the strict sense the genus name from Hahn, which he had already esta
 
 #### _Urania Salve_. N. sp.
 
-This is what we wish to call them, for they are the first greetings of organic forms from another world, the first beings that Hahn recognized as organic, albeit first described as a plant. This species appears both large and small, as entire individuals and as lots of fragments, it is very common in the meteorites, especially those of Knyahinya. Average size 1 mm. Thickness of the always smalt blue cortex 0.04 mm. Hahn shows them many times. The large figure of Table 2, all the figures of Table 3, then Figures 1, 4, and 6 of Table 4, and Figures 1 and 4 of Table 5 also belong here.
+This is what we wish to call them, for they are the first greetings of organic forms from another world, the first beings that Hahn recognized as organic, albeit first described as a plant. This species appears both large and small, as entire individuals and as lots of fragments, it is very common in the meteorites, especially those of Knyahinya. Average size 1 mm. Thickness of the always smalt blue cortex 0.04 mm. Hahn shows them many times. The large figure of [Table 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_2-1_edit-b2.jpg), all the figures of [Table 3: 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-1_edit-b.jpg), [2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-2_edit-b.jpg), [3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-3_edit-b.jpg), [4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-4_edit-b.jpg), [5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-5_edit-b2.jpg), [6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-6_edit-b2.jpg), then [Figures 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-1_edit-b.jpg), [4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-4_edit-b.jpg), and [6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-6_edit-b.jpg) of Table 4, and [Figures 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-1_edit-b.jpg) and [4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-4_edit-b.jpg) of Table 5 also belong here.
 
 ### 2. _Pectiscus_. Nov. gen.
 
@@ -208,7 +208,7 @@ Small fragments of regularly winding formations with _Polythalamia_-like chamber
 ## III. Corals.  
 ### 1. _Hahnia_. Nov. gen.   
 
-This is the form that, after the strongest doubts, first led me to carry out a more precise, zoological study of the entities discovered by Hahn. In fact, its presence alone is decisive. Admittedly, the photographic images of Hahn's, in his meteorite work, Tables 1, 5 and Table 10: Figures 3 and 4, are far from sufficient. A yellow iron staining on the specimen caused quite detrimental black shadows, and in general, microscopic photography has not yet reached the point of reproducing the images with the sharpness that they present to the eye. As valuable as the photographic picture is for larger forms, like the beautiful coral works of Dr. Klunzinger and Rominger prove, for the time being, regarding microscopic representation, the hand of the researcher himself, drawing with full understanding, will not, perhaps ever, be replaced by the mechanical representation. Our _Hahnia_, [Figure 2](https://cdn.solaranamnesis.com/DFWeinland/fig2.png) [_Hahnia meteoritica_, N., attached to a _Pectiscus_. magnified 80 times.], has unfortunately remained unique to this day. The cut in question belongs to the meteorite fall of Knyahinya. It is one of the most fortunate and also contains very nice scraps of _Urania_, _Pectiscus_, and _Phormiscus_.
+This is the form that, after the strongest doubts, first led me to carry out a more precise, zoological study of the entities discovered by Hahn. In fact, its presence alone is decisive. Admittedly, the photographic images of Hahn's, in his meteorite work, Tables 1, 5 and [Table 10: Figures 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_10-3_edit-b2.jpg) [and 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_1-5_edit-b2.jpg), are far from sufficient. A yellow iron staining on the specimen caused quite detrimental black shadows, and in general, microscopic photography has not yet reached the point of reproducing the images with the sharpness that they present to the eye. As valuable as the photographic picture is for larger forms, like the beautiful coral works of Dr. Klunzinger and Rominger prove, for the time being, regarding microscopic representation, the hand of the researcher himself, drawing with full understanding, will not, perhaps ever, be replaced by the mechanical representation. Our _Hahnia_, [Figure 2](https://cdn.solaranamnesis.com/DFWeinland/fig2.png) [_Hahnia meteoritica_, N., attached to a _Pectiscus_. magnified 80 times.], has unfortunately remained unique to this day. The cut in question belongs to the meteorite fall of Knyahinya. It is one of the most fortunate and also contains very nice scraps of _Urania_, _Pectiscus_, and _Phormiscus_.
 
 Characteristics of the genus _Hahnia_: small microscopic polyp tubes, unequal, large mixed with small, polygonal with rounded corners. The walls of the tubes are thick with sharp linear boundaries towards the outside. At high magnification, a uniformly thick inter-tubular tissue (coenenchyme) becomes visible between the lines bordering the adjacent polyps, which represents a distinct network in the cross-section. Inner longitudinal strips (septa) are missing in the tubes, as well as the transverse dividing walls (tabulae), which are known to divide the individual tubes into floors on top of each other in many similar terrestrial corals. Colony probably encrusted, flat-bottomed, cake shaped.
 
@@ -218,7 +218,7 @@ Diameter of the whole colony 0.90 mm, thus even with the naked eye it can be rec
 
 The individual polyp calyxes in our _Hahnia_ are filled with a blackish grey mass, the septa appear greyish white, the coenenchyme yellow. By a lucky coincidence, this coral colony was directly struck from above. In the middle of the picture, the calyxes appear nearly intact; around the edge, particularly on the left side, they are somewhat scuffed, so that one obtains for structural knowledge the very valuable semi-longitudinal cuts through the polyp tubes and can establish the lack of transverse partition walls, as well as of vascular holes (sprout channels).
 
-Hahn's image Table 1: Figure 5 and Table 10: Figure 4 unfortunately is adversely affected by the yellow coloration of the specimen, which becomes black in the photograph.
+Hahn's image [Table 1: Figure 5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_1-5_edit-b2.jpg) and [Table 10: Figure 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_1-5_edit-b2.jpg) unfortunately is adversely affected by the yellow coloration of the specimen, which becomes black in the photograph.
 
 ### 2. _Calamiscus_. Nov. gen.
 
@@ -228,7 +228,7 @@ _Favosites_-like polyp colonies, consisting of regularly side by side parallel o
 
 #### _Calamiscus Gümbelii_. N. sp.
 
-(Image: Hahn, Meteorite: Table 14 and 15.)
+(Image: Hahn, Meteorite: [Table 14](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_14-1_edit-b2.jpg) [and 15](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_15-1_edit-b3.jpg).)
 
 We base this species on one of the best-preserved little colonies in a meteorite cut from the Cabarras fall. It is an oblong, downward pointing colony, as _Favosites_ colonies usually are due to the way the species propagates through intermediate grafts shifted down, typical of new tubes. The available colony has a diameter of 0.46 mm and a height of 1 mm, so it is still visible to the naked eye. The diameter of the tubes is 0.01 mm, the distance of the vascular holes, which are exceptionally visible on this polyp colony, from each other is 0.005 to 0.01 mm. The saw-like notch on the side of a tube in Hahn's picture was created by accidental abrasion, in such a way that the funnel-shaped indentation of the little holes comes to light. The floors stand slightly lopsided in the tube, very irregularly spaced from each other, and in general are less common in this colony than in some of the others.
 
@@ -256,11 +256,11 @@ A fan-shaped bundle with a central radiating point, undoubtedly floating freely 
 
 #### _Eulophiscus Quenstedtii_. N. sp.
 
-Here we primarily refer to the pretty picture which Hahn has chosen as the title cover of his meteorite work and displayed smaller on Table 22: Figure 3. However, this object grants a much clearer picture under the microscope than in the photograph. We see five thick arms emanating from the base; the outer left, most favorably situated, shows a cross-section of 0.04 mm at the bottom. Just 0.08 mm above its origin, it bifurcates nicely into two main arms 0.02 mm thick. And they remain equal, as far as one can follow them, which is possible with the one on the left up to the end of the fan, and as far as it is preserved. The mentioned fork has the form we are accustomed to in the crinoids. But neither here nor in the other arms is a clear crosswise outline visible. It is safe to assume that these arms floated freely in water during life, because you can see them in several places laying down and crossing over each other, hiding under each other, and so forth. The size of the entire tuft is, of course, very minuscule for a crinoid; the height of the whole tuft is only 0.7 mm, the width 1 mm. The whole appears greyish in color, the mentioned main arms yellowish, semitransparent.
+Here we primarily refer to the pretty picture which Hahn has chosen as the title cover of his meteorite work and displayed smaller on [Table 22: Figure 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-3_edit-b.jpg). However, this object grants a much clearer picture under the microscope than in the photograph. We see five thick arms emanating from the base; the outer left, most favorably situated, shows a cross-section of 0.04 mm at the bottom. Just 0.08 mm above its origin, it bifurcates nicely into two main arms 0.02 mm thick. And they remain equal, as far as one can follow them, which is possible with the one on the left up to the end of the fan, and as far as it is preserved. The mentioned fork has the form we are accustomed to in the crinoids. But neither here nor in the other arms is a clear crosswise outline visible. It is safe to assume that these arms floated freely in water during life, because you can see them in several places laying down and crossing over each other, hiding under each other, and so forth. The size of the entire tuft is, of course, very minuscule for a crinoid; the height of the whole tuft is only 0.7 mm, the width 1 mm. The whole appears greyish in color, the mentioned main arms yellowish, semitransparent.
 
 Comes from the fall of Knyahinya.
 
-Perhaps also here are the forms of Hahn, Meteorite, Table 22: Figure 5 and 6.
+Perhaps also here are the forms of Hahn, Meteorite, [Table 22: Figure 5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-5_edit-b.jpg) [and 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-6_edit-b.jpg).
 
 ### 2. _Euplocamus_. Nov. gen.
 
@@ -270,13 +270,13 @@ Like one from the previous genus, but in which the arms are not bifurcated.
 
 #### _Euplocamus algoideus_ N. sp.
 
-This genus and species are supported for the time being by Hahn's photographs, Table 1: Figure 6, Table 25: Figure 1, and Table 19, all of which represent the same object, and these pictures can be described as quite successful. This pretty piece gives the impression under the microscope of a little tuft of sea algae that has grown on an outcrop of rock. From a patch-shaped constructed central disk, tuft-shaped like the previous, a large number of equally thick arms radiate, which, as far as they are preserved, do not taper. The diameter of the arms is 0.04 mm. The arms are glass-clear transparent. Through the interior of each one runs a dark contour, inferring a fine cavity. Here, too, the arms are laid down and pushing on and over each other, so that one must necessarily think of it as formerly free floating. The whole little stick has a height of 0.8 mm and a width of 1.1 mm, so like the previous one, it is still visible to the naked eye. 
+This genus and species are supported for the time being by Hahn's photographs, [Table 1: Figure 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_1-6_edit-b2.jpg), [Table 25: Figure 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_25-1_edit-b.jpg), and [Table 19](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_19-1_edit-b2.jpg), all of which represent the same object, and these pictures can be described as quite successful. This pretty piece gives the impression under the microscope of a little tuft of sea algae that has grown on an outcrop of rock. From a patch-shaped constructed central disk, tuft-shaped like the previous, a large number of equally thick arms radiate, which, as far as they are preserved, do not taper. The diameter of the arms is 0.04 mm. The arms are glass-clear transparent. Through the interior of each one runs a dark contour, inferring a fine cavity. Here, too, the arms are laid down and pushing on and over each other, so that one must necessarily think of it as formerly free floating. The whole little stick has a height of 0.8 mm and a width of 1.1 mm, so like the previous one, it is still visible to the naked eye. 
 
 Comes from the meteorite fall of Knyahinya.
 
 #### _Euplocamus articulatus_ N. Sp.
 
-(Image: Hahn, Table 23: Figure 4.)
+(Image: Hahn, [Table 23: Figure 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_23-4_edit-b.jpg).)
 
 A very pretty and distinct object, but less successful in the photographic image. From a base formed by many small, angular plates, a tassel emerges from initially seemingly un-articulated, round, rod-shaped arms, distinguished higher up by clear outline. The structure of this begins in the object with a very marked bend of the arms. These have, as the petrifact clearly indicates, been floating freely through and over each other. The individual arms are round, an inner cavity is not visible, therefore it will probably have to separated later from the genus _Euplocamus_. The diameter of the whole is 1.60 mm. The diameter of the arms under the knee 0.08 mm. At the top, they taper slightly, but only a little. The diameter of the square plates of the base is 0.03 to 0.04 mm. The color of the whole is yellowish, beautiful metallic shiny. — It is in a cut from the meteorite fall of Knyahinya.
 
