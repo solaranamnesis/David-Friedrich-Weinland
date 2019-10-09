@@ -44,7 +44,7 @@ This situation seems to us to exclude Schiaparelli's recent hypothesis that the 
 
 We will now try to briefly characterize some of the most notable genera and species, reserving a more comprehensive description with illustrations, especially of the interior structural relations, for those in which there is already a great deal of material.
 
-## I. Gittertierchen "Little Grated Creature", Polycystina.  
+## I. Gittertierchen "Little Grated Creature", _Polycystina_.  
 ### 1. _Phormiscus_. Nov. gen.  
 
 (_φορμισxος_ = "little reed basket".)  
