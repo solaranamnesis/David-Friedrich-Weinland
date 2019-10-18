@@ -127,7 +127,7 @@ A smaller form with even coarser slats.
 
 (xάλλαιον = "cockscomb".)
 
-One of the most remarkable and beautiful constructions in our meteorite fauna. A fine form, like some sinuate cockscombs, reminiscent of some corals (_Fungia_, _Herpetolithus_) in its striking habitus, but in accordance with the microscopic construction of its cortex layer it probably belongs with the _Uranidae_. The thin, outermost layer of the cortex is just as delicately blue-grey, velvety, and even finely striped, as in _Urania_. In most cuts the raised combs that separate the concavities of the colony from each other, as well as in a fine longitudinal cut in which one can recognize these slight depressions, lie beneath the grey cortex tissue composed of parallel or slightly radiating, very regular lamellae, passing through oblique straps connected to each other and located in the innermost structure that, as we know from _Urania_ and _Pectiscus_, unfortunately does not show in the best preserved unique specimens, since nowhere does the cut penetrate deep enough. — In this form we are most vividly reminded of the cross-section of _Carpenteria Rhaphidodendron_, a foraminifera of Mauritius, provided by [Karl August] Möbius in his beautiful treatise on the _Eozoon Canadense_ (Palaeontology XXV, Table 40 Figure 60).
+One of the most remarkable and beautiful constructions in our meteorite fauna. A fine form, like some sinuate cockscombs, reminiscent of some corals (_Fungia_, _Herpetolithus_) in its striking habitus, but in accordance with the microscopic construction of its cortex layer it probably belongs with the Uranidae. The thin, outermost layer of the cortex is just as delicately blue-grey, velvety, and even finely striped, as in _Urania_. In most cuts the raised combs that separate the concavities of the colony from each other, as well as in a fine longitudinal cut in which one can recognize these slight depressions, lie beneath the grey cortex tissue composed of parallel or slightly radiating, very regular lamellae, passing through oblique straps connected to each other and located in the innermost structure that, as we know from _Urania_ and _Pectiscus_, unfortunately does not show in the best preserved unique specimens, since nowhere does the cut penetrate deep enough. — In this form we are most vividly reminded of the cross-section of _Carpenteria Rhaphidodendron_, a foraminifera of Mauritius, provided by [Karl August] Möbius in his beautiful treatise on the _Eozoon Canadense_ (Palaeontology XXV, Table 40 Figure 60).
 
 #### _Callaion Paulinianum_. N. sp.
 
@@ -145,7 +145,7 @@ We permit ourselves to name this species in honor of Miss Pauline Schloz, the me
 
 (γλῶσσα = "tongue".)
 
-Rounded, tongue-like lobes constructing colonies. The cuticle is composed of hexagonal panels. Pores in the recessed furrows and round, recessed holes; no trace of radial ribs as with the _Uranidae_. Without question belonging to the sponges.
+Rounded, tongue-like lobes constructing colonies. The cuticle is composed of hexagonal panels. Pores in the recessed furrows and round, recessed holes; no trace of radial ribs as with the Uranidae. Without question belonging to the sponges.
 
 #### _Glossiscus Schmidtii_. N. sp.
 
