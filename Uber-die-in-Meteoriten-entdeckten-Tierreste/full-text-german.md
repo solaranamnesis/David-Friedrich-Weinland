@@ -93,7 +93,7 @@ Diese schon von Hahn (siehe oben) abgebildete Form stammt von dem Meteorfall von
 
 ## II. Schwämme und Foraminiferen
 
-### Familie: _Uranidae_. Nobis.  
+### Familie: Uranidae. Nobis.  
 
 Ein sehr charakteristischer Meteoritentypus von niederen Tierformen, der sehr häufig in den verschiedensten Meteorfällen vorkommt und — wegen der von uns nachträglich aufgefundenen ausgezeichneten Durchschnitte bis jetzt am besten von allen Meteorformen — kaum die _Hahnia_ (s. unten) ausgenommen — studiert werden konnte. Derselbe lässt sich an keine der uns bekannten irdischen Tierformen genauer anschließen. Ob Schwamm, ob Foraminifere, diese Frage wird schwer zu entscheiden sein, wie dies ja bekanntlich auch bei manchen fossilen irdischen Formen der Fall ist. Vielleicht haben wir es hier mit einer Mittelform zu tun.
 
@@ -112,7 +112,7 @@ So wollen wir sie nennen, denn es war der erste Gruß einer organischen Form aus
 
 (_πηxτὁς_ = gekämmt.)  
 
-Lappige, wahrscheinlich mit breiter Basis festsitzende Stöcke. Gehören zu derselben Familie wie _Urania_, zu den _Uranidae_. Aber die Rindenschicht ist hier eine andere, gröbere, wie gekämmt, d. h. in stärkeren, mehr oder weniger radiär ausstrahlenden Rippen (Lamellen) gebildet, die oft an die Septa gewisser Korallenformen, z. B. der _Fungia_, erinnern. Der innere Bau aber, von dem wir mehrere ganz vortreffliche Durchschnitte vor uns haben (siehe Fig. 1 [80mal vergrössert]), besteht ähnlich wie bei _Urania_ aus einem lamellösen, Kammern bildenden Gewebe, das nichts mit der Korallenstruktur zu tun hat. Es gibt eine Reihe von Arten, zum Teil offenbar sehr große, von welchen letzteren aber meist nur das grobe, innere, gekammerte Maschengewebe erhalten ist.
+Lappige, wahrscheinlich mit breiter Basis festsitzende Stöcke. Gehören zu derselben Familie wie _Urania_, zu den Uranidae. Aber die Rindenschicht ist hier eine andere, gröbere, wie gekämmt, d. h. in stärkeren, mehr oder weniger radiär ausstrahlenden Rippen (Lamellen) gebildet, die oft an die Septa gewisser Korallenformen, z. B. der _Fungia_, erinnern. Der innere Bau aber, von dem wir mehrere ganz vortreffliche Durchschnitte vor uns haben (siehe Fig. 1 [80mal vergrössert]), besteht ähnlich wie bei _Urania_ aus einem lamellösen, Kammern bildenden Gewebe, das nichts mit der Korallenstruktur zu tun hat. Es gibt eine Reihe von Arten, zum Teil offenbar sehr große, von welchen letzteren aber meist nur das grobe, innere, gekammerte Maschengewebe erhalten ist.
 
 ##### _Pectiscus Zittelii_. N. sp.  
 
