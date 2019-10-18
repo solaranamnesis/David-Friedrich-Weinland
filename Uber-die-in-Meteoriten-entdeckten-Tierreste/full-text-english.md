@@ -76,7 +76,7 @@ Similar faceted spheres, consisting of little silica balls, arranged in such a w
 #### _Thyriscus formosus_. N. sp.  
 (Hahn: [Table 30, Fig. 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_30-3_edit-b.jpg).)  
 
-The diameter of the whole piece shown here is 0.70 mm. Diameter of an entire funnel 0.35 mm. Diameter of the individual balls 0.01 mm. Distance of the holes from each other 0.006 mm. Diameter of the holes 0.001 mm. From the meteorite fall of Knyahinya.
+The diameter of the whole piece shown here is 0.70 mm. Diameter of an entire funnel 0.35 mm. Diameter of the individual little balls 0.01 mm. Distance of the holes from each other 0.006 mm. Diameter of the holes 0.001 mm. From the meteorite fall of Knyahinya.
 
 ### 3. _Goniobrochus_. Nov. gen.  
 
