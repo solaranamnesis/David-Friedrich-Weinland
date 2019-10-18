@@ -71,7 +71,7 @@ That these _Phormiscus_ belong to the Polycistines seems to us certain. The holl
 
 (θυρις = "embrasure".)
 
-Similar faceted spheres, consisting of little silica balls, arranged in such a way that they form quadrangular, inwardly tapering funnels like windows or even better, embrasure constructions. The balls are hollow and often furnished with noticeable perforations. Undoubtedly belongs with the family of _Phormiscidae_.
+Similarly faceted spheres, consisting of little silica balls, arranged in such a way that they form quadrangular, inwardly tapering funnels like windows or even better, embrasure constructions. The balls are hollow and often furnished with noticeable perforations. Undoubtedly belongs with the family of _Phormiscidae_.
 
 #### _Thyriscus formosus_. N. sp.  
 (Hahn: [Table 30, Fig. 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_30-3_edit-b.jpg).)  
