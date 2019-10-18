@@ -89,7 +89,7 @@ We establish this genus on very characteristic structural pieces, which occur fr
 This form, already depicted by Hahn (see above), comes from the meteorite fall of Cabarras. The available piece appears spread out and fan-shaped in the cut, measuring 0.5 mm crosswise and 0.4 mm in height. The thickness of the little balls is 0.01 mm, the diameter of a stitch is likewise 0.01 mm. The entirety seems to have formed a round pane or perhaps even forming a funnel. We name the species in honor of our former fellow student, the famous founder of the detailed accounts about the great world of these small organisms. 
 
 ## II. Sponges and Foraminifera  
-### Family: _Uranidae_. _Nobis_.  
+### Family: Uranidae. _Nobis_.  
 
 A highly characteristic meteorite type of a lower animal form that occurs very frequently in a wide variety of meteorite falls and — because in the additional excellent cuts we located the best of all meteorite forms — hardly exempting the Hahnia (see below) — can be studied. The same cannot be closely associated with any of the terrestrial animal forms known to us. Whether sponge, whether foraminifera, this question will be difficult to decide, as is well known in some cases of terrestrial fossil forms. Perhaps we are dealing here with an intermediate form.
 
@@ -107,7 +107,7 @@ This is what we wish to call them, for they are the first greetings of organic f
 
 (πηxτὁς = "combed".)
 
-Lobate, probably with wide sessile base colonies. They belong to the same family as _Urania_, to the _Uranidae_. But the cortex layer here is different, coarse, comb-like, i.e. formed as stronger, more or less radially emanating ribs (lamellae), often reminiscent of the septa of certain coral forms, such as _Fungia_. But the inner structure, however, as we have in several quite excellent cuts before us (see Figure 1 [magnified 80 times]), consists, as in _Urania_, of a lamellar, chamber-forming tissue that has nothing to do with coral structure. There are a number of species, some of which are apparently quite large, however in the latter only the coarse, inner, chambered mesh-tissue is preserved.
+Lobate, probably with wide sessile base colonies. They belong to the same family as _Urania_, to the Uranidae. But the cortex layer here is different, coarse, comb-like, i.e. formed as stronger, more or less radially emanating ribs (lamellae), often reminiscent of the septa of certain coral forms, such as _Fungia_. But the inner structure, however, as we have in several quite excellent cuts before us (see Figure 1 [magnified 80 times]), consists, as in _Urania_, of a lamellar, chamber-forming tissue that has nothing to do with coral structure. There are a number of species, some of which are apparently quite large, however in the latter only the coarse, inner, chambered mesh-tissue is preserved.
 
 #### _Pectiscus Zittelii_. N. sp.
 
