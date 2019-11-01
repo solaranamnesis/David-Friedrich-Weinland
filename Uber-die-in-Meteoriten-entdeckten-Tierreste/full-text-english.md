@@ -65,13 +65,13 @@ More finely woven than the previous type. The spicules cross at more extensive a
 
 The best specimens, which were found later and include the inner structure, are not yet pictured. The diameter of one of such is 3.2 mm. So, it is a big creature that is rather noticeable to the naked eye.
 
-That these _Phormiscus_ belong to the Polycistines seems to us certain. The hollow, partially perforated silica spicules, and particularly the spherical shapes, which is conceivable only in animals moving freely in water, points first to this, and not to sponges as one might otherwise think. In any case, however, they form their own family, which we will call _Phormiscidae_. — They are certainly not crinoids, as Hahn formerly supposed.
+That these _Phormiscus_ belong to the Polycistines seems to us certain. The hollow, partially perforated silica spicules, and particularly the spherical shapes, which is conceivable only in animals moving freely in water, points first to this, and not to sponges as one might otherwise think. In any case, however, they form their own family, which we will call Phormiscidae. — They are certainly not crinoids, as Hahn formerly supposed.
 
 ### 2. _Thyriscus_. Nov. gen.  
 
 (θυρις = "embrasure".)
 
-Similarly faceted spheres, consisting of little silica balls, arranged in such a way that they form quadrangular, inwardly tapering funnels like windows or even better, embrasure constructions. The balls are hollow and often furnished with noticeable perforations. Undoubtedly belongs with the family of _Phormiscidae_.
+Similarly faceted spheres, consisting of little silica balls, arranged in such a way that they form quadrangular, inwardly tapering funnels like windows or even better, embrasure constructions. The balls are hollow and often furnished with noticeable perforations. Undoubtedly belongs with the family of Phormiscidae.
 
 #### _Thyriscus formosus_. N. sp.  
 (Hahn: [Table 30, Fig. 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_30-3_edit-b.jpg).)  
