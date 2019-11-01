@@ -67,13 +67,13 @@ Feinmaschiger als die vorige Art. Die Nadeln kreuzen sich unter weit mehr Winkel
 
 Die besten, erst nachträglich gefundenen, auch den inneren Bau zeigenden Exemplare sind noch nicht abgebildet. Der Durchmesser eines solchen beträgt 3,2 mm. Es ist also ein großes, mit bloßem Auge recht wohl sichtbares Tierchen.
 
-Dass diese _Phormiscus_ zu den Polycistinen gehören, scheint uns sicher. Die hohlen, teilweise durchlöcherten Kieselnadeln, besonders aber die Kugelformen, die nur bei frei im Wasser sich bewegenden Tieren denkbar ist, weist zunächst darauf hin, und nicht auf Schwämme, an die man sonst auch denken könnte. Jedenfalls aber bilden sie eine eigene Familie, die wir _Phormiscidae_ nennen wollen. — Crinoiden, wie Hahn früher vermutete, sind es sicher nicht.
+Dass diese _Phormiscus_ zu den Polycistinen gehören, scheint uns sicher. Die hohlen, teilweise durchlöcherten Kieselnadeln, besonders aber die Kugelformen, die nur bei frei im Wasser sich bewegenden Tieren denkbar ist, weist zunächst darauf hin, und nicht auf Schwämme, an die man sonst auch denken könnte. Jedenfalls aber bilden sie eine eigene Familie, die wir Phormiscidae nennen wollen. — Crinoiden, wie Hahn früher vermutete, sind es sicher nicht.
 
 ### 2. _Thyriscus_. Nov. gen.  
 
 (_θυρις_ = Fenster.)  
 
-Gleichfalls facettirte Kugeln, bestehend aus runden Kieselbällchen, welche in der Art angeordnet sind, dass sie viereckige, nach innen sich verjüngende Trichter wie Fenster oder noch besser: Schießscharten bilden. Die Bällchen sind hohl und mit öfters deutlichen Löchelchen versehen. Gehört ohne Zweifel auch in die Familie der _Phormiscidae_.
+Gleichfalls facettirte Kugeln, bestehend aus runden Kieselbällchen, welche in der Art angeordnet sind, dass sie viereckige, nach innen sich verjüngende Trichter wie Fenster oder noch besser: Schießscharten bilden. Die Bällchen sind hohl und mit öfters deutlichen Löchelchen versehen. Gehört ohne Zweifel auch in die Familie der Phormiscidae.
 
 #### _Thyriscus formosus_. N. sp.  
 
