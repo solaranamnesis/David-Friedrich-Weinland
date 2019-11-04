@@ -28,7 +28,7 @@ An in-depth study of them this past year has provided the following preliminary 
 
 5\. Of crinoids three forms, but all are still doubtful.
 
-6\. We have not been able to detect any trace of remains of higher animals: mollusks, arthropods, or even vertebrates.
+6\. We have not been able to detect any trace of the remains of higher animals: mollusks, arthropods, or even vertebrates.
 
 7\. Also, plant-based remains have not presently been safely proven. But one often encounters scraps of tissue that could well be plant-based.
 
