@@ -10,7 +10,7 @@
 
 ### 1882
 
-Shortly before the New Year of 1881, Dr. Otto Hahn in Reutlingen, a lawyer by profession, but also an excellent mineralogist and skilled microscopist, wrote a work entitled _The Meteorite (Chondrite) and its Organisms_ with thirty-two tables of photographic images (Tübingen, H. Laupp) in which he proves that the meteorites, especially the so-called chondrites, contain organic structures that he, without attempting a thorough and systematic zoological investigation, generally refers to as sponges, corals, and crinoids.
+Shortly before the New Year of 1881, Dr. Otto Hahn in Reutlingen, a lawyer by profession but also an excellent mineralogist and skilled microscopist, wrote a work entitled _The Meteorite (Chondrite) and its Organisms_ with thirty-two tables of photographic images (Tübingen, H. Laupp) in which he proves that the meteorites, especially the so-called chondrites, contain organic structures that he, without attempting a thorough and systematic zoological investigation, generally refers to as sponges, corals, and crinoids.
 
 The forms depicted in the above work are purely mechanical, that is, without the assistance of a draftsman — probably every zoologist and paleontologist will obtain this impression upon examining them: that in large part, if one observes them objectively i.e. without considering their origin, then one involuntarily thinks of organic structures — as little as one would initially like to be inclined to such a presumption, and perhaps to the extent that the text regarding these figures seems to call for caution due to its highly enthusiastic language and bold conclusions.
 
