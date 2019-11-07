@@ -84,7 +84,7 @@ The diameter of the whole piece shown here is 0.70 mm. Diameter of an entire fun
 
 We establish this genus on very characteristic structural pieces, which occur frequently in our cuts and one of which has been depicted by Hahn in his meteorite on [Table 13, Figure 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_13-6_edit-b.jpg). It is a tightly assembled, net-like silica tissue intimately grown together, forming an interrelated pane resembling a small silica ball, whose cross angles overlap to form almost equilateral, quadrilateral meshes. Where these slats cross, hunches arise like a web of knobs. — We can also probably place these structures with the Polycistines, among similar skeletal forms depicted by Haeckel in his fine work, _The Radiolarians_, on Table 29. The genera _Stylodictya_ and _Stylospira_, which have very similar knob networks forming their inner skeleton, are particularly worthy of consideration. But one might also think of sponges, such as _Scyphia_; or of Bryozoa?
 
-#### _Goniobrochus Haeckelii_. N. sp.  
+#### _Goniobrochus haeckelii_. N. sp.  
 
 This form, already depicted by Hahn (see above), comes from the meteorite fall of Cabarras. The available piece appears spread out and fan-shaped in the cut, measuring 0.5 mm crosswise and 0.4 mm in height. The thickness of the little balls is 0.01 mm, the diameter of a stitch is likewise 0.01 mm. The entirety seems to have formed a round pane or perhaps even forming a funnel. We name the species in honor of our former fellow student, the famous founder of the detailed accounts about the great world of these small organisms. 
 
@@ -99,7 +99,7 @@ They are sessile, cushion-shaped colonies with a fine porous lamellar cortex lay
 
 We adopt in the strict sense the genus name from Hahn, which he had already established in his work _The Primordial Cell_, although as a genus of plants, for a very characteristic meteorite form. Since then, in a number of favorable cuts I have been able to study and draw these interesting forms, which in the Knyahinya meteorite are particularly common, so that any doubt about their animal nature, which Hahn later presumed in his meteorite work, can no longer exist. They are always smalt-blue and cushion-shaped; the very delicate, finely dashed, velvety looking porous cuticle is probably the peduncle of these sessile colonies. In the cross-section one immediately distinguishes a translucent porous cortex layer. The whole interior of the pillow consists of a rather irregular mesh tissue, which radiates from the cortex towards the center smoothing into lamellar  lineaments, which have lacuna-like cavities or chambers between them.
 
-#### _Urania Salve_. N. sp.
+#### _Urania salve_. N. sp.
 
 This is what we wish to call them, for they are the first greetings of organic forms from another world, the first beings that Hahn recognized as organic, albeit first described as a plant. This species appears both large and small, as entire individuals and as lots of fragments, it is very common in the meteorites, especially those of Knyahinya. Average size 1 mm. Thickness of the always smalt-blue cortex 0.04 mm. Hahn shows them many times. The large figure of [Table 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_2-1_edit-b2.jpg), all the figures of [Table 3: 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-1_edit-b.jpg), [2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-2_edit-b.jpg), [3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-3_edit-b.jpg), [4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-4_edit-b.jpg), [5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-5_edit-b2.jpg), [and 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-6_edit-b2.jpg), then [Figures 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-1_edit-b.jpg), [4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-4_edit-b.jpg), [and 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-6_edit-b.jpg) of Table 4, and [Figures 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-1_edit-b.jpg) [and 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-4_edit-b.jpg) of Table 5 also belong here.
 
@@ -109,7 +109,7 @@ This is what we wish to call them, for they are the first greetings of organic f
 
 Lobate, probably with wide sessile base colonies. They belong to the same family as _Urania_, to the Uranidae. But the cortex layer here is different, coarse, comb-like, i.e. formed as stronger, more or less radially emanating ribs (lamellae), often reminiscent of the septa of certain coral forms, such as _Fungia_. But the inner structure, however, as we have in several quite excellent cuts before us (see Figure 1 [magnified 80 times]), consists, as in _Urania_, of a lamellar, chamber-forming tissue that has nothing to do with coral structure. There are a number of species, some of which are apparently quite large, however in the latter only the coarse, inner, chambered mesh-tissue is preserved.
 
-#### _Pectiscus Zittelii_. N. sp.
+#### _Pectiscus zittelii_. N. sp.
 
 The most common species. Based on its external appearance, its radial rays, and often by its overall contour, one is often reminded of the familiar scallops (_Pecten_). But the lobes of these colonies do not maintain a regular overall shape. They are always rounded at the edges, often the edge is divided into smaller lobes by shallow notches. Diameter of the colonies, about 1 to 3 mm. The fine little ribs towards the gray cortex are on average 0.04 mm apart.
 
@@ -129,7 +129,7 @@ A smaller form with even coarser slats.
 
 One of the most remarkable and beautiful constructions in our meteorite fauna. A fine form, like some sinuate cockscombs, reminiscent of some corals (_Fungia_, _Herpetolithus_) in its striking habitus, but in accordance with the microscopic construction of its cortex layer it probably belongs with the Uranidae. The thin, outermost layer of the cortex is just as delicately blue-grey, velvety, and even finely striped, as in _Urania_. In most cuts the raised combs that separate the concavities of the colony from each other, as well as in a fine longitudinal cut in which one can recognize these slight depressions, lie beneath the grey cortex tissue composed of parallel or slightly radiating, very regular lamellae, passing through oblique straps connected to each other and located in the innermost structure that, as we know from _Urania_ and _Pectiscus_, unfortunately does not show in the best preserved unique specimens, since nowhere does the cut penetrate deep enough. — In this form we are most vividly reminded of the cross-section of _Carpenteria rhaphidodendron_, a foraminifera of Mauritius, provided by [Karl August] Möbius in his beautiful treatise on the _Eozoon canadense_ (Palaeontology XXV, Table 40 Figure 60).
 
-#### _Callaion Paulinianum_. N. sp.
+#### _Callaion paulinianum_. N. sp.
 
 Not shown in Hahn's meteorite atlas.
 
@@ -147,7 +147,7 @@ We permit ourselves to name this species in honor of Miss Pauline Schloz, the me
 
 Rounded, tongue-like lobes constructing colonies. The cuticle is composed of hexagonal panels. Pores in the recessed furrows and round, recessed holes; no trace of radial ribs as with the Uranidae. Without question belonging to the sponges.
 
-#### _Glossiscus Schmidtii_. N. sp.
+#### _Glossiscus schmidtii_. N. sp.
 
 Not pictured by Hahn. In the one on hand, the pores and pore holes of the conspicuously milk-white colored colony appear tinged with black dots, organic matter which has settled in the pores, as is often found in these meteorite fossils. The total length of the lobe is 1.7 mm, the cross-diameter 0.8 mm, the diameter of the pore holes 0.03 to 0.05 mm, the pore furrow 0.02 to 0.04 mm, and the hexagonal panels 0.02 mm.
 
@@ -226,7 +226,7 @@ Hahn's image [Table 1: Figure 5](https://cdn.solaranamnesis.com/OttoHahn/figures
 
 _Favosites_-like polyp colonies, consisting of regularly side by side parallel or slightly radial trending, usually glass-clear transparent tubes without longitudinal rails (septa) in the interior, but more or less regularly divided into levels by transverse walls or floors (tabulae) and quite frequently furnished with fine little perforations that mediate the vascular communication between the neighboring tubes. This perfect correspondence of the structure with that of many fossil _Favosites_ corals from the Devonian and Silurian formations of the Earth does not make us think of anything other than coral polyps, despite the smallness of the available meteoritic forms. Unfortunately, almost only side cuts are obtained because in this direction the polyp colonies break most easily. In the absence of satisfactory cross-sections, it becomes fairly difficult to distinguish the species of _Calamiscus_; it is left almost only to this: the consistent width of the polyp tubes, the distance of the floors and vascular holes from each other, the horizontal or skewed direction of the floors, and so forth, pure characteristics that vary quite a bit in one and the same species. — These entities are exceptionally common in the meteorites, especially in those of Knyahinya.
 
-#### _Calamiscus Gümbelii_. N. sp.
+#### _Calamiscus gümbelii_. N. sp.
 
 (Image: Hahn, Meteorite: [Table 14](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_14-1_edit-b2.jpg) [and 15](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_15-1_edit-b3.jpg).)
 
@@ -254,7 +254,7 @@ Our dear friend Dr. Hahn, in Tables 16 thru 30 of his meteorite work, believed t
 
 A fan-shaped bundle with a central radiating point, undoubtedly floating freely in life, forking at the bottom near the origin once or twice, but no more branches on top of this, rather equal thickness of arms.
 
-#### _Eulophiscus Quenstedtii_. N. sp.
+#### _Eulophiscus quenstedtii_. N. sp.
 
 Here we primarily refer to the pretty picture which Hahn has chosen as the title cover of his meteorite work and displayed smaller on [Table 22: Figure 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-3_edit-b.jpg). However, this object grants a much clearer picture under the microscope than in the photograph. We see five thick arms emanating from the base; the outer left, most favorably situated, shows a cross-section of 0.04 mm at the bottom. Just 0.08 mm above its origin, it bifurcates nicely into two main arms 0.02 mm thick. And they remain equal, as far as one can follow them, which is possible with the one on the left up to the end of the fan, and as far as it is preserved. The mentioned fork has the form we are accustomed to in the crinoids. But neither here nor in the other arms is a clear crosswise outline visible. It is safe to assume that these arms floated freely in water during life, because you can see them in several places laying down and crossing over each other, hiding under each other, and so forth. The size of the entire tuft is, of course, very minuscule for a crinoid; the height of the whole tuft is only 0.7 mm, the width 1 mm. The whole appears greyish in color, the mentioned main arms yellowish, semitransparent.
 
@@ -286,7 +286,7 @@ A very pretty and distinct object, but less successful in the photographic image
 
 On a clear one, made of polygonal, mostly hexagonal little plates forming a closed cavity above a number of cylindrical, plait-shaped, tapering towards the end, more massive (not hollow), arm-shaped appendages formed of angular little panes. Is it a crinoid and is that cavity the calyx of it? The fragment upon which we establish this genus is so far a unique piece, whose image we will include in our larger treatise.
 
-#### _Crobyliscus Fraasii_ N. Sp.
+#### _Crobyliscus fraasii_ N. Sp.
 
 Longitudinal diameter of the whole, if obtained, 0.74 mm. Crosswise diameter of the calyx 0.45 mm. Length of the arms, if available, 0.35 mm. Crosswise diameter of the arms 0.3 to 0.6 mm. Thickness of the whorls that comprise the arms, 0.01 to 0.02 mm. Diameter of the angular plates that comprise the calyx, 0.03 to 0.05 mm. The mineral that makes up the structure is undoubtedly silica.
 
