@@ -46,7 +46,7 @@ Dieser Umstand scheint uns die neuerdings vielfach angenommene Hypothese von Sch
 
 Wir wollen es nun versuchen, einige der auffallendsten Gattungen und Arten kurz zu charakterisieren, indem wir uns eine ausführlichere Beschreibung mit Abbildungen, besonders auch der inneren Strukturverhältnisse, zu welcher bereits viel Material vorliegt, vorbehalten.
 
-## I. Gittertierchen, _Polycistina_.  
+## I. Gittertierchen, Polycistina.  
 ### 1. _Phormiscus_. Nov. gen.  
 
 (_φορμισxος_ = Binsenkörbchen.)  
@@ -87,24 +87,24 @@ Durchmesser des ganzen, hier abgebildeten Bruchstücks 0,70 mm. Durchmesser eine
 
 Wir begründen diese Gattung auf sehr charakteristische Strukturstücke, die öfters in unseren Schliffen vorkommen und von denen Hahn in seinen Meteoriten, [Taf. 13, Fig. 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_13-6_edit-b.jpg), eines abgebildet hat. Es ist ein fest zusammengefügtes, netzartiges Kieselgewebe aus innig verwachsenen, eine zusammenhängende Scheibe darstellenden Kieselbällchen gebildet, die sich unter Winkeln kreuzen und fast gleichseitige, viereckige Maschen bilden. Da, wo sich die Leisten kreuzen, entstehen Buckeln wie Knöpfe eines Netzes. — Wir können wohl auch diese Gebilde am ehesten bei den Polycistinen unterbringen, unter denen Häckel ähnliche Skelettformen in seinem schönen Werke: „Die Radiolarien“ Taf. 29 abgebildet hat. Besonders kämen in Betracht die Gattungen _Stylodictya_ und _Stylospira_, die ganz ähnliche geknöpfte Netzformen in ihrem inneren Skelett aufweisen. Doch könnte man auch an Schwämme, z. B. an manche _Scyphia_ denken; oder an Bryozoen?
 
-#### _Goniobrochus Haeckelii_. N. sp.  
+#### _Goniobrochus haeckelii_. N. sp.  
 
 Diese schon von Hahn (siehe oben) abgebildete Form stammt von dem Meteorfall von Cabarras. Das vorliegende Stück erscheint in dem Schliff fächerförmig ausgebreitet, misst in die Quere 0,5, die Höhe 0,4 mm. Die Dicke der Bällchen beträgt 0,01, der Durchmesser einer Masche ebenso 0,01 mm. Das Ganze scheint eine runde Scheibe oder vielleicht auch einen Trichter gebildet zu haben. Wir nennen die Art zu Ehren unseres einstigen Studiengenossen, des berühmten Begründers unserer genaueren Kunde von der großen Welt dieser kleinen Organismen.
 
 ## II. Schwämme und Foraminiferen
 
-### Familie: Uranidae. Nobis.  
+### Familie: Uranidae. _Nobis_.  
 
 Ein sehr charakteristischer Meteoritentypus von niederen Tierformen, der sehr häufig in den verschiedensten Meteorfällen vorkommt und — wegen der von uns nachträglich aufgefundenen ausgezeichneten Durchschnitte bis jetzt am besten von allen Meteorformen — kaum die _Hahnia_ (s. unten) ausgenommen — studiert werden konnte. Derselbe lässt sich an keine der uns bekannten irdischen Tierformen genauer anschließen. Ob Schwamm, ob Foraminifere, diese Frage wird schwer zu entscheiden sein, wie dies ja bekanntlich auch bei manchen fossilen irdischen Formen der Fall ist. Vielleicht haben wir es hier mit einer Mittelform zu tun.
 
 Es sind festsitzende, kissenförmige Stöcke mit poröser und fein lamellöser Rindenschicht und einem gröberen, gleichfalls lamellösen, Lakunen oder Kammern bildenden inneren Skelett.
 
 
-#### 1. _Urania_, Hahn (sensu stricto.).
+#### 1. _Urania_, Hahn (_sensu stricto_.).
 
 Wir adoptieren in engerem Sinne den Gattungsnamen von Hahn, den derselbe schon in seinem Werke „Die Urzelle“, allerdings als Pflanzengattung, für eine sehr charakteristische Meteoritenform aufgestellt hat. Ich habe seitdem an einer Reihe von günstigen Durchschnitten diese interessanten, in den Meteoriten von Knyahinya besonders häufigen Formen studieren und zeichnen können, so dass ein Zweifel über ihre Tiernatur, die auch Hahn später in seinem Meteoritenwerk angenommen hat, nicht mehr bestehen kann. Es sind immer smalteblaue, kissenförmige, wegen der sehr feinen, zart gestrichelten, porösen Oberhaut samtartig anzusehende, wahrscheinlich auf Stielen festgewachsene Stöcke. Auf dem Querschnitt unterscheidet man sofort eine durchscheinende porösen Rindenschicht. Das ganze Innere des Kissens besteht aus einem ziemlich unregelmäßigen Maschengewebe, in welchem radiär von der Rinde nach dem Zentrum zu streichende Lamellenzüge deutlich werden, welche lakunenartige Hohlräume oder Kammern zwischen sich lassen.
 
-##### _Urania Salve_. N. sp.
+##### _Urania salve_. N. sp.
 
 So wollen wir sie nennen, denn es war der erste Gruß einer organischen Form aus einer anderen Welt, das erste Wesen, das Hahn als ein organisches erkannte, wenn auch zuerst als eine Pflanze beschrieb. Diese Art erscheint in großen und kleinen, ganzen Individuen und einer Menge von Bruchstücken, sehr häufig in den Meteoriten, besonders in denen von Knyahinya. Durchschnittliche Größe 1 mm. Dicke der außen stets smalteblauen Rindenschicht 0,04 mm. Hahn hat sie vielfach abgebildet. Die große Figur von [Tafel 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_2-1_edit-b2.jpg), alle Figuren auf [Tafel 3: 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-1_edit-b.jpg), [2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-2_edit-b.jpg), [3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-3_edit-b.jpg), [4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-4_edit-b.jpg), [5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-5_edit-b2.jpg), [und 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-6_edit-b2.jpg), sodann [Fig. 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-1_edit-b.jpg), [4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-4_edit-b.jpg) [und 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-6_edit-b.jpg) auf Tafel 4, [1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-1_edit-b.jpg) [und 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-4_edit-b.jpg) auf Tafel 5 gehören hierher. Diese Art zeigt oft sehr eigentümliche, parallele oder radiär laufende, tiefe Längsfalten auf der Oberfläche, so dass man an eine gewisse Elastizität der Rindenschicht im Leben denken möchte.
 
@@ -112,15 +112,15 @@ So wollen wir sie nennen, denn es war der erste Gruß einer organischen Form aus
 
 (_πηxτὁς_ = gekämmt.)  
 
-Lappige, wahrscheinlich mit breiter Basis festsitzende Stöcke. Gehören zu derselben Familie wie _Urania_, zu den Uranidae. Aber die Rindenschicht ist hier eine andere, gröbere, wie gekämmt, d. h. in stärkeren, mehr oder weniger radiär ausstrahlenden Rippen (Lamellen) gebildet, die oft an die Septa gewisser Korallenformen, z. B. der _Fungia_, erinnern. Der innere Bau aber, von dem wir mehrere ganz vortreffliche Durchschnitte vor uns haben (siehe Fig. 1 [80mal vergrössert]), besteht ähnlich wie bei _Urania_ aus einem lamellösen, Kammern bildenden Gewebe, das nichts mit der Korallenstruktur zu tun hat. Es gibt eine Reihe von Arten, zum Teil offenbar sehr große, von welchen letzteren aber meist nur das grobe, innere, gekammerte Maschengewebe erhalten ist.
+Lappige, wahrscheinlich mit breiter Basis festsitzende Stöcke. Gehören zu derselben Familie wie _Urania_, zu den Uranidae. Aber die Rindenschicht ist hier eine andere, gröbere, wie gekämmt, d. h. in stärkeren, mehr oder weniger radiär ausstrahlenden Rippen (Lamellen) gebildet, die oft an die Septa gewisser Korallenformen, z. B. der _Fungia_, erinnern. Der innere Bau aber, von dem wir mehrere ganz vortreffliche Durchschnitte vor uns haben (siehe Fig. 1 [80-mal vergrössert]), besteht ähnlich wie bei _Urania_ aus einem lamellösen, Kammern bildenden Gewebe, das nichts mit der Korallenstruktur zu tun hat. Es gibt eine Reihe von Arten, zum Teil offenbar sehr große, von welchen letzteren aber meist nur das grobe, innere, gekammerte Maschengewebe erhalten ist.
 
-##### _Pectiscus Zittelii_. N. sp.  
+##### _Pectiscus zittelii_. N. sp.  
 
-Die häufigste Art. Erinnert der äußerlichen Erscheinung nach durch die radiären Strahlen und oft auch durch die Gesamtkonturen häufig an die bekannten Kammmuscheln (Pecten). Doch halten die Lappen dieser Stöcke durchaus keine regelmäßige Gesamtform ein. Immer sind sie an den Rändern abgerundet, oft ist der Rand durch seichte Kerben in kleinere Lappen geteilt. Durchmesser der Stöcke von 1 bis 3 mm. Die feinen Rippchen auf der grauen Rinde sind durchschnittlich 0,04 mm von einander entfernt.
+Die häufigste Art. Erinnert der äußerlichen Erscheinung nach durch die radiären Strahlen und oft auch durch die Gesamtkonturen häufig an die bekannten Kammmuscheln (_Pecten_). Doch halten die Lappen dieser Stöcke durchaus keine regelmäßige Gesamtform ein. Immer sind sie an den Rändern abgerundet, oft ist der Rand durch seichte Kerben in kleinere Lappen geteilt. Durchmesser der Stöcke von 1 bis 3 mm. Die feinen Rippchen auf der grauen Rinde sind durchschnittlich 0,04 mm von einander entfernt.
 
 Sehr häufig in den Meteoriten, besonders in denen von Knyahinya, auch von Siena. Auch das große Gebilde, an das unsere _Hahnia_ (siehe unten) wie angeklebt erscheint, ist ein solcher _Pectiscus_.
 
-In [Fig. 1](https://cdn.solaranamnesis.com/DFWeinland/fig1.png) [80mal vergrössert] haben wir ein kleines Exemplar abgebildet. Es stammt von dem Meteorfall von Iowa und liefert zugleich ein deutliches Bild der inneren Struktur. Oben und unten ist die hier grau gefärbte äußere Rinde des Stockes erhalten. In der Mitte hat der Schliff dieselbe rasiert und zwar ungleich auf den beiden Seiten; rechts tiefer, daher man dort die vom Boden hereinragenden Lamellen noch ziemlich parallel liegen sieht. In der linken Hälfte dagegen ist der Schliff gerade durch die innerste, unregelmäßigere, lakunöse Mittellage des Lappens durchgegangen. Das ganze Stöckchen ist 1,6 mm lang, 1,2 mm breit. — Einen ähnlichen, ebenso instruktiven Durchschnitt haben wir von Knyahinya.
+In [Fig. 1](https://cdn.solaranamnesis.com/DFWeinland/fig1.png) [80-mal vergrössert] haben wir ein kleines Exemplar abgebildet. Es stammt von dem Meteorfall von Iowa und liefert zugleich ein deutliches Bild der inneren Struktur. Oben und unten ist die hier grau gefärbte äußere Rinde des Stockes erhalten. In der Mitte hat der Schliff dieselbe rasiert und zwar ungleich auf den beiden Seiten; rechts tiefer, daher man dort die vom Boden hereinragenden Lamellen noch ziemlich parallel liegen sieht. In der linken Hälfte dagegen ist der Schliff gerade durch die innerste, unregelmäßigere, lakunöse Mittellage des Lappens durchgegangen. Das ganze Stöckchen ist 1,6 mm lang, 1,2 mm breit. — Einen ähnlichen, ebenso instruktiven Durchschnitt haben wir von Knyahinya.
 
 Wir erlauben uns, die Art nach Herrn Professor [Karl Alfred von] Zittel, dem gründlichen Erforscher der fossilen Schwämme, zu benennen.
 
@@ -132,9 +132,9 @@ Eine kleinere Form mit noch gröberen Leisten.
 
 (xάλλαιον = Hahnenkamm.)  
 
-Eines der auffallendsten und schönsten Gebilde in unserer Meteoritenfauna. Eine feine, wie manche Hahnenkämme gebuchtete Form, die in ihrem auffallenden Habitus an manche Korallen (Fungia, Herpetolithus) erinnert, aber nach dem mikroskopischen Bau ihrer Rindenschichte doch wohl auch zu den Uraniden gehört. Die dünne, äußerste Rindenschicht ist eben so zart bläulichgrau, samtartig, dabei aufs Feinste gestreift, wie bei _Urania_. Auf dem Durchschnitt der erhabenen Kämme, die die Buchten des Stockes von einander scheiden, und ebenso an einem feinen Längsschliff erkennt man das nächsttiefere, unter der grauen Rinde liegende Gewebe als aus lauter parallelen oder etwas strahlig auseinander laufenden, sehr regelmäßigen Lamellen zusammengesetzt, die durch schiefe Brücken mit einander verbunden sind Der innerste Bau, wie wir ihn von _Urania_ und _Pectiscus_ kennen, tritt leider an dem besterhaltenen Unikum nirgends zu Tage, da der Schliff nirgends tief genug eingedrungen. — Wir wurden bei dieser Form aufs Lebhafteste an den Querschliff von _Carpenteria Rhaphidodendron_, [Karl August] Möbius, einer Foraminifere von Mauritius, erinnert, den derselbe in seiner schönen Abhandlung über das Eozoon Canadense (Palaeontogr. XXV, Taf. 40 Fig. 60) gegeben.
+Eines der auffallendsten und schönsten Gebilde in unserer Meteoritenfauna. Eine feine, wie manche Hahnenkämme gebuchtete Form, die in ihrem auffallenden Habitus an manche Korallen (Fungia, Herpetolithus) erinnert, aber nach dem mikroskopischen Bau ihrer Rindenschichte doch wohl auch zu den Uraniden gehört. Die dünne, äußerste Rindenschicht ist eben so zart bläulichgrau, samtartig, dabei aufs Feinste gestreift, wie bei _Urania_. Auf dem Durchschnitt der erhabenen Kämme, die die Buchten des Stockes von einander scheiden, und ebenso an einem feinen Längsschliff erkennt man das nächsttiefere, unter der grauen Rinde liegende Gewebe als aus lauter parallelen oder etwas strahlig auseinander laufenden, sehr regelmäßigen Lamellen zusammengesetzt, die durch schiefe Brücken mit einander verbunden sind Der innerste Bau, wie wir ihn von _Urania_ und _Pectiscus_ kennen, tritt leider an dem besterhaltenen Unikum nirgends zu Tage, da der Schliff nirgends tief genug eingedrungen. — Wir wurden bei dieser Form aufs Lebhafteste an den Querschliff von _Carpenteria rhaphidodendron_, [Karl August] Möbius, einer Foraminifere von Mauritius, erinnert, den derselbe in seiner schönen Abhandlung über das Eozoon Canadense (Palaeontogr. XXV, Taf. 40 Fig. 60) gegeben.
 
-##### _Callaion Paulinianum_. N. sp.  
+##### _Callaion paulinianum_. N. sp.  
 
 Ist in Hahn's Meteoritenatlas noch nicht abgebildet.
 
@@ -152,7 +152,7 @@ Wir erlauben uns, diese Art zu benennen zu Ehren von Fräulein Pauline Schloz, d
 
 Abgerundete, zungenähnliche Lappen bildende Stöcke. Die Oberhaut aus sechseckigen Tafeln zusammengesetzt. Poren in vertieften Furchen und rundlichen, vertieften Nestern; keine Spur von Strahlenrippen wie bei den Uraniden. Ohne Zweifel zu den Schwämmen gehörig.
 
-##### _Glossiscus Schmidtii_. N. sp.  
+##### _Glossiscus schmidtii_. N. sp.  
 
 Von Hahn noch nicht abgebildet. An dem vorliegenden, auffallend milchweiß gefärbten Stöckchen erscheinen die Poren und Porennester schwarz getüpfelt, indem sich schwarze, organische Masse in den Poren festgesetzt hat, wie dies auch sonst sehr häufig in diesen Meteoritenversteinerungen vorkommt. Die ganze Länge des Lappens beträgt 1,7 mm, der Querdurchmesser 0,8, Durchmesser der Porennester 0,03 bis 0,05, der Porenfarchen 0,02 bis 0,04 mm, der sechseckigen Täfelchen 0,02 mm.
 
@@ -232,7 +232,7 @@ Hahn's Abbildung [Taf. 1 f. 5](https://cdn.solaranamnesis.com/OttoHahn/figures/m
 
 Favositenartige Polypenstöcke, bestehend aus regelmäßig parallel nebeneinander oder auch etwas radiär verlaufenden, meist glashell durchsichtigen Röhren ohne Längsleisten (Septa) im Innern, aber mehr oder weniger regelmäßig durch Querscheidewände oder Böden (Tabulae) in Etagen geteilt und oft sehr regelmäßig mit feinen Löchelchen, die die Gefässcommunication zwischen den benachbarten Röhren vermitteln, ausgestattet. Diese vollkommene Übereinstimmung der Struktur mit der vieler fossiler Favositkorallen aus der Devon- und Silur- Formation der Erde lässt uns trotz der Kleinheit der vorliegenden meteoritischen Formen nicht wohl an etwas Anderes denken, als an Korallenpolypen. Leider sind fast nur Seitenschliffe erhalten, weil in dieser Richtung die Polypenstöcke am leichtesten zerbrechen. Bei dem Mangel befriedigender Querschliffe wird eine Unterscheidung der Arten von Calamiscus sehr schwer; es bleibt dazu fast nur übrig: die durchgängige Weite der Polypenröhren, die Distanz der Böden und der Gefäßlöcher von einander, die waagerechte oder schiefe Richtung der Böden u. dgl., lauter Merkmale, die auch bei einer und derselben Art schon ziemlich variieren. — Diese Gebilde sind außerordentlich häufig in den Meteoriten, besonders in denen von Knyahinya.
 
-### _Calamiscus Gümbelii_. N. sp.  
+### _Calamiscus gümbelii_. N. sp.  
 
 (Abbildung: Hahn, Meteoriten: [Taf. 14](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_14-1_edit-b2.jpg) [und 15](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_15-1_edit-b3.jpg).)
 
@@ -260,7 +260,7 @@ Unser verehrter Freund, Dr. Hahn, hat in seinem Meteoritenwerke, Taf. 16 - 30, e
 
 Ein Büschel fächerförmig von einem Mittelpunkt ausstrahlender, im Leben ohne Zweifel frei flottierender, unten, nahe dem Ursprung ein- oder zweimal gegabelter, weiterhin aber nicht mehr verzweigter, ziemlich gleich dicker Arme.
 
-#### _Eulophiscus Quenstedtii_. N. sp.  
+#### _Eulophiscus quenstedtii_. N. sp.  
 
 Wir beziehen hierher in erster Linie das hübsche Bild, das Hahn als Titel auf den Umschlag seines Meteoritenwerkes gewählt und kleiner auf [Taf. 22 Fig. 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-3_edit-b.jpg) abgebildet hat. Auch dieses Objekt gewährt aber unter dem Mikroskop ein viel deutlicheres Bild, als die Photographie leistete. Wir sehen von einer Basis aus zunächst fünf dickere Arme ausgehen; der linke äußerste, am günstigsten gelegene, zeigt unten einen Querschnitt von 0,04 mm. Schon 0,08 mm über seinem Ursprung gabelt sich derselbe aufs Schönste in zwei Hauptarme von 0,02 mm Dicke. So bleiben sie sich dann gleich, soweit man sie verfolgen kann, was bei dem linksliegenden bis ans Ende der Fächers, soweit dieser erhalten, möglich ist. Die genannte Gabelung hat ganz die Form, wie wir sie bei den Crinoiden gewohnt sind. Doch ist weder hier noch bei den übrigen Armen eine deutliche Quergliederung sichtbar. Dass diese Arme im Leben frei im Wasser flottierten, ist sicher anzunehmen, denn man sieht sie an mehreren Stellen sich über einander legen und kreuzen, unter einander verstecken u. s. f. Die Größe des ganzen Büschels ist freilich für einen Crinoiden sehr unbedeutend; die Höhe des ganzen Büschelchens beträgt nur 0,7, die Breite 1 mm. Das Ganze erscheint graulich gefärbt, die genannten Hauptarme gelblich, halbdurchsichtig.
 
@@ -292,7 +292,7 @@ Ein sehr hübsches und deutliches, in dem photographischen Bilde aber weniger ge
 
 An einen deutlich aus vieleckigen, meist sechseckigen Plättchen gebildeten Hohlraum schließen sich oben Anzahl zylindrischer, zopfförmiger, sich nach dem Ende zu verjüngender, massiver (nicht hohler), aus eckigen Scheibchen gebildeter, armförmiger Anhänge an. Ist es ein Crinoid und ist jener Hohlraum der Kelch desselben? Das Fragment, auf das wir diese Gattung begründen, ist bis jetzt ein Unikum, dessen Bild wir in unser größeren Abhandlung bringen werden.
 
-#### _Crobyliscus Fraasii_ N. Sp.  
+#### _Crobyliscus fraasii_ N. Sp.  
 
 Längsdurchmesser des Ganzen, soweit erhalten, 0,74 mm. Querdurchmesser des Kelchs 0,45 mm. Länge der Arme, soweit erhalten, 0,35 mm. Querdurchmesser der Arme 0,3 bis 0,6 mm. Dicke der Wirtel, die die Arme zusammensetzen, 0,01 bis 0,02 mm. Durchmesser der eckigen Plättchen, die den Kelch zusammensetzen, 0,03 bis 0,05 mm. Das Mineral, aus dem das Gebilde jetzt besteht, ist zweifelsohne Kieselerde.
 
