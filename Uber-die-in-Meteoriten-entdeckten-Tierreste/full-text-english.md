@@ -71,7 +71,7 @@ That these _Phormiscus_ belong to the Polycistines seems to us certain. The holl
 
 (θυρις = "embrasure".)
 
-Similarly faceted spheres, consisting of little silica balls, arranged in such a way that they form quadrangular, inwardly tapering funnels like windows or even better, embrasure constructions. The balls are hollow and often furnished with noticeable perforations. Undoubtedly belongs with the family of Phormiscidae.
+Similarly faceted spheres, consisting of little silica balls, arranged in such a way that they form quadrangular, inwardly tapering funnels like windows or even better, embrasure constructions. The balls are hollow and often furnished with noticeable perforations. Undoubtedly belongs to the family of Phormiscidae.
 
 #### _Thyriscus formosus_. N. sp.  
 (Hahn: [Table 30, Fig. 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_30-3_edit-b.jpg).)  
@@ -161,7 +161,7 @@ We would like to name the species in honor of the famous researcher of living sp
 
 Glass-clear transparent, like most of these organisms, petrified silica formations that, on average, resemble a nut with a thick carapace and chambers inside. The chambers are created by thick girder constructions, the thick carapace being very porous.
 
-These forms, not depicted by Hahn, are quite common in the meteorites; they are probably sponge-like entities. We just wanted to describe this one species, whose image we will provide later.
+These forms, not depicted by Hahn, are quite common in the meteorites; they are probably sponge-like entities. We just wanted to describe this single species, whose image we will provide later.
 
 #### _Carydion solidum_. N. sp.
 
