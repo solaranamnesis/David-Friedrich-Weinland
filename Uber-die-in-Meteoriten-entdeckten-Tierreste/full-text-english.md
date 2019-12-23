@@ -49,7 +49,7 @@ We will now try to briefly characterize some of the most notable genera and spec
 
 (_φορμισxος_ = "little reed basket".)  
 
-Faceted spheres, consisting of clear glass silica spicules that lay one on top of the other at regular angles like a rush-basket. The spicules are hollow, often furnished with clearly defined longitudinal cavities. Here:
+Faceted spheres, consisting of glass-clear silica spicules that lay one on top of the other at regular angles like a rush-basket. The spicules are hollow, often furnished with clearly defined longitudinal cavities. Here:
 
 #### _Phormiscus vulgaris_. N. sp.
 (Image: Hahn, Meteorite, [Table. 29, Fig. 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_29-2_edit-b.jpg).)  
