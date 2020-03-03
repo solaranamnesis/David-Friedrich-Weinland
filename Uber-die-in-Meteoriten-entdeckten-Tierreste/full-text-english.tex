@@ -6,6 +6,7 @@
 \usepackage{fancyhdr}
 \usepackage{graphicx}
 \graphicspath{ {./} }
+\usepackage{float}
 \begin{document}
 \begin{titlepage} % Suppresses headers and footers on the title page
 	\centering % Centre everything on the title page
@@ -41,7 +42,7 @@
 	
 	\vspace*{1\baselineskip} % Whitespace under the subtitle
 	
-    {\small In commission with G. Fröhner, with Two Woodcuts\\ Esslingen a/N 1882} % Subtitle or further description
+    {\small In commission with G. Fröhner, with Two Woodcuts\\ Esslingen am Neckar 1882} % Subtitle or further description
     
 	%------------------------------------------------
 	%	Editor(s)
@@ -58,7 +59,7 @@
 \clearpage
 \tableofcontents
 \clearpage
-\section{Introduction}
+\section*{Introduction}
 \paragraph{}
 Shortly before the New Year of 1881, Dr. Otto Hahn in Reutlingen, a lawyer by profession but also an excellent mineralogist and skilled microscopist, wrote a work entitled \emph{The Meteorite (Chondrite) and its Organisms} with thirty-two tables of photographic images (Tübingen, H. Laupp) in which he proves that the meteorites, especially the so-called chondrites, contain organic structures that he, without attempting a thorough and systematic zoological investigation, generally refers to as sponges, corals, and crinoids.
 
@@ -158,8 +159,13 @@ Lobate, probably with wide sessile base colonies. They belong to the same family
 The most common species. Based on its external appearance, its radial ribs, and frequently by its overall profile, one is often reminded of the familiar scallops (\emph{Pecten}). But the lobes of these colonies do not maintain a regular overall shape. They are always rounded at the edges; often the edge is divided into smaller lobes by shallow notches. Diameter of the colonies, about 1 to 3 mm. The fine little ribs towards the gray cortex are on average 0.04 mm apart.
 
 Very widespread in the meteorites, particularly those of Knyahinya and of Siena. Also, the large structure to which our \emph{Hahnia} (see below) appears stuck to is such a \emph{Pectiscus}.
-
-In Figure 1 [magnified 80 times] we have depicted a small specimen. It comes from the meteorite fall of Iowa and yet provides a clear picture of the internal structure. The outer cortex of the colony at the top and bottom, colored gray here, is preserved. The cut shaved the middle unequally on the two sides; thus, on the lower right one can see the lamellae protruding from the base being quite parallel. In the left half, on the other hand, the cut passed straight through the innermost, mostly irregular, lacuna-like middle layer of the lobe. The entire colony is 1.6 mm long, 1.2 mm wide. --- We have a similar, equally instructive cut from Knyahinya.
+\begin{figure}[H]
+\centering
+\includegraphics[scale=1,keepaspectratio]{fig1.png}
+\caption{magnified 80 times}
+\end{figure}
+\paragraph{}
+In Figure 1 we have depicted a small specimen. It comes from the meteorite fall of Iowa and yet provides a clear picture of the internal structure. The outer cortex of the colony at the top and bottom, colored gray here, is preserved. The cut shaved the middle unequally on the two sides; thus, on the lower right one can see the lamellae protruding from the base being quite parallel. In the left half, on the other hand, the cut passed straight through the innermost, mostly irregular, lacuna-like middle layer of the lobe. The entire colony is 1.6 mm long, 1.2 mm wide. --- We have a similar, equally instructive cut from Knyahinya.
 
 We permit ourselves to name this species after the gentleman Professor [Karl Alfred von] Zittel, the thorough researcher of fossil sponges.
 \subsubsection{\emph{Pectiscus rudis}. N. sp.}
@@ -240,12 +246,17 @@ Small fragments of regularly winding formations with Polythalamia-like chambers,
 \section{Corals}
 \subsection{\emph{Hahnia}. Nov. gen.}
 \paragraph{}
-This is the form that, after the strongest doubts, first led me to carry out a more precise zoological study of the entities discovered by Hahn. In fact, its presence alone is decisive. Admittedly, the photographic images of Hahn's, in his meteorite work's Tables 1, 5 and Table 10: Figures 3 and 4, are far from sufficient. A yellow iron staining on the specimen caused quite detrimental black shadows and, in general, microscopic photography has not yet reached the point of reproducing the images with the sharpness that they present to the eye. As valuable as the photographic picture is for larger forms, like the beautiful coral works of Dr. [Carl Benjamin] Klunzinger and [Carl Ludwig] Rominger prove, for the time being, regarding microscopic representation, the hand of the researcher himself, drawing with a full understanding, will not, perhaps ever, be replaced by the mechanical representation. Our \emph{Hahnia}, Figure 2 [\emph{Hahnia meteoritica}, N., attached to a \emph{Pectiscus}. magnified 80 times.], has unfortunately remained unique to this day. The cut in question belongs to the meteorite fall of Knyahinya. It is one of the most fortunate and also contains very nice scraps of \emph{Urania}, \emph{Pectiscus}, and \emph{Phormiscus}.
+This is the form that, after the strongest doubts, first led me to carry out a more precise zoological study of the entities discovered by Hahn. In fact, its presence alone is decisive. Admittedly, the photographic images of Hahn's, in his meteorite work's Tables 1, 5 and Table 10: Figures 3 and 4, are far from sufficient. A yellow iron staining on the specimen caused quite detrimental black shadows and, in general, microscopic photography has not yet reached the point of reproducing the images with the sharpness that they present to the eye. As valuable as the photographic picture is for larger forms, like the beautiful coral works of Dr. [Carl Benjamin] Klunzinger and [Carl Ludwig] Rominger prove, for the time being, regarding microscopic representation, the hand of the researcher himself, drawing with a full understanding, will not, perhaps ever, be replaced by the mechanical representation. Our \emph{Hahnia}, Figure 2, has unfortunately remained unique to this day. The cut in question belongs to the meteorite fall of Knyahinya. It is one of the most fortunate and also contains very nice scraps of \emph{Urania}, \emph{Pectiscus}, and \emph{Phormiscus}.
 
 Characteristics of the genus \emph{Hahnia}: small microscopic polyp tubes, unequal, large mixed with small, polygonal with rounded corners. The walls of the tubes are thick with sharp linear boundaries towards the outside. At high magnification, a uniformly thick inter-tubular tissue (coenenchyme) becomes visible between the lines bordering the adjacent polyps, which represents a distinct network in the cross-section. Inner longitudinal strips (septa) are missing in the tubes, as well as the transverse dividing walls (tabulae), which are known to divide the individual tubes into floors on top of each other in many similar terrestrial corals. Colony probably encrusted, flat-bottomed, cake shaped.
 
 The genus probably belongs to the Favositidae, a coral family that has long been extinct on Earth, flourishing in the Silurian and Devonian formations, and of which a large number of quite different forms requiring further zoological checks are described in \emph{Paleontology} [Rominger 1876].
-
+\begin{figure}[H]
+\centering
+\includegraphics[scale=1,keepaspectratio]{fig2.png}
+\caption{\emph{Hahnia meteoritica}, N., attached to a \emph{Pectiscus}. magnified 80 times.}
+\end{figure}
+\paragraph{}
 Diameter of the whole colony 0.90 mm, thus even with the naked eye it can be recognized as a small lentil. Diameter of the individual polyp calyxes 0.04 to 0.1 mm. Diameter of the yellow intermediate pathways, coenenchyme, 0.008 mm. At the corners this becomes swollen, as is often the case with \emph{Favosites}. The striking resemblance of this colony with \emph{Favosites polymorphus} from the Devonian has already been noticed by Professor Quenstedt when Dr. Hahn showed him the object. Even more, it can be compared with \emph{Favosites bimuratus} from the Devonian of Bensberg where the polyp walls and the coenenchyme are remarkably similar, albeit always with the exception of the size ratio. For \emph{Favosites bimuratus} have calyxes measuring from a half to 1 mm.
 
 The individual polyp calyxes in our \emph{Hahnia} are filled with a blackish grey mass, the septa appear greyish white, the coenenchyme yellow. By a lucky coincidence, this coral colony was directly struck from above. In the middle of the picture, the calyxes appear nearly intact; around the edge, particularly on the left side, they are somewhat scuffed, so that one obtains for structural knowledge the very valuable semi-longitudinal cuts through the polyp tubes and can establish the lack of transverse partition walls, as well as of vascular holes (sprout channels).
