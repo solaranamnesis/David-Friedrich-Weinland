@@ -95,9 +95,9 @@ A highly characteristic meteorite type of a lower animal form that occurs very f
 
 They are sessile, cushion-shaped colonies with a fine porous lamellar cortex layer and crude, likewise lamellar, lacunae or chambers forming the internal skeleton.
 
-### 1. _Urania_, Hahn (_sensu stricto_.).
+### 1. _Urania_, Hahn (_sensu stricto_).
 
-We adopt in the strict sense the genus name from Hahn, which he had already established in his work _The Primordial Cell_, although as a genus of plants, for this very characteristic meteorite form. Since then, in a number of favorable cuts I have been able to study and draw these interesting forms, which in the Knyahinya meteorite are particularly common, so that any doubt about their animal nature, which Hahn later presumed in his meteorite work, can no longer exist. They are always smalt-blue and cushion-shaped; the very delicate, finely dashed, velvety looking porous cuticle is probably the peduncle of these sessile colonies. In the cross-section one immediately distinguishes a translucent porous cortex layer. The whole interior of the cushion consists of a rather irregular mesh tissue, which radiates from the cortex towards the center smoothing into lamellar lineaments, which have lacuna-like cavities or chambers between them.
+We adopt in the strict sense the genus name from Hahn, which he had already established in his work _Primordial Cell_, although as a genus of plants, for this very characteristic meteorite form. Since then, in a number of favorable cuts I have been able to study and draw these interesting forms, which in the Knyahinya meteorite are particularly common, so that any doubt about their animal nature, which Hahn later presumed in his meteorite work, can no longer exist. They are always smalt-blue and cushion-shaped; the very delicate, finely dashed, velvety looking porous cuticle is probably the peduncle of these sessile colonies. In the cross-section one immediately distinguishes a translucent porous cortex layer. The whole interior of the cushion consists of a rather irregular mesh tissue, which radiates from the cortex towards the center smoothing into lamellar lineaments, which have lacuna-like cavities or chambers between them.
 
 #### _Urania salve_. N. sp.
 
@@ -268,13 +268,13 @@ Perhaps also here are the forms of Hahn, Meteorite, [Table 22: Figure 5](https:/
 
 Like one from the previous genus, but in which the arms are not bifurcated.
 
-#### _Euplocamus algoideus_ N. sp.
+#### _Euplocamus algoideus_. N. sp.
 
 This genus and species are supported for the time being by Hahn's photographs, [Table 1: Figure 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_1-6_edit-b2.jpg), [Table 25: Figure 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_25-1_edit-b.jpg), and [Table 19](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_19-1_edit-b2.jpg), all of which represent the same object, and these pictures can be described as quite successful. This pretty piece gives the impression under the microscope of a little tuft of sea algae that has grown on an outcrop of rock. From a patch-shaped constructed central disk, tuft-shaped like the previous, a large number of equally thick arms radiate, which, as far as they are preserved, do not taper. The diameter of the arms is 0.04 mm. The arms are glass-clear transparent. Through the interior of each one runs a dark contour, inferring a fine cavity. Here, too, the arms are laid down and pushing on and over each other, so that one must necessarily think of it as formerly free floating. The whole little stick has a height of 0.8 mm and a width of 1.1 mm, so like the previous one, it is still visible to the naked eye. 
 
 Comes from the meteorite fall of Knyahinya.
 
-#### _Euplocamus articulatus_ N. Sp.
+#### _Euplocamus articulatus_. N. Sp.
 
 (Image: Hahn, [Table 23: Figure 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_23-4_edit-b.jpg).)
 
@@ -286,7 +286,7 @@ A very pretty and distinct object, but less successful in the photographic image
 
 On a clear one, made of polygonal, mostly hexagonal little plates forming a closed cavity above a number of cylindrical, plait-shaped, tapering towards the end, more massive (not hollow), arm-shaped appendages formed of angular little panes. Is it a crinoid and is that cavity the calyx of it? The fragment upon which we establish this genus is so far a unique piece, whose image we will include in our larger treatise.
 
-#### _Crobyliscus fraasii_ N. Sp.
+#### _Crobyliscus fraasii_. N. Sp.
 
 Longitudinal diameter of the whole, if obtained, 0.74 mm. Crosswise diameter of the calyx 0.45 mm. Length of the arms, if available, 0.35 mm. Crosswise diameter of the arms 0.3 to 0.6 mm. Thickness of the whorls that comprise the arms, 0.01 to 0.02 mm. Diameter of the angular plates that comprise the calyx, 0.03 to 0.05 mm. The mineral that makes up the structure is undoubtedly silica.
 
