@@ -240,7 +240,7 @@ One of the most beautiful meteorite structures, without doubt a little bit of a 
 
 I permit myself to designate the genus in honor of Mr. [Carl August] Carl Graf von Bose and Mrs. Louise [Wilhelmine Emilie] Countess von Bose née von Reichenbach-Lessonitz, who are both excellent naturalists and took a most active part in these meteorite studies of the author. As is well known, Mrs. Countess von Bose not long ago, through a foundation in Frankfurt am Main, expressed her interest for the exploration of nature in a wonderful way.
 
-#### _Bosea cyanea_. Nov. Sp.
+#### _Bosea cyanea_. Nov. sp.
 
 The above-mentioned colony, everywhere broken off at the margins, has, if it can be obtained, a length of 1.44 mm, a width of 0.88 mm. The diameter of the little stars is 0.04 to 0.08 mm. The diameter of the recessed furrows radiating from the center is 0.003 to 0.006 mm. The petrification material displays the same smalt-blue color as in _Urania salve_. — This unique piece is in a cut from the fall of Knyahinya.
 
@@ -274,7 +274,7 @@ This genus and species are supported for the time being by Hahn's photographs, [
 
 Comes from the meteorite fall of Knyahinya.
 
-#### _Euplocamus articulatus_. N. Sp.
+#### _Euplocamus articulatus_. N. sp.
 
 (Image: Hahn, [Table 23: Figure 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_23-4_edit-b.jpg).)
 
@@ -286,7 +286,7 @@ A very pretty and distinct object, but less successful in the photographic image
 
 On a clear one, made of polygonal, mostly hexagonal little plates forming a closed cavity above a number of cylindrical, plait-shaped, tapering towards the end, more massive (not hollow), arm-shaped appendages formed of angular little panes. Is it a crinoid and is that cavity the calyx of it? The fragment upon which we establish this genus is so far a unique piece, whose image we will include in our larger treatise.
 
-#### _Crobyliscus fraasii_. N. Sp.
+#### _Crobyliscus fraasii_. N. sp.
 
 Longitudinal diameter of the whole, if obtained, 0.74 mm. Crosswise diameter of the calyx 0.45 mm. Length of the arms, if available, 0.35 mm. Crosswise diameter of the arms 0.3 to 0.6 mm. Thickness of the whorls that comprise the arms, 0.01 to 0.02 mm. Diameter of the angular plates that comprise the calyx, 0.03 to 0.05 mm. The mineral that makes up the structure is undoubtedly silica.
 
