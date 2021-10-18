@@ -44,7 +44,7 @@ This situation seems to us to exclude Schiaparelli's recent hypothesis that the 
 
 We will now try to briefly characterize some of the most notable genera and species for which there already exists a great deal of material, reserving for later a more comprehensive description with illustrations, especially of the interior structural relations.
 
-## I. "Little Grated Creatures," Polycystina.  
+## 1. "Little Grated Creatures," Polycystina.  
 ### 1. _Phormiscus_. Nov. gen.  
 
 (_φορμισxος_ = "little reed basket")  
@@ -88,7 +88,7 @@ We establish this genus on very characteristic structural pieces, which occur fr
 
 This form, already depicted by Hahn (see above), comes from the meteorite fall of Cabarras. The available piece appears spread out and fan-shaped in the cut, measuring 0.5 mm crosswise and 0.4 mm in height. The thickness of the little balls is 0.01 mm, the diameter of a stitch is likewise 0.01 mm. The entirety seems to have formed a round pane or perhaps even forming a funnel. We name the species in honor of our former fellow student, the famous founder of the detailed accounts about the great world of these small organisms. 
 
-## II. Sponges and Foraminifera  
+## 2. Sponges and Foraminifera  
 ### Family: Uranidae. _Nobis_.  
 
 A highly characteristic meteorite type of a lower animal form that occurs very frequently in a wide variety of meteorite falls and, because within the excellent additional cuts we located the finest meteorite form of all — hardly exempting _Hahnia_ (see below) — can be studied. The same cannot be closely associated with any of the terrestrial animal forms known to us. Whether sponge, whether foraminifera, this question will be difficult to decide, as is well known in some cases of terrestrial fossil forms. Perhaps we are dealing here with an intermediate form.
@@ -205,7 +205,7 @@ Other forms:
 
 Small fragments of regularly winding formations with Polythalamia-like chambers, perhaps belonging to the Rhizopods, have occasionally come to our notice during the inspection of the meteorite cuts. But their preservation is usually not favorable. A fairly pretty piece of this kind, like a small Nautilus, is in a meteorite cut of Cabarras. The total diameter of the little bowl is about 0.5 mm, the chambers 0.05 to 0.1 mm. But these forms require further examination before we dare to determine them.
 
-## III. Corals.  
+## 3. Corals.  
 ### 1. _Hahnia_. Nov. gen.   
 
 This is the form that, after the strongest doubts, first led me to carry out a more precise zoological study of the entities discovered by Hahn. In fact, its presence alone is decisive. Admittedly, the photographic images of Hahn's, in his meteorite work's Tables 1, 5 and [Table 10: Figures 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_10-3_edit-b2.jpg) [and 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_1-5_edit-b2.jpg), are far from sufficient. A yellow iron staining on the specimen caused quite detrimental black shadows and, in general, microscopic photography has not yet reached the point of reproducing the images with the sharpness that they present to the eye. As valuable as the photographic picture is for larger forms, like the beautiful coral works of Dr. [Carl Benjamin] Klunzinger and [Carl Ludwig] Rominger prove, for the time being, regarding microscopic representation, the hand of the researcher himself, drawing with a full understanding, will not, perhaps ever, be replaced by the mechanical representation. Our _Hahnia_, [Figure 2](https://cdn.solaranamnesis.com/DFWeinland/fig2.png) [_Hahnia meteoritica_, N., attached to a _Pectiscus_. magnified 80 times.], has unfortunately remained unique to this day. The cut in question belongs to the meteorite fall of Knyahinya. It is one of the most fortunate and also contains very nice scraps of _Urania_, _Pectiscus_, and _Phormiscus_.
@@ -244,7 +244,7 @@ I permit myself to designate the genus in honor of Mr. [Carl August] Carl Graf v
 
 The above-mentioned colony, everywhere broken off at the margins, has, if it can be obtained, a length of 1.44 mm, a width of 0.88 mm. The diameter of the little stars is 0.04 to 0.08 mm. The diameter of the recessed furrows radiating from the center is 0.003 to 0.006 mm. The petrification material displays the same smalt-blue color as in _Urania salve_. — This unique piece is in a cut from the fall of Knyahinya.
 
-## IV. _Crinoidea_.
+## 4. _Crinoidea_.
 
 Our dear friend Dr. Hahn, in Tables 16 thru 30 of his meteorite work, believed that he had to place, for the time being, a large number of forms into this base class of echinoderms. After a more detailed study of their organization, as far as they can be deciphered, we found a number of them more related to the polycistines and sponges, or rather foraminifera. However, there remains a number of forms, which we want to provisionally place with the above animal class, since they cannot be assigned to any other animal type known to us without force and, at least, have certain structural characteristics in common with the crinoids.
 
