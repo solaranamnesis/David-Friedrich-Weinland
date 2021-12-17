@@ -91,7 +91,7 @@ This form, already depicted by Hahn (see above), comes from the meteorite fall o
 ## 2. Sponges and Foraminifera  
 ### Family: Uranidae. _Nobis_.  
 
-A highly characteristic meteorite type of a lower animal form that occurs very frequently in a wide variety of meteorite falls and, because within the excellent additional cuts we located the finest meteorite form of all — hardly exempting _Hahnia_ (see below) — can be studied. The same cannot be closely associated with any of the terrestrial animal forms known to us. Whether sponge, whether foraminifera, this question will be difficult to decide, as is well known in some cases of terrestrial fossil forms. Perhaps we are dealing here with an intermediate form.
+A highly characteristic meteorite type of a lower animal form that occurs very frequently in a wide variety of meteorite falls and, since we located this finest of all meteorite forms — hardly exempting _Hahnia_ (see below) — within the excellent additional cuts, can be studied. The same cannot be closely associated with any of the terrestrial animal forms known to us. Whether sponge, whether foraminifera, this question will be difficult to decide, as is well known in some cases of terrestrial fossil forms. Perhaps we are dealing here with an intermediate form.
 
 They are sessile, cushion-shaped colonies with a fine porous lamellar cortex layer and crude, likewise lamellar, lacunae or chambers forming the internal skeleton.
 
