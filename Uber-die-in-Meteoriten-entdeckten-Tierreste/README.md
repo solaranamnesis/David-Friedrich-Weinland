@@ -7,4 +7,4 @@ Attempt at a translation of Dr. David Friedrich Weinland's 1882 work: "Ueber die
 [English - Plain Text](full-text-english.md)  
 [English - PDF](https://cdn.solaranamnesis.com/DFWeinland/david_weinland_about_remains_english_PDFlaTex.pdf)  
 [German - Plain Text](full-text-german.md)  
-[German - PDF](https://cdn.solaranamnesis.com/DFWeinland/david_weinland_about_remains_german_PDFlaTex.pdf)  
+[German - PDF](https://cdn.solaranamnesis.com/DFWeinland/david_weinland_about_remains_german_PDFlaTex.pdf) | [Fraktur](https://cdn.solaranamnesis.com/DFWeinland/david_weinland_about_remains_german-frak.pdf) | [Schwabacher](https://cdn.solaranamnesis.com/DFWeinland/david_weinland_about_remains_german-swab.pdf)  
