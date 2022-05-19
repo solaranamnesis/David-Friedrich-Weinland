@@ -11,8 +11,26 @@
 \graphicspath{ {./} }
 \usepackage{float}
 \usepackage{microtype}
+\usepackage[titles]{tocloft}
 \begin{document}
 \swabfamily
+\renewcommand{\contentsname}{
+\swabfamily{Inhaltsverzeichnis}
+}
+% fix toc page numbers
+\let\origcftsecfont\cft
+\let\origcftsecpagefont\cftsecpagefont
+\let\origcftsecafterpnum\cftsecafterpnum
+\renewcommand{\cftsecpagefont}{\swabfamily{\origcftsecpagefont}}
+\renewcommand{\cftsecafterpnum}{\swabfamily{\origcftsecafterpnum}}
+\let\origcftsubsecpagefont\cftsubsecpagefont
+\let\origcftsubsecafterpnum\cftsubsecafterpnum
+\renewcommand{\cftsubsecpagefont}{\swabfamily{\origcftsubsecpagefont}}
+\renewcommand{\cftsubsecafterpnum}{\swabfamily{\origcftsubsecafterpnum}}
+\let\origcftsubsubsecpagefont\cftsubsubsecpagefont
+\let\origcftsubsubsecafterpnum\cftsubsubsecafterpnum
+\renewcommand{\cftsubsubsecpagefont}{\swabfamily{\origcftsubsubsecpagefont}}
+\renewcommand{\cftsubsubsecafterpnum}{\swabfamily{\origcftsubsubsecafterpnum}}
 \begin{titlepage} % Suppresses headers and footers on the title page
 	\centering % Centre everything on the title page
 	\scshape % Use small caps for all text on the title page
@@ -26,11 +44,11 @@
 	
 	\vspace{1.5\baselineskip} % Whitespace above the title
 	
-	{\LARGE "Uber die in Meteoriten}
+	{\Huge "Uber die in Meteoriten}
 	
 	\vspace{1.2\baselineskip}
 	
-	{\LARGE entdeckten Tierreste}
+	{\Huge entdeckten Tierreste}
 	
 	\vspace{1\baselineskip} % Whitespace above the title
 
@@ -43,11 +61,11 @@
 	%	Subtitle
 	%------------------------------------------------
 	
-	{Dr. David Friedrich Weinland} % Subtitle or further description
+	{\Large Dr. David Friedrich Weinland} % Subtitle or further description
 	
 	\vspace*{1\baselineskip} % Whitespace under the subtitle
 	
-    {\small In Kommission bei G. Fr"ohner, mit zwei Holzschnitten\\ Esslingen am Neckar 1882} % Subtitle or further description
+    {\normalsize In Kommission bei G. Fr"ohner, mit zwei Holzschnitten\\ Esslingen am Neckar 1882} % Subtitle or further description
     
 	%------------------------------------------------
 	%	Editor(s)
@@ -64,6 +82,10 @@
 \clearpage
 \tableofcontents
 \clearpage
+\LARGE
+\pagestyle{fancy}
+\fancyhf{}
+\cfoot{\swabfamily{\thepage}}
 \section*{\swabfamily{Einleitung}}
 \paragraph{}
 Kurz von Neujahr 1881 hat Herr Dr. O. Hahn in Reutlingen, von Beruf Jurist, dabei aber trefflicher Mineraloge und ge"ubter Mikroskopiker, ein Werk: \emph{Die Meteorite (Chondrite) und ihre Organismen} mit 32 Tafeln photographischer Abbildungen (T"ubingen. H. Laupp) erscheinen lassen, in welchem er den Beweis unternimmt, dass die Meteoriten, besonders speziell die sogenannten Chondrit-Meteoriten, organische Gebilde enthalten, welche er, ohne eine n"ahere, systematisch zoologische Deutung zu versuchen, im Allgemeinen zu den Schw"ammen, Korallen und Crinoiden stellte.
