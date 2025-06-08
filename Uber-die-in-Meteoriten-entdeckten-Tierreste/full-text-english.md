@@ -47,7 +47,7 @@ We will now try to briefly characterize some of the most notable genera and spec
 ## 1. "Little Grated Creatures," Polycystina.  
 ### 1. _Phormiscus_. Nov. gen.  
 
-(_φορμισxος_ = "little reed basket")  
+(_φορμισκος_ = "little reed basket")  
 
 Faceted spheres, consisting of glass-clear silica spicules that lay one on top of the other at regular angles like a rush-basket. The spicules are hollow, often furnished with clearly defined longitudinal cavities. Here:
 
@@ -105,7 +105,7 @@ This is what we wish to call them, for they are the first greetings of organic f
 
 ### 2. _Pectiscus_. Nov. gen.
 
-(πηxτὁς = "combed")
+(πηκτὁς = "combed")
 
 Lobate, probably with wide sessile base colonies. They belong to the same family as _Urania_, to the Uranidae. But the cortex layer here is different, coarse, comb-like, _i.e._ formed as stronger more or less radially emanating ribs (lamellae), often reminiscent of the septa of certain coral forms, such as _Fungia_. But the inner structure, however, as we have in several quite excellent cuts before us (see Figure 1 [magnified 80 times]), consists, as in _Urania_, of a lamellar, chamber-forming tissue that has nothing to do with coral structure. There are a number of species, some of which are apparently quite large, however in the latter only the coarse, inner, chambered mesh-tissue is preserved.
 
@@ -125,7 +125,7 @@ A smaller form with even coarser slats.
 
 ### 3. _Callaion_. Nov. gen.
 
-(xάλλαιον = "cockscomb")
+(κάλλαιον = "cockscomb")
 
 One of the most remarkable and beautiful constructions in our meteorite fauna. A fine form, like some sinuate cockscombs, reminiscent of some corals (_Fungia_, _Herpetolithus_) in its striking habitus, but in accordance with the microscopic construction of its cortex layer it might belong with the Uranidae. The thin, outermost layer of the cortex is just as delicately blue-grey, velvety, and even finely striped, as in _Urania_. In most cuts the raised combs that separate the concavities of the colony from each other, as well as in a fine longitudinal cut in which one can recognize these slight depressions, lie beneath the grey cortex tissue composed of parallel or slightly radiating, very regular lamellae, passing through oblique straps connected to each other and located in the innermost structure that, as we know from _Urania_ and _Pectiscus_, unfortunately does not show in the best preserved unique specimens, since nowhere does the cut penetrate deep enough. — In this form we are most vividly reminded of the cross-section of _Carpenteria rhaphidodendron_, a foraminifera of Mauritius, provided by [Karl August] Möbius in his beautiful treatise on the _Eozoön canadense_ (_Palaeontology XXV_, Table 40 Figure 60).
 
@@ -157,7 +157,7 @@ We would like to name the species in honor of the famous researcher of living sp
 
 ### 5. _Carydion_. Nov. gen.
 
-(xάρυον = "nut")
+(κάρυον = "nut")
 
 Glass-clear transparent, like most of these organisms, petrified silica formations that, on average, resemble a nut with a thick carapace and chambers inside. The chambers are created by thick girder constructions, the thick carapace being very porous.
 
@@ -222,7 +222,7 @@ Hahn's image [Table 1: Figure 5](https://cdn.solaranamnesis.com/OttoHahn/figures
 
 ### 2. _Calamiscus_. Nov. gen.
 
-(xαλαμίσxς = "little tubes")
+(καλαμίσκς = "little tubes")
 
 _Favosites_-like polyp colonies, consisting of regularly side by side parallel or slightly radial trending, usually glass-clear transparent tubes without longitudinal rails (septa) in the interior, but more or less regularly divided into levels by transverse walls or floors (tabulae) and quite frequently furnished with fine little perforations that mediate the vascular communication between the neighboring tubes. This perfect correspondence of the structure with that of many fossil _Favosites_ corals from the Devonian and Silurian formations of the Earth does not make us think of anything other than coral polyps, despite the smallness of the available meteoritic forms. Unfortunately, almost only side cuts are obtained because in this direction the polyp colonies break most easily. In the absence of satisfactory cross-sections, it becomes fairly difficult to distinguish the species of _Calamiscus_; it is left almost exclusively to this: the consistent width of the polyp tubes, the distance of the floors and vascular holes from each other, the horizontal or skewed direction of the floors, and so forth, are purely characteristics that vary quite a bit in one and the same species. — These entities are exceptionally common in the meteorites, especially in those of Knyahinya.
 
@@ -282,7 +282,7 @@ A very pretty and distinct object, but less successful in the photographic image
 
 ### 3. _Crobyliscus_. Nov. gen.
 
-(xρὠβυλος = "knot")
+(κρὠβυλος = "knot")
 
 On a clear one, made of polygonal, mostly hexagonal little plates forming a closed cavity above a number of cylindrical, plait-shaped, tapering towards the end, more massive (not hollow), arm-shaped appendages formed of angular little panes. Is it a crinoid and is that cavity the calyx of it? The fragment upon which we establish this genus is so far a unique piece, whose image we will include in our larger treatise.
 
