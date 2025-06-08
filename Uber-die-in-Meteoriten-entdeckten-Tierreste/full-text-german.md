@@ -49,7 +49,7 @@ Wir wollen es nun versuchen, einige der auffallendsten Gattungen und Arten kurz 
 ## I. Gittertierchen, Polycistina.  
 ### 1. _Phormiscus_. Nov. gen.  
 
-(_φορμισxος_ = Binsenkörbchen.)  
+(_φορμισκος_ = Binsenkörbchen.)  
 
 Facettirte Kugeln, bestehend aus glashellen Kieselnadeln, die wie Binsenkörbchen in regelmäßigen Winkeln übereinander gelegt sind. Die Nadeln sind hohl, oft deutlich mit Löchelchen in Längsreihen versehen. Hierher:  
 
@@ -99,7 +99,6 @@ Ein sehr charakteristischer Meteoritentypus von niederen Tierformen, der sehr h�
 
 Es sind festsitzende, kissenförmige Stöcke mit poröser und fein lamellöser Rindenschicht und einem gröberen, gleichfalls lamellösen, Lakunen oder Kammern bildenden inneren Skelett.
 
-
 #### 1. _Urania_, Hahn (_sensu stricto_.).
 
 Wir adoptieren in engerem Sinne den Gattungsnamen von Hahn, den derselbe schon in seinem Werke „Die Urzelle“, allerdings als Pflanzengattung, für eine sehr charakteristische Meteoritenform aufgestellt hat. Ich habe seitdem an einer Reihe von günstigen Durchschnitten diese interessanten, in den Meteoriten von Knyahinya besonders häufigen Formen studieren und zeichnen können, so dass ein Zweifel über ihre Tiernatur, die auch Hahn später in seinem Meteoritenwerk angenommen hat, nicht mehr bestehen kann. Es sind immer smalteblaue, kissenförmige, wegen der sehr feinen, zart gestrichelten, porösen Oberhaut samtartig anzusehende, wahrscheinlich auf Stielen festgewachsene Stöcke. Auf dem Querschnitt unterscheidet man sofort eine durchscheinende porösen Rindenschicht. Das ganze Innere des Kissens besteht aus einem ziemlich unregelmäßigen Maschengewebe, in welchem radiär von der Rinde nach dem Zentrum zu streichende Lamellenzüge deutlich werden, welche lakunenartige Hohlräume oder Kammern zwischen sich lassen.
@@ -110,7 +109,7 @@ So wollen wir sie nennen, denn es war der erste Gruß einer organischen Form aus
 
 #### 2. _Pectiscus_. Nov. gen.  
 
-(_πηxτὁς_ = gekämmt.)  
+(_πηκτὁς_ = gekämmt.)  
 
 Lappige, wahrscheinlich mit breiter Basis festsitzende Stöcke. Gehören zu derselben Familie wie _Urania_, zu den Uranidae. Aber die Rindenschicht ist hier eine andere, gröbere, wie gekämmt, d. h. in stärkeren, mehr oder weniger radiär ausstrahlenden Rippen (Lamellen) gebildet, die oft an die Septa gewisser Korallenformen, z. B. der _Fungia_, erinnern. Der innere Bau aber, von dem wir mehrere ganz vortreffliche Durchschnitte vor uns haben (siehe Fig. 1 [80-mal vergrössert]), besteht ähnlich wie bei _Urania_ aus einem lamellösen, Kammern bildenden Gewebe, das nichts mit der Korallenstruktur zu tun hat. Es gibt eine Reihe von Arten, zum Teil offenbar sehr große, von welchen letzteren aber meist nur das grobe, innere, gekammerte Maschengewebe erhalten ist.
 
@@ -130,7 +129,7 @@ Eine kleinere Form mit noch gröberen Leisten.
 
 #### 3. _Callaion_. Nov. gen.  
 
-(xάλλαιον = Hahnenkamm.)  
+(κάλλαιον = Hahnenkamm.)  
 
 Eines der auffallendsten und schönsten Gebilde in unserer Meteoritenfauna. Eine feine, wie manche Hahnenkämme gebuchtete Form, die in ihrem auffallenden Habitus an manche Korallen (Fungia, Herpetolithus) erinnert, aber nach dem mikroskopischen Bau ihrer Rindenschichte doch wohl auch zu den Uraniden gehört. Die dünne, äußerste Rindenschicht ist eben so zart bläulichgrau, samtartig, dabei aufs Feinste gestreift, wie bei _Urania_. Auf dem Durchschnitt der erhabenen Kämme, die die Buchten des Stockes von einander scheiden, und ebenso an einem feinen Längsschliff erkennt man das nächsttiefere, unter der grauen Rinde liegende Gewebe als aus lauter parallelen oder etwas strahlig auseinander laufenden, sehr regelmäßigen Lamellen zusammengesetzt, die durch schiefe Brücken mit einander verbunden sind Der innerste Bau, wie wir ihn von _Urania_ und _Pectiscus_ kennen, tritt leider an dem besterhaltenen Unikum nirgends zu Tage, da der Schliff nirgends tief genug eingedrungen. — Wir wurden bei dieser Form aufs Lebhafteste an den Querschliff von _Carpenteria rhaphidodendron_, [Karl August] Möbius, einer Foraminifere von Mauritius, erinnert, den derselbe in seiner schönen Abhandlung über das Eozoon Canadense (Palaeontogr. XXV, Taf. 40 Fig. 60) gegeben.
 
@@ -162,7 +161,7 @@ Wir erlauben uns die Art zu Ehren des berühmten Erforschers der lebenden Schwä
 
 #### 5. _Carydion_. Nov. gen.  
 
-(xάρυον = Nuss.)  
+(κάρυον = Nuss.)  
 
 Glashell durchsichtige, wie die meisten dieser Organismen, in Kieselerde versteinerte Gebilde, die auf dem Durchschnitt ganz einer Nuss mit dicker Schale und Kammern im Inneren gleichen. Die Kammern sind durch ein dickes Balkenwerk hervorgebracht, die dicke Schale ist sehr porös.
 
@@ -228,7 +227,7 @@ Hahn's Abbildung [Taf. 1 f. 5](https://cdn.solaranamnesis.com/OttoHahn/figures/m
 
 ### 2. _Calamiscus_. Nov. gen.  
 
-(xαλαμίσxς = Röhrchen.)  
+(καλαμίσκς = Röhrchen.)  
 
 Favositenartige Polypenstöcke, bestehend aus regelmäßig parallel nebeneinander oder auch etwas radiär verlaufenden, meist glashell durchsichtigen Röhren ohne Längsleisten (Septa) im Innern, aber mehr oder weniger regelmäßig durch Querscheidewände oder Böden (Tabulae) in Etagen geteilt und oft sehr regelmäßig mit feinen Löchelchen, die die Gefässcommunication zwischen den benachbarten Röhren vermitteln, ausgestattet. Diese vollkommene Übereinstimmung der Struktur mit der vieler fossiler Favositkorallen aus der Devon- und Silur- Formation der Erde lässt uns trotz der Kleinheit der vorliegenden meteoritischen Formen nicht wohl an etwas Anderes denken, als an Korallenpolypen. Leider sind fast nur Seitenschliffe erhalten, weil in dieser Richtung die Polypenstöcke am leichtesten zerbrechen. Bei dem Mangel befriedigender Querschliffe wird eine Unterscheidung der Arten von Calamiscus sehr schwer; es bleibt dazu fast nur übrig: die durchgängige Weite der Polypenröhren, die Distanz der Böden und der Gefäßlöcher von einander, die waagerechte oder schiefe Richtung der Böden u. dgl., lauter Merkmale, die auch bei einer und derselben Art schon ziemlich variieren. — Diese Gebilde sind außerordentlich häufig in den Meteoriten, besonders in denen von Knyahinya.
 
@@ -288,7 +287,7 @@ Ein sehr hübsches und deutliches, in dem photographischen Bilde aber weniger ge
 
 ### 3. _Crobyliscus_. Nov. gen.  
 
-(xρὠβυλος = Zopf.)  
+(κρὠβυλος = Zopf.)  
 
 An einen deutlich aus vieleckigen, meist sechseckigen Plättchen gebildeten Hohlraum schließen sich oben Anzahl zylindrischer, zopfförmiger, sich nach dem Ende zu verjüngender, massiver (nicht hohler), aus eckigen Scheibchen gebildeter, armförmiger Anhänge an. Ist es ein Crinoid und ist jener Hohlraum der Kelch desselben? Das Fragment, auf das wir diese Gattung begründen, ist bis jetzt ein Unikum, dessen Bild wir in unser größeren Abhandlung bringen werden.
 
