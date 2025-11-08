@@ -15,5 +15,5 @@ Attempt at a translation of Dr. David Friedrich Weinland's 1882 work: "Ueber die
 
 English - Plain Text  
 English - PDF  
-German - Plain Text  
+[German - Plain Text (at projekt-gutenberg.org)](https://www.projekt-gutenberg.org/weinland/rulaman/rulaman.html)  
 German - PDF | Fraktur | Schwabacher  
